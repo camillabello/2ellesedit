@@ -1,0 +1,596 @@
+:root {
+  --color-bg: #faf8f5;
+  --color-surface: #ffffff;
+  --color-ink: #17151a;
+  --color-ink-soft: #4a4650;
+  --color-line: #e4dfd6;
+  /* #c2331e (não o coral mais vibrante #e1432c) — o mais claro falha
+     contraste WCAG AA (3.93:1) nas tags pequenas dos cards; este passa
+     (5.23:1) mantendo a mesma família de cor. */
+  --color-accent: #c2331e;
+  --color-accent-light: #ffb199;
+  --color-chip-bg: #f1efe9;
+  --color-chip-active-bg: #17151a;
+  --color-chip-active-ink: #faf8f5;
+  --font-display: "Fraunces", Georgia, "Times New Roman", serif;
+  --font-heading: "Archivo", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-body: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --max-width: 1240px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg: #121014;
+    --color-surface: #1c1a1f;
+    --color-ink: #f3f0ea;
+    --color-ink-soft: #b3aeb8;
+    --color-line: #322e35;
+    --color-accent: #ff6b52;
+    --color-accent-light: #ff9f89;
+    --color-chip-bg: #221f25;
+    --color-chip-active-bg: #f3f0ea;
+    --color-chip-active-ink: #121014;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-ink);
+  font-family: var(--font-body);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+button {
+  font: inherit;
+}
+
+/* ---------- Header / masthead ---------- */
+
+.site-header {
+  border-bottom: 1px solid var(--color-line);
+  background: var(--color-surface);
+}
+
+.header-top {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 1.75rem 1.5rem 1.25rem;
+  text-align: center;
+}
+
+.site-date {
+  display: block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--color-ink-soft);
+  margin-bottom: 0.7rem;
+}
+
+.site-title {
+  font-family: var(--font-display);
+  font-weight: 900;
+  font-style: italic;
+  font-size: clamp(2.4rem, 7vw, 4rem);
+  letter-spacing: -0.01em;
+  margin: 0;
+}
+
+.site-tagline {
+  margin: 0.6rem auto 0;
+  max-width: 620px;
+  font-size: 0.92rem;
+  color: var(--color-ink-soft);
+}
+
+.section-nav {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+  padding: 0 1.5rem;
+  border-top: 1px solid var(--color-line);
+}
+
+.section-nav a {
+  font-family: var(--font-heading);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--color-ink-soft);
+  padding: 0.9rem 1rem;
+  transition: color 0.15s ease;
+}
+
+.section-nav a:hover {
+  color: var(--color-accent);
+}
+
+/* ---------- Scope filter (chips) ---------- */
+
+.scope-filter {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 1rem 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.chip {
+  font-family: var(--font-body);
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 0.4rem 0.9rem;
+  border-radius: 999px;
+  border: 1px solid var(--color-line);
+  background: var(--color-chip-bg);
+  color: var(--color-ink-soft);
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease;
+  white-space: nowrap;
+}
+
+.chip:hover {
+  border-color: var(--color-accent);
+}
+
+.chip.is-active {
+  background: var(--color-chip-active-bg);
+  color: var(--color-chip-active-ink);
+  border-color: var(--color-chip-active-bg);
+}
+
+/* ---------- Main layout ---------- */
+
+main {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 1.5rem 3rem;
+}
+
+.state-message {
+  text-align: center;
+  color: var(--color-ink-soft);
+  padding: 4rem 1rem;
+  font-style: italic;
+}
+
+.state-message code {
+  font-style: normal;
+  background: var(--color-chip-bg);
+  padding: 0.1rem 0.4rem;
+  border-radius: 3px;
+}
+
+/* ---------- Hero (manchete do dia) ---------- */
+
+.hero {
+  margin: 1.5rem 0 0.5rem;
+}
+
+.hero-link {
+  position: relative;
+  display: block;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.hero-link img {
+  width: 100%;
+  height: min(56vh, 520px);
+  object-fit: cover;
+  object-position: top center;
+  transition: transform 0.5s ease;
+}
+
+.hero-link:hover img {
+  transform: scale(1.03);
+}
+
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(8, 6, 9, 0.9) 0%, rgba(8, 6, 9, 0.3) 50%, transparent 82%);
+}
+
+.hero-content {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 2.25rem 2rem;
+  max-width: 780px;
+  color: #f7f4ef;
+}
+
+.hero-kicker {
+  font-family: var(--font-body);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--color-accent-light);
+}
+
+.hero-title {
+  font-family: var(--font-heading);
+  font-weight: 900;
+  font-size: clamp(1.7rem, 3.6vw, 2.75rem);
+  line-height: 1.1;
+  margin: 0.6rem 0 0.65rem;
+  letter-spacing: -0.01em;
+}
+
+.hero-excerpt {
+  font-size: 1rem;
+  opacity: 0.88;
+  margin: 0;
+  max-width: 620px;
+}
+
+/* ---------- Rail de editoria (carrossel horizontal) ---------- */
+
+.rail-section {
+  padding: 2.25rem 0;
+  border-bottom: 1px solid var(--color-line);
+}
+
+.rail-head {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1.15rem;
+}
+
+.rail-title {
+  font-family: var(--font-heading);
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: clamp(1.35rem, 2.6vw, 1.75rem);
+  letter-spacing: 0.01em;
+  margin: 0;
+  color: var(--color-ink);
+}
+
+.rail-desc {
+  margin: 0.3rem 0 0;
+  font-size: 0.82rem;
+  color: var(--color-ink-soft);
+}
+
+.rail-controls {
+  display: flex;
+  gap: 0.5rem;
+  flex-shrink: 0;
+}
+
+.rail-arrow {
+  width: 2.3rem;
+  height: 2.3rem;
+  border-radius: 50%;
+  border: 1px solid var(--color-line);
+  background: var(--color-surface);
+  color: var(--color-ink);
+  cursor: pointer;
+  font-size: 1.1rem;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+}
+
+.rail-arrow:hover {
+  background: var(--color-ink);
+  color: var(--color-bg);
+  border-color: var(--color-ink);
+}
+
+.rail-arrow:disabled {
+  opacity: 0.3;
+  cursor: default;
+}
+
+.rail-arrow:disabled:hover {
+  background: var(--color-surface);
+  color: var(--color-ink);
+  border-color: var(--color-line);
+}
+
+.rail-track {
+  display: flex;
+  gap: 1rem;
+  overflow-x: auto;
+  scroll-snap-type: x proximity;
+  scroll-behavior: smooth;
+  padding-bottom: 0.25rem;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+}
+
+.rail-track::-webkit-scrollbar {
+  display: none;
+}
+
+/* ---------- Cards do carrossel ---------- */
+
+.rail-card {
+  flex: 0 0 250px;
+  scroll-snap-align: start;
+}
+
+.rail-card-photo {
+  position: relative;
+  display: block;
+  aspect-ratio: 4 / 5;
+  border-radius: 10px;
+  overflow: hidden;
+  background: var(--color-chip-bg);
+}
+
+.rail-card-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+  transition: transform 0.4s ease;
+}
+
+.rail-card-photo:hover img {
+  transform: scale(1.05);
+}
+
+.rail-card-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(8, 6, 9, 0.92) 0%, rgba(8, 6, 9, 0.25) 48%, transparent 75%);
+}
+
+.rail-card-content {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 0.9rem;
+  color: #f7f4ef;
+}
+
+.rail-card-photo .rail-card-tag {
+  color: var(--color-accent-light);
+}
+
+.rail-card-photo .rail-card-title {
+  color: #f7f4ef;
+}
+
+.rail-card-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  aspect-ratio: 4 / 5;
+  border-radius: 10px;
+  padding: 1rem;
+  background: var(--color-chip-bg);
+  border: 1px solid var(--color-line);
+}
+
+.rail-card-tag {
+  display: block;
+  font-family: var(--font-body);
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-accent);
+}
+
+.rail-card-title {
+  font-family: var(--font-heading);
+  font-weight: 800;
+  font-size: 1rem;
+  line-height: 1.25;
+  margin: 0.4rem 0 0;
+  color: var(--color-ink);
+}
+
+.rail-card-time {
+  display: block;
+  font-size: 0.7rem;
+  color: var(--color-ink-soft);
+  margin-top: 0.6rem;
+}
+
+.rail-card-photo .rail-card-time {
+  color: rgba(247, 244, 239, 0.75);
+}
+
+/* ---------- Bloco do blog autoral (visual distinto) ---------- */
+
+.rail-section.is-curadoria {
+  background: var(--color-ink);
+  border: none;
+  border-radius: 14px;
+  padding: 2rem 1.75rem;
+  margin: 0.5rem 0 2rem;
+}
+
+.rail-section.is-curadoria .byline-badge {
+  display: inline-block;
+  font-size: 0.66rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  /* Fixo (não usa --color-accent, que no modo escuro fica claro demais
+     pra texto branco em cima — 2.81:1, abaixo do mínimo WCAG AA). */
+  background: #a82714;
+  color: #fff;
+  padding: 0.3rem 0.7rem;
+  border-radius: 999px;
+  margin-bottom: 0.6rem;
+}
+
+.rail-section.is-curadoria .rail-title {
+  color: var(--color-bg);
+}
+
+.rail-section.is-curadoria .rail-desc {
+  color: rgba(250, 248, 245, 0.65);
+}
+
+.rail-section.is-curadoria .rail-arrow {
+  background: transparent;
+  border-color: rgba(255, 255, 255, 0.25);
+  color: var(--color-bg);
+}
+
+.rail-section.is-curadoria .rail-arrow:hover {
+  background: var(--color-bg);
+  color: var(--color-ink);
+}
+
+.rail-section.is-curadoria .rail-card-text {
+  background: rgba(255, 255, 255, 0.06);
+  border-color: rgba(255, 255, 255, 0.14);
+}
+
+.rail-section.is-curadoria .rail-card-text .rail-card-title {
+  color: var(--color-bg);
+}
+
+.rail-section.is-curadoria .rail-card-text .rail-card-time {
+  color: rgba(250, 248, 245, 0.55);
+}
+
+/* ---------- Em Alta (curadoria, capa do dia) ---------- */
+
+.rail-section.is-em-alta {
+  border-top: 3px solid var(--color-accent);
+  padding-top: 1.75rem;
+}
+
+.rail-section.is-em-alta .rail-title {
+  font-size: clamp(1.5rem, 2.8vw, 1.9rem);
+}
+
+/* ---------- Mais Lidas (ranking real, só quando houver dados) ---------- */
+
+.mais-lidas {
+  padding: 2.25rem 0 1rem;
+}
+
+.mais-lidas-list {
+  list-style: none;
+  counter-reset: mais-lidas;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0;
+  border-top: 1px solid var(--color-line);
+}
+
+@media (min-width: 700px) {
+  .mais-lidas-list {
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 2rem;
+  }
+}
+
+.mais-lidas-list li {
+  counter-increment: mais-lidas;
+  border-bottom: 1px solid var(--color-line);
+}
+
+.mais-lidas-list li a {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  padding: 0.85rem 0;
+}
+
+.mais-lidas-list li a::before {
+  content: counter(mais-lidas);
+  font-family: var(--font-heading);
+  font-weight: 900;
+  font-size: 1.1rem;
+  color: var(--color-accent);
+  flex-shrink: 0;
+  width: 1.4rem;
+}
+
+.mais-lidas-source {
+  font-size: 0.66rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--color-ink-soft);
+  display: block;
+}
+
+.mais-lidas-title {
+  font-size: 0.92rem;
+  font-weight: 600;
+}
+
+/* ---------- Footer ---------- */
+
+.site-footer {
+  border-top: 1px solid var(--color-line);
+  text-align: center;
+  padding: 1.75rem 1.5rem;
+  font-size: 0.78rem;
+  color: var(--color-ink-soft);
+}
+
+/* ---------- Responsive ---------- */
+
+@media (max-width: 640px) {
+  .rail-controls {
+    display: none;
+  }
+
+  .rail-card {
+    flex-basis: 68vw;
+  }
+
+  .section-nav a {
+    padding: 0.75rem 0.6rem;
+    font-size: 0.72rem;
+  }
+
+  .hero-content {
+    padding: 1.5rem 1.25rem;
+  }
+
+  .rail-section.is-curadoria {
+    padding: 1.5rem 1.25rem;
+  }
+}

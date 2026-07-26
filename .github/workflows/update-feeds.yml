@@ -1,0 +1,40 @@
+name: Atualizar manchetes (RSS)
+
+on:
+  schedule:
+    # A cada 3 horas. Os horários no cron do GitHub Actions são em UTC.
+    - cron: "0 */3 * * *"
+  workflow_dispatch: {} # permite rodar manualmente na aba Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Buscar e classificar feeds
+        run: python3 scripts/fetch_feeds.py
+
+      - name: Gerar HTML estático (SSR)
+        run: python3 scripts/generate_site.py
+
+      - name: Commitar se algo mudou
+        run: |
+          git config user.name "trend-wire-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if ! git diff --quiet -- data/articles.json data/em-alta.json index.html; then
+            git add data/articles.json data/em-alta.json index.html
+            git commit -m "chore: atualiza manchetes ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+          else
+            echo "Nada novo para commitar."
+          fi

@@ -1,0 +1,55 @@
+{
+  "note": "Conteúdo ILUSTRATIVO para visualizar o layout dos pilares de curadoria (Inspiração/Descobertas). Isso NÃO é o blog autoral (matérias escritas por nós) — é seleção/curadoria da redação sobre coisas de terceiros. O blog autoral de verdade fica para uma etapa futura separada.",
+  "posts": [
+    {
+      "id": "blog1",
+      "pillar": "inspiracao",
+      "source": "Redação",
+      "title": "A campanha da Loewe que parece um quadro renascentista",
+      "image": "https://picsum.photos/seed/blog-inspiracao-1/1200/800",
+      "link": "#",
+      "pubDate": "2026-07-26T13:00:00-03:00"
+    },
+    {
+      "id": "blog2",
+      "pillar": "inspiracao",
+      "source": "Redação",
+      "title": "A embalagem minimalista que virou objeto de desejo antes do perfume",
+      "link": "#",
+      "pubDate": "2026-07-25T10:00:00-03:00"
+    },
+    {
+      "id": "blog3",
+      "pillar": "inspiracao",
+      "source": "Redação",
+      "title": "Direção de arte: a vitrine parisiense que parou o Instagram essa semana",
+      "link": "#",
+      "pubDate": "2026-07-24T09:00:00-03:00"
+    },
+    {
+      "id": "blog4",
+      "pillar": "descobertas",
+      "source": "Redação",
+      "title": "Hoje descobrimos: uma ceramista brasileira fazendo peças para ateliês europeus",
+      "image": "https://picsum.photos/seed/blog-descobertas-1/1200/800",
+      "link": "#",
+      "pubDate": "2026-07-26T11:00:00-03:00"
+    },
+    {
+      "id": "blog5",
+      "pillar": "descobertas",
+      "source": "Redação",
+      "title": "Uma perfumaria escondida em Paris que não faz propaganda — e não precisa",
+      "link": "#",
+      "pubDate": "2026-07-25T15:00:00-03:00"
+    },
+    {
+      "id": "blog6",
+      "pillar": "descobertas",
+      "source": "Redação",
+      "title": "O hotel de 6 quartos em Lisboa que virou point de quem trabalha com moda",
+      "link": "#",
+      "pubDate": "2026-07-24T14:00:00-03:00"
+    }
+  ]
+}
