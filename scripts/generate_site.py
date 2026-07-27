@@ -89,6 +89,48 @@ EDIT_FEATURED = [
         "image": "images/2elles-edit/influenciadora-fazendo-publi-em-loja-de-beleza.jpg",
         "link": "2elles-edit/futuro-das-publis.html",
     },
+    {
+        "title": "O que é Quiet Luxury",
+        "section": "Dossiê",
+        "read_time": "6 min de leitura",
+        "image": "images/2elles-edit/bastidores-desfile-alta-costura-quadro-de-casting.jpg",
+        "link": "2elles-edit/o-que-e-quiet-luxury.html",
+    },
+    {
+        "title": "Como funciona a Haute Couture de verdade",
+        "section": "Dossiê",
+        "read_time": "6 min de leitura",
+        "image": "images/2elles-edit/vitrine-de-atelie-com-vestidos-brancos-de-alta-costura.jpg",
+        "link": "2elles-edit/como-funciona-a-haute-couture.html",
+    },
+    {
+        "title": "Old Money vs. Quiet Luxury: qual a diferença real",
+        "section": "Dossiê",
+        "read_time": "5 min de leitura",
+        "image": "images/2elles-edit/acessorios-vintage-estilo-old-money-com-oculos-e-perolas.jpg",
+        "link": "2elles-edit/old-money-vs-quiet-luxury.html",
+    },
+    {
+        "title": "Clean Beauty: o que significa de verdade",
+        "section": "Dossiê",
+        "read_time": "5 min de leitura",
+        "image": "images/2elles-edit/sombra-de-maos-aplicando-serum-com-conta-gotas.jpg",
+        "link": "2elles-edit/o-que-e-clean-beauty.html",
+    },
+    {
+        "title": "Cruelty-free e vegano não são a mesma coisa",
+        "section": "Dossiê",
+        "read_time": "4 min de leitura",
+        "image": "images/2elles-edit/necessaire-com-produtos-de-beleza-e-skincare.jpg",
+        "link": "2elles-edit/cruelty-free-vs-vegano.html",
+    },
+    {
+        "title": "A história da Glossier",
+        "section": "Dossiê",
+        "read_time": "6 min de leitura",
+        "image": "images/2elles-edit/produtos-glossier-organizados-em-prateleira-de-banheiro.jpg",
+        "link": "2elles-edit/historia-da-glossier.html",
+    },
 ]
 
 EDIT_BADGE = "2 Élles Edit"
