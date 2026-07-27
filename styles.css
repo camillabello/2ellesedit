@@ -168,6 +168,14 @@ button {
   color: var(--color-accent);
 }
 
+.section-nav a.nav-2elles {
+  color: var(--color-accent-badge);
+}
+
+.section-nav a.nav-2elles:hover {
+  color: var(--color-accent);
+}
+
 /* ---------- Scope filter (chips) ---------- */
 
 .scope-filter {

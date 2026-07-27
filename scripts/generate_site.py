@@ -222,7 +222,7 @@ def render_mais_lidas(items):
 def render_section_nav():
     links = [f'<a href="#em-alta">Em Alta</a>']
     links += [f'<a href="#{ed["key"]}">{esc(ed["label"])}</a>' for ed in EDITORIALS]
-    links.append('<a href="2elles-edit.html">2 Élles Edit</a>')
+    links.append('<a href="2elles-edit.html" class="nav-2elles">2 Élles Edit</a>')
     return "".join(links)
 
 
