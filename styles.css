@@ -4,17 +4,22 @@
   --color-ink: #17151a;
   --color-ink-soft: #4a4650;
   --color-line: #e4dfd6;
-  /* #c2331e (não o coral mais vibrante #e1432c) — o mais claro falha
-     contraste WCAG AA (3.93:1) nas tags pequenas dos cards; este passa
-     (5.23:1) mantendo a mesma família de cor. */
-  --color-accent: #c2331e;
+  /* #B04A2A — coral da nova marca (PickYourFeed.co). O tom "puro" do
+     logo (#D8603E) falha contraste WCAG AA (3.5:1) em texto pequeno;
+     este passa (5.13:1) mantendo a mesma família de cor. */
+  --color-accent: #B04A2A;
   --color-accent-light: #ffb199;
+  /* Fixo, não muda com o tema — usado em selos/pílulas com texto branco
+     (ex.: .co da marca), onde o tom claro/escuro do accent não garante
+     contraste suficiente sozinho. */
+  --color-accent-badge: #8A3A1E;
   --color-chip-bg: #f1efe9;
   --color-chip-active-bg: #17151a;
   --color-chip-active-ink: #faf8f5;
   --font-display: "Fraunces", Georgia, "Times New Roman", serif;
   --font-heading: "Archivo", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   --font-body: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-logo: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   --max-width: 1240px;
 }
 
@@ -25,7 +30,7 @@
     --color-ink: #f3f0ea;
     --color-ink-soft: #b3aeb8;
     --color-line: #322e35;
-    --color-accent: #ff6b52;
+    --color-accent: #F0916D;
     --color-accent-light: #ff9f89;
     --color-chip-bg: #221f25;
     --color-chip-active-bg: #f3f0ea;
@@ -90,12 +95,43 @@ button {
 }
 
 .site-title {
-  font-family: var(--font-display);
-  font-weight: 900;
-  font-style: italic;
-  font-size: clamp(2.4rem, 7vw, 4rem);
+  font-family: var(--font-logo);
+  font-weight: 700;
+  font-style: normal;
+  text-transform: lowercase;
+  font-size: clamp(1.9rem, 6vw, 2.8rem);
   letter-spacing: -0.01em;
   margin: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.site-title .o-accent {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 0.62em;
+  height: 0.62em;
+  border-radius: 50%;
+  background: var(--color-accent);
+  color: transparent;
+  overflow: hidden;
+  vertical-align: -0.02em;
+}
+
+.site-title .co-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--color-accent-badge);
+  color: #fff;
+  font-size: 0.42em;
+  letter-spacing: 0.02em;
+  padding: 0.3em 0.6em;
+  border-radius: 999px;
+  margin-left: 0.3em;
+  vertical-align: 0.2em;
 }
 
 .site-tagline {
@@ -449,8 +485,8 @@ main {
   letter-spacing: 0.08em;
   text-transform: uppercase;
   /* Fixo (não usa --color-accent, que no modo escuro fica claro demais
-     pra texto branco em cima — 2.81:1, abaixo do mínimo WCAG AA). */
-  background: #a82714;
+     pra texto branco em cima). Mesmo tom fixo usado no selo ".co" da marca. */
+  background: var(--color-accent-badge);
   color: #fff;
   padding: 0.3rem 0.7rem;
   border-radius: 999px;
