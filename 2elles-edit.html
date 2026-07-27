@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>2 Élles Edit — o que vale entender melhor | PickYourFeed</title>
+    <meta
+      name="description"
+      content="2 Élles Edit: a editoria de conteúdo autoral do PickYourFeed. Contexto, dossiês, radar, arquivo e seleções — para quem quer entender, não só saber."
+    />
+    <link rel="canonical" href="https://pickyourfeed.co/2elles-edit.html" />
+    <meta name="robots" content="index, follow" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Archivo:wght@700;800;900&family=Fraunces:ital,wght@0,600;0,900;1,600&family=Poppins:wght@700&family=Caveat:wght@600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2317151a'/%3E%3Ccircle cx='32' cy='34' r='7' fill='%23B04A2A'/%3E%3Ctext x='14' y='44' font-family='Arial,Helvetica,sans-serif' font-size='30' font-weight='700' fill='%23faf8f5'%3Ep%3C/text%3E%3Ctext x='50' y='44' font-family='Arial,Helvetica,sans-serif' font-size='30' font-weight='700' fill='%23faf8f5' text-anchor='end'%3Ef%3C/text%3E%3C/svg%3E"
+    />
+
+    <style>
+      /* ---- Página 2 Élles Edit: regras próprias, o resto vem do styles.css ---- */
+
+      .edit-crumb {
+        max-width: var(--max-width);
+        margin: 0 auto;
+        padding: 1.1rem 1.5rem 0;
+      }
+      .edit-crumb a {
+        font-family: var(--font-body);
+        font-size: 0.78rem;
+        font-weight: 600;
+        color: var(--color-ink-soft);
+      }
+      .edit-crumb a:hover {
+        color: var(--color-accent);
+      }
+
+      .edit-masthead {
+        max-width: var(--max-width);
+        margin: 0 auto;
+        padding: 1.75rem 1.5rem 2.25rem;
+        text-align: center;
+        border-bottom: 1px solid var(--color-line);
+      }
+      .edit-kicker {
+        font-family: var(--font-body);
+        font-size: 0.7rem;
+        font-weight: 700;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+        color: var(--color-accent);
+      }
+      .edit-title {
+        font-family: var(--font-signature);
+        font-weight: 700;
+        font-style: normal;
+        font-size: clamp(2.8rem, 9vw, 4.4rem);
+        letter-spacing: 0;
+        margin: 0.3rem 0 0.5rem;
+      }
+      .edit-tagline {
+        font-family: var(--font-body);
+        font-size: 1rem;
+        color: var(--color-ink-soft);
+        max-width: 560px;
+        margin: 0 auto;
+        line-height: 1.6;
+      }
+      .edit-tagline strong {
+        color: var(--color-ink);
+      }
+      .edit-insta-link {
+        display: inline-block;
+        margin-top: 1rem;
+        font-family: var(--font-body);
+        font-size: 0.85rem;
+        font-weight: 700;
+        color: var(--color-accent);
+      }
+
+      .edit-main {
+        max-width: var(--max-width);
+        margin: 0 auto;
+        padding: 0 1.5rem 4rem;
+      }
+
+      .edit-section {
+        padding: 2.5rem 0;
+        border-bottom: 1px solid var(--color-line);
+      }
+      .edit-section:last-of-type {
+        border-bottom: none;
+      }
+      .edit-section-head {
+        display: flex;
+        align-items: baseline;
+        gap: 0.9rem;
+        margin-bottom: 0.4rem;
+        flex-wrap: wrap;
+      }
+      .edit-section-name {
+        font-family: var(--font-heading);
+        font-weight: 900;
+        font-size: 1.5rem;
+        letter-spacing: -0.01em;
+      }
+      .edit-section-desc {
+        font-family: var(--font-body);
+        font-size: 0.92rem;
+        color: var(--color-ink-soft);
+        margin: 0 0 1.5rem;
+        max-width: 60ch;
+      }
+
+      .edit-fictional-note {
+        text-align: center;
+        font-family: var(--font-body);
+        font-size: 0.78rem;
+        color: var(--color-ink-soft);
+        font-style: italic;
+        margin: 0 0 2.5rem;
+        padding: 0.9rem;
+        background: var(--color-chip-bg);
+        border-radius: 10px;
+      }
+
+      /* Formatos especiais: "Vale entender" e "Em perspectiva" */
+      .edit-formats {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 1.5rem;
+      }
+      .format-demo {
+        border: 1px solid var(--color-line);
+        border-radius: 14px;
+        overflow: hidden;
+      }
+      .format-demo-label {
+        font-family: var(--font-body);
+        font-size: 0.68rem;
+        font-weight: 700;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        color: var(--color-ink-soft);
+        padding: 0.7rem 1.1rem 0;
+      }
+      .format-demo-inner {
+        padding: 0.9rem 1.1rem 1.2rem;
+      }
+      .fake-news-card {
+        background: var(--color-chip-bg);
+        border-radius: 10px;
+        padding: 0.9rem 1rem;
+      }
+      .fake-news-tag {
+        font-family: var(--font-heading);
+        font-size: 0.6rem;
+        font-weight: 800;
+        color: var(--color-accent);
+        text-transform: uppercase;
+      }
+      .fake-news-title {
+        font-family: var(--font-heading);
+        font-weight: 800;
+        font-size: 0.98rem;
+        margin: 0.35rem 0 0.7rem;
+      }
+      .vale-entender-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.3rem;
+        font-family: var(--font-body);
+        font-size: 0.78rem;
+        font-weight: 700;
+        color: var(--color-accent-badge);
+        background: none;
+        border: none;
+        padding: 0;
+      }
+      .em-perspectiva-block {
+        margin-top: 0.9rem;
+        padding-top: 0.9rem;
+        border-top: 1px dashed var(--color-line);
+      }
+      .em-perspectiva-tag {
+        font-family: var(--font-body);
+        font-size: 0.68rem;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--color-ink-soft);
+      }
+      .em-perspectiva-title {
+        font-family: var(--font-heading);
+        font-style: normal;
+        font-weight: 800;
+        font-size: 1.02rem;
+        margin: 0.3rem 0 0;
+      }
+
+      .edit-footer-note {
+        text-align: center;
+        padding: 2.5rem 1.5rem 3rem;
+        font-family: var(--font-body);
+        font-size: 0.85rem;
+        color: var(--color-ink-soft);
+      }
+      .edit-footer-note a {
+        color: var(--color-accent);
+        font-weight: 600;
+      }
+    </style>
+  </head>
+  <body>
+    <nav class="edit-crumb"><a href="/">← voltar pro PickYourFeed.co</a></nav>
+
+    <header class="edit-masthead">
+      <p class="edit-kicker">Parte do PickYourFeed</p>
+      <h1 class="edit-title">2 Élles Edit</h1>
+      <p class="edit-tagline">
+        <strong>PickYourFeed</strong>: o que vale saber hoje.
+        <strong>2 Élles Edit</strong>: o que vale entender sempre —
+        escrito por nós, no nosso ritmo.
+      </p>
+      <a class="edit-insta-link" href="https://www.instagram.com/pickyourfeed.co" target="_blank" rel="noopener noreferrer">Siga no Instagram →</a>
+    </header>
+
+    <main class="edit-main">
+      <section class="edit-section">
+        <div class="edit-section-head">
+          <h2 class="edit-section-name">Contexto</h2>
+        </div>
+        <p class="edit-section-desc">Pra parar de fingir que já sabia do que todo mundo está falando.</p>
+        <div class="rail-track">
+          <div class="rail-card"><a class="rail-card-photo" href="2elles-edit/dopamine-sites-comprar-sem-receber.html"><img src="images/2elles-edit/mulher-navegando-online-em-casa-com-mascara-facial.jpg" alt="Comprar sem receber nada parece absurdo?" loading="lazy" width="250" height="313" /><div class="rail-card-overlay"></div><div class="rail-card-content"><span class="rail-card-tag">Contexto</span><h3 class="rail-card-title">Comprar sem receber nada parece absurdo?</h3><span class="rail-card-time">5 min de leitura</span></div></a></div>
+          <div class="rail-card"><a class="rail-card-photo" href="2elles-edit/inteligencia-artificial-na-moda.html"><img src="images/2elles-edit/editorial-de-moda-gerado-por-inteligencia-artificial.jpg" alt="A inteligência artificial democratizou a moda ou apenas tornou descartáveis as pessoas que construíram essa indústria?" loading="lazy" width="250" height="313" /><div class="rail-card-overlay"></div><div class="rail-card-content"><span class="rail-card-tag">Contexto</span><h3 class="rail-card-title">A inteligência artificial democratizou a moda ou apenas tornou descartáveis as pessoas que construíram essa indústria?</h3><span class="rail-card-time">7 min de leitura</span></div></a></div>
+          <div class="rail-card"><a class="rail-card-photo" href="2elles-edit/futuro-das-publis.html"><img src="images/2elles-edit/influenciadora-fazendo-publi-em-loja-de-beleza.jpg" alt="Qual será o futuro das publis nas redes sociais?" loading="lazy" width="250" height="313" /><div class="rail-card-overlay"></div><div class="rail-card-content"><span class="rail-card-tag">Contexto</span><h3 class="rail-card-title">Qual será o futuro das publis nas redes sociais?</h3><span class="rail-card-time">6 min de leitura</span></div></a></div>
+        </div>
+      </section>
+
+      <section class="edit-section">
+        <div class="edit-section-head">
+          <h2 class="edit-section-name">Dossiê</h2>
+        </div>
+        <p class="edit-section-desc">Aquilo que você devia ter aprendido uma vez — e ninguém te explicou direito.</p>
+        <div class="rail-track">
+          <div class="rail-card"><a class="rail-card-photo" href="2elles-edit/o-que-e-quiet-luxury.html"><img src="images/2elles-edit/bastidores-desfile-alta-costura-quadro-de-casting.jpg" alt="O que é Quiet Luxury" loading="lazy" width="250" height="313" /><div class="rail-card-overlay"></div><div class="rail-card-content"><span class="rail-card-tag">Dossiê</span><h3 class="rail-card-title">O que é Quiet Luxury</h3><span class="rail-card-time">6 min de leitura</span></div></a></div>
+          <div class="rail-card"><a class="rail-card-text" href="2elles-edit/como-funciona-a-haute-couture.html"><div><span class="rail-card-tag">Dossiê</span><h3 class="rail-card-title">Como funciona a Haute Couture de verdade</h3></div><span class="rail-card-time">6 min de leitura</span></a></div>
+          <div class="rail-card"><a class="rail-card-text" href="2elles-edit/old-money-vs-quiet-luxury.html"><div><span class="rail-card-tag">Dossiê</span><h3 class="rail-card-title">Old Money vs. Quiet Luxury: qual a diferença real</h3></div><span class="rail-card-time">5 min de leitura</span></a></div>
+          <div class="rail-card"><a class="rail-card-text" href="2elles-edit/o-que-e-clean-beauty.html"><div><span class="rail-card-tag">Dossiê</span><h3 class="rail-card-title">Clean Beauty: o que significa de verdade</h3></div><span class="rail-card-time">5 min de leitura</span></a></div>
+          <div class="rail-card"><a class="rail-card-text" href="2elles-edit/cruelty-free-vs-vegano.html"><div><span class="rail-card-tag">Dossiê</span><h3 class="rail-card-title">Cruelty-free e vegano não são a mesma coisa</h3></div><span class="rail-card-time">4 min de leitura</span></a></div>
+          <div class="rail-card"><a class="rail-card-photo" href="2elles-edit/historia-da-glossier.html"><img src="images/2elles-edit/produtos-glossier-organizados-em-prateleira-de-banheiro.jpg" alt="A história da Glossier" loading="lazy" width="250" height="313" /><div class="rail-card-overlay"></div><div class="rail-card-content"><span class="rail-card-tag">Dossiê</span><h3 class="rail-card-title">A história da Glossier</h3><span class="rail-card-time">6 min de leitura</span></div></a></div>
+        </div>
+      </section>
+
+      <section class="edit-section">
+        <div class="edit-section-head">
+          <h2 class="edit-section-name">Radar</h2>
+        </div>
+        <p class="edit-section-desc">Um raio-x rápido do que anda circulando — pra você não descobrir por último.</p>
+        <p class="edit-fictional-note">Exemplos ilustrativos do formato — matérias reais desta seção ainda vêm por aí.</p>
+        <div class="rail-track">
+          <div class="rail-card"><div class="rail-card-text"><div><span class="rail-card-tag">Radar</span><h3 class="rail-card-title">12 movimentos que estamos observando esta semana</h3></div><span class="rail-card-time">5 min de leitura</span></div></div>
+          <div class="rail-card"><div class="rail-card-text"><div><span class="rail-card-tag">Radar</span><h3 class="rail-card-title">O radar de beleza de agosto</h3></div><span class="rail-card-time">6 min de leitura</span></div></div>
+        </div>
+      </section>
+
+      <section class="edit-section">
+        <div class="edit-section-head">
+          <h2 class="edit-section-name">Arquivo</h2>
+        </div>
+        <p class="edit-section-desc">Antes de virar hype, provavelmente isso já tinha acontecido — e a gente te conta quando.</p>
+        <p class="edit-fictional-note">Exemplos ilustrativos do formato — matérias reais desta seção ainda vêm por aí.</p>
+        <div class="rail-track">
+          <div class="rail-card"><div class="rail-card-text"><div><span class="rail-card-tag">Arquivo</span><h3 class="rail-card-title">Antes do Tomato Girl existiu...</h3></div><span class="rail-card-time">7 min de leitura</span></div></div>
+          <div class="rail-card"><div class="rail-card-text"><div><span class="rail-card-tag">Arquivo</span><h3 class="rail-card-title">Como a estética dos anos 90 voltou</h3></div><span class="rail-card-time">8 min de leitura</span></div></div>
+        </div>
+      </section>
+
+      <section class="edit-section">
+        <div class="edit-section-head">
+          <h2 class="edit-section-name">Seleção</h2>
+        </div>
+        <p class="edit-section-desc">Curadoria com nome e sobrenome.</p>
+        <p class="edit-fictional-note">Exemplos ilustrativos do formato — matérias reais desta seção ainda vêm por aí.</p>
+        <div class="rail-track">
+          <div class="rail-card"><div class="rail-card-text"><div><span class="rail-card-tag">Seleção</span><h3 class="rail-card-title">10 livros para entender o luxo</h3></div><span class="rail-card-time">6 min de leitura</span></div></div>
+          <div class="rail-card"><div class="rail-card-text"><div><span class="rail-card-tag">Seleção</span><h3 class="rail-card-title">Os perfumes que mudaram o mercado</h3></div><span class="rail-card-time">7 min de leitura</span></div></div>
+        </div>
+      </section>
+
+      <section class="edit-section">
+        <div class="edit-section-head">
+          <h2 class="edit-section-name">Formatos de conexão com a home</h2>
+        </div>
+        <p class="edit-section-desc">Como o 2 Élles Edit aparece dentro do fluxo rápido do PickYourFeed.</p>
+
+        <div class="edit-formats">
+          <div class="format-demo">
+            <p class="format-demo-label">Como aparece na home — "Vale entender"</p>
+            <div class="format-demo-inner">
+              <div class="fake-news-card">
+                <span class="fake-news-tag">Beleza · Em alta</span>
+                <p class="fake-news-title">A L'Oréal investe em biotecnologia</p>
+                <button class="vale-entender-btn" type="button">Vale entender →</button>
+              </div>
+            </div>
+          </div>
+
+          <div class="format-demo">
+            <p class="format-demo-label">Como aparece na home — "Em perspectiva"</p>
+            <div class="format-demo-inner">
+              <div class="fake-news-card">
+                <span class="fake-news-tag">Cultura · Em alta</span>
+                <p class="fake-news-title">O retorno das câmeras compactas</p>
+                <div class="em-perspectiva-block">
+                  <span class="em-perspectiva-tag">Em perspectiva</span>
+                  <p class="em-perspectiva-title">Por que a Geração Z voltou a fotografar com equipamentos antigos</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <p class="edit-footer-note">
+      2 Élles Edit é a editoria de conteúdo autoral do
+      <a href="/">PickYourFeed.co</a> — critério editorial próprio,
+      sem depender de assinatura pessoal.
+    </p>
+  </body>
+</html>

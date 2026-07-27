@@ -67,6 +67,32 @@ CURATED_PILLARS = [
 
 CURATED_BADGE = "Curadoria da Redação"
 
+EDIT_FEATURED = [
+    {
+        "title": "Comprar sem receber nada parece absurdo?",
+        "section": "Contexto",
+        "read_time": "5 min de leitura",
+        "image": "images/2elles-edit/mulher-navegando-online-em-casa-com-mascara-facial.jpg",
+        "link": "2elles-edit/dopamine-sites-comprar-sem-receber.html",
+    },
+    {
+        "title": "A inteligência artificial democratizou a moda ou apenas tornou descartáveis as pessoas que construíram essa indústria?",
+        "section": "Contexto",
+        "read_time": "7 min de leitura",
+        "image": "images/2elles-edit/editorial-de-moda-gerado-por-inteligencia-artificial.jpg",
+        "link": "2elles-edit/inteligencia-artificial-na-moda.html",
+    },
+    {
+        "title": "Qual será o futuro das publis nas redes sociais?",
+        "section": "Contexto",
+        "read_time": "6 min de leitura",
+        "image": "images/2elles-edit/influenciadora-fazendo-publi-em-loja-de-beleza.jpg",
+        "link": "2elles-edit/futuro-das-publis.html",
+    },
+]
+
+EDIT_BADGE = "2 Élles Edit"
+
 
 def esc(text):
     return html.escape(text or "", quote=True)
@@ -168,6 +194,21 @@ def render_rail_section(key, title, desc, articles, variant=None):
     return f"""<section class="rail-section{variant_class}" id="{key}" data-editorial="{key}"><div class="rail-head"><div>{badge}<h2 class="rail-title">{esc(title)}</h2><p class="rail-desc">{esc(desc)}</p></div><div class="rail-controls"><button type="button" class="rail-arrow" data-dir="-1" aria-label="Ver manchetes anteriores">‹</button><button type="button" class="rail-arrow" data-dir="1" aria-label="Ver mais manchetes">›</button></div></div><div class="rail-track">{cards}</div></section>"""
 
 
+def render_edit_card(post):
+    title = esc(post["title"])
+    img = esc(post["image"])
+    link = esc(post["link"])
+    section = esc(post["section"])
+    read_time = esc(post["read_time"])
+    return f"""<div class="rail-card"><a class="rail-card-photo" href="{link}"><img src="{img}" alt="{title}" loading="lazy" width="250" height="313" /><div class="rail-card-overlay"></div><div class="rail-card-content"><span class="rail-card-tag">{section}</span><h3 class="rail-card-title">{title}</h3><span class="rail-card-time">{read_time}</span></div></a></div>"""
+
+
+def render_edit_rail():
+    cards = "".join(render_edit_card(p) for p in EDIT_FEATURED)
+    badge = f'<span class="byline-badge">{esc(EDIT_BADGE)}</span>'
+    return f"""<section class="rail-section is-edit-feature" id="2elles-edit" data-editorial="2elles-edit"><div class="rail-head"><div>{badge}<h2 class="rail-title">Direto do 2 Élles Edit</h2><p class="rail-desc">Conteúdo autoral — pra quem quer entender, não só saber. <a class="rail-see-all" href="2elles-edit.html">Ver tudo →</a></p></div></div><div class="rail-track">{cards}</div></section>"""
+
+
 def render_mais_lidas(items):
     if not items:
         return ""
@@ -181,6 +222,7 @@ def render_mais_lidas(items):
 def render_section_nav():
     links = [f'<a href="#em-alta">Em Alta</a>']
     links += [f'<a href="#{ed["key"]}">{esc(ed["label"])}</a>' for ed in EDITORIALS]
+    links.append('<a href="2elles-edit.html">2 Élles Edit</a>')
     return "".join(links)
 
 
@@ -216,6 +258,8 @@ def build_main_html(articles, em_alta_items, curated_posts, mais_lidas_items):
             variant="em-alta",
         )
     )
+
+    parts.append(render_edit_rail())
 
     for pillar in CURATED_PILLARS:
         posts = sorted(
