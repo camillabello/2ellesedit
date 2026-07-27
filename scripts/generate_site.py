@@ -48,7 +48,7 @@ EDITORIALS = [
     {
         "key": "em-pauta",
         "label": "Em Pauta",
-        "desc": "Os assuntos que estão movimentando a conversa — não é notícia, é debate",
+        "desc": "Os assuntos que estão movimentando a conversa",
     },
 ]
 
@@ -206,7 +206,7 @@ def render_edit_card(post):
 def render_edit_rail():
     cards = "".join(render_edit_card(p) for p in EDIT_FEATURED)
     badge = f'<span class="byline-badge">{esc(EDIT_BADGE)}</span>'
-    return f"""<section class="rail-section is-edit-feature" id="2elles-edit" data-editorial="2elles-edit"><div class="rail-head"><div>{badge}<h2 class="rail-title">Direto do 2 Élles Edit</h2><p class="rail-desc">Conteúdo autoral — pra quem quer entender, não só saber. <a class="rail-see-all" href="2elles-edit.html">Ver tudo →</a></p></div></div><div class="rail-track">{cards}</div></section>"""
+    return f"""<section class="rail-section is-edit-feature" id="2elles-edit" data-editorial="2elles-edit"><div class="rail-head"><div>{badge}<p class="rail-desc">Conteúdo autoral pra quem quer ir além. <a class="rail-see-all" href="2elles-edit.html">Ver tudo →</a></p></div></div><div class="rail-track">{cards}</div></section>"""
 
 
 def render_mais_lidas(items):
@@ -253,7 +253,7 @@ def build_main_html(articles, em_alta_items, curated_posts, mais_lidas_items):
         render_rail_section(
             "em-alta",
             "Em Alta",
-            "O que vale a pena conhecer hoje — curadoria, não só o que mais bombou",
+            "O que você não deveria deixar de ver hoje",
             em_alta_rest,
             variant="em-alta",
         )
