@@ -689,6 +689,12 @@ main {
   margin: 0;
 }
 
+.footer-legal a {
+  color: var(--color-ink-soft);
+  text-decoration: underline;
+  margin-left: 0.4rem;
+}
+
 /* ---------- Responsive ---------- */
 
 @media (max-width: 640px) {
