@@ -253,7 +253,10 @@ main {
 .hero-overlay {
   position: absolute;
   inset: 0;
-  background: linear-gradient(to top, rgba(8, 6, 9, 0.9) 0%, rgba(8, 6, 9, 0.3) 50%, transparent 82%);
+  /* Zona escura mais alta/forte (antes desaparecia a 82%): manchetes
+     longas empurram o conteúdo pra cima e passavam a ficar sobre área
+     quase transparente, quebrando o contraste do texto. */
+  background: linear-gradient(to top, rgba(8, 6, 9, 0.92) 0%, rgba(8, 6, 9, 0.62) 55%, rgba(8, 6, 9, 0.2) 100%);
 }
 
 .hero-content {
