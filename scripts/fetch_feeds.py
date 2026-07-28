@@ -41,7 +41,7 @@ from feeds_config import (
 ROOT = Path(__file__).resolve().parent.parent
 OUTPUT_PATH = ROOT / "data" / "articles.json"
 EM_ALTA_OUTPUT_PATH = ROOT / "data" / "em-alta.json"
-EM_ALTA_WINDOW_HOURS = 18
+EM_ALTA_WINDOW_HOURS = 48
 EM_ALTA_MAX_ITEMS = 8
 
 USER_AGENT = (
@@ -410,7 +410,9 @@ def compute_em_alta(all_articles):
         )
 
     trending_entities = sorted(
-        (e for e, srcs in entity_sources.items() if len(srcs) >= 2),
+        # 3+ veículos, não 2 - com a janela maior (48h), consenso fraco não
+        # deveria ser suficiente pra travar um assunto por tanto tempo.
+        (e for e, srcs in entity_sources.items() if len(srcs) >= 3),
         key=lambda e: len(entity_sources[e]),
         reverse=True,
     )

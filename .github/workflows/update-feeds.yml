@@ -2,8 +2,8 @@ name: Atualizar manchetes (RSS)
 
 on:
   schedule:
-    # A cada 3 horas. Os horários no cron do GitHub Actions são em UTC.
-    - cron: "0 */3 * * *"
+    # A cada 2 horas. Os horários no cron do GitHub Actions são em UTC.
+    - cron: "0 */2 * * *"
   workflow_dispatch: {} # permite rodar manualmente na aba Actions
 
 permissions:

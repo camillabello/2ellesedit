@@ -17,7 +17,7 @@ import html
 import json
 import re
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -167,6 +167,20 @@ def time_ago(iso_date):
     return "há 1 dia" if diff_d == 1 else f"há {diff_d} dias"
 
 
+def filter_by_max_age(items_sorted_desc, max_age_hours, min_count):
+    """Prefere itens dentro de max_age_hours, mas nunca deixa a lista mais
+    curta que min_count - se faltar item novo, completa com os mais recentes
+    disponíveis mesmo que passem da idade máxima (dia fraco de notícia não
+    pode esvaziar o carrossel)."""
+    if not items_sorted_desc:
+        return items_sorted_desc
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=max_age_hours)
+    fresh = [a for a in items_sorted_desc if datetime.fromisoformat(a["pubDate"]) >= cutoff]
+    if len(fresh) >= min_count:
+        return fresh
+    return items_sorted_desc[:min_count]
+
+
 def diversify(articles):
     """Alterna Brasil/Mundo turno a turno e circula pelas fontes dentro de
     cada turno, pra nunca empilhar matérias seguidas do mesmo veículo."""
@@ -309,6 +323,8 @@ def build_main_html(articles, em_alta_items, curated_posts, mais_lidas_items):
             key=lambda p: p["pubDate"],
             reverse=True,
         )
+        # Melhores itens seguem no ar por até 3 dias se não tiver nada mais novo
+        posts = filter_by_max_age(posts, max_age_hours=72, min_count=1)
         parts.append(
             render_rail_section(pillar["key"], pillar["label"], pillar["desc"], posts, variant="curadoria")
         )
@@ -319,6 +335,9 @@ def build_main_html(articles, em_alta_items, curated_posts, mais_lidas_items):
             key=lambda a: a["pubDate"],
             reverse=True,
         )
+        # Home sempre com matéria quente: prioriza últimas 12h, só passa
+        # disso se não tiver itens novos suficientes pra preencher o rail
+        items = filter_by_max_age(items, max_age_hours=12, min_count=8)
         items = diversify(items)
         parts.append(render_rail_section(editorial["key"], editorial["label"], editorial["desc"], items))
 
