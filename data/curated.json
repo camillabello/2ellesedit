@@ -1,55 +1,37 @@
 {
-  "note": "Conteúdo ILUSTRATIVO para visualizar o layout dos pilares de curadoria (Inspiração/Descobertas). Isso NÃO é o blog autoral (matérias escritas por nós) — é seleção/curadoria da redação sobre coisas de terceiros. O blog autoral de verdade fica para uma etapa futura separada.",
+  "note": "Curadoria real da redação sobre campanhas/marcas de terceiros (Inspiração/Descobertas). Atualizado manualmente via pesquisa - não é RSS automático.",
   "posts": [
     {
-      "id": "blog1",
+      "id": "insp1",
       "pillar": "inspiracao",
-      "source": "Redação",
-      "title": "A campanha da Loewe que parece um quadro renascentista",
-      "image": "https://picsum.photos/seed/blog-inspiracao-1/1200/800",
-      "link": "#",
-      "pubDate": "2026-07-26T13:00:00-03:00"
+      "source": "FashionNetwork Brasil",
+      "title": "Bottega Veneta estreia era Louise Trotter com Juergen Teller e Liya Kebede",
+      "link": "https://br.fashionnetwork.com/news/As-mais-recentes-campanhas-de-luxo-da-primavera-2026-confirmam-que-a-narrativa-e-essencial,1807604.html",
+      "pubDate": "2026-07-26T10:00:00-03:00"
     },
     {
-      "id": "blog2",
+      "id": "insp2",
       "pillar": "inspiracao",
-      "source": "Redação",
-      "title": "A embalagem minimalista que virou objeto de desejo antes do perfume",
-      "link": "#",
+      "source": "RSVP",
+      "title": "O novo experimento da Prada: campanha 2026 une moda e arte provocativa",
+      "link": "https://rsvpperfil.com.br/trends/moda-trends/o-novo-experimento-da-prada-campanha-de-2026-une-moda-e-arte-provocativa/",
       "pubDate": "2026-07-25T10:00:00-03:00"
     },
     {
-      "id": "blog3",
-      "pillar": "inspiracao",
-      "source": "Redação",
-      "title": "Direção de arte: a vitrine parisiense que parou o Instagram essa semana",
-      "link": "#",
-      "pubDate": "2026-07-24T09:00:00-03:00"
+      "id": "desc1",
+      "pillar": "descobertas",
+      "source": "ToDaTeen",
+      "title": "Sheglam desembarca oficialmente no Brasil pra dominar a beleza nas redes",
+      "link": "https://todateen.com.br/noticias/e-oficial-sheglam-desembarca-no-brasil-para-dominar-a-beleza-nas-redes.phtml",
+      "pubDate": "2026-07-27T10:00:00-03:00"
     },
     {
-      "id": "blog4",
+      "id": "desc2",
       "pillar": "descobertas",
-      "source": "Redação",
-      "title": "Hoje descobrimos: uma ceramista brasileira fazendo peças para ateliês europeus",
-      "image": "https://picsum.photos/seed/blog-descobertas-1/1200/800",
-      "link": "#",
-      "pubDate": "2026-07-26T11:00:00-03:00"
-    },
-    {
-      "id": "blog5",
-      "pillar": "descobertas",
-      "source": "Redação",
-      "title": "Uma perfumaria escondida em Paris que não faz propaganda — e não precisa",
-      "link": "#",
-      "pubDate": "2026-07-25T15:00:00-03:00"
-    },
-    {
-      "id": "blog6",
-      "pillar": "descobertas",
-      "source": "Redação",
-      "title": "O hotel de 6 quartos em Lisboa que virou point de quem trabalha com moda",
-      "link": "#",
-      "pubDate": "2026-07-24T14:00:00-03:00"
+      "source": "Cosmetic Innovation",
+      "title": "Estudo revela as marcas nacionais que mais crescem no mercado de beleza",
+      "link": "https://cosmeticinnovation.com.br/estudo-revela-marcas-que-impulsionam-a-transformacao-da-beleza-no-brasil/",
+      "pubDate": "2026-07-24T10:00:00-03:00"
     }
   ]
 }
