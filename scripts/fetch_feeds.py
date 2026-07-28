@@ -41,7 +41,7 @@ from feeds_config import (
 ROOT = Path(__file__).resolve().parent.parent
 OUTPUT_PATH = ROOT / "data" / "articles.json"
 EM_ALTA_OUTPUT_PATH = ROOT / "data" / "em-alta.json"
-EM_ALTA_WINDOW_HOURS = 60
+EM_ALTA_WINDOW_HOURS = 18
 EM_ALTA_MAX_ITEMS = 8
 
 USER_AGENT = (
@@ -437,6 +437,11 @@ def compute_em_alta(all_articles):
             seen_ids.add(article["id"])
             if len(em_alta) >= EM_ALTA_MAX_ITEMS:
                 break
+
+    # Ordena o resultado final pela mais recente - consenso decide QUEM entra,
+    # mas não deve travar a matéria mais forte no topo por horas seguidas
+    # enquanto assuntos mais novos (mesmo sem consenso ainda) ficam por baixo.
+    em_alta.sort(key=lambda a: a["pubDate"], reverse=True)
 
     return em_alta
 
