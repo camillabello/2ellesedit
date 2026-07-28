@@ -233,7 +233,11 @@ def render_hero(article):
     excerpt = esc(article.get("excerpt", ""))
     img = esc(article["image"])
     link = esc(article["link"])
-    kicker = f"{source} · Em Alta" if article.get("trendingReason") else f"{source} · Manchete do dia"
+    kicker = (
+        f'{source}<span class="dot-brand"></span>Em Alta'
+        if article.get("trendingReason")
+        else f'{source}<span class="dot-brand"></span>Manchete do dia'
+    )
     return f"""<section class="hero"><a class="hero-link" href="{link}" target="_blank" rel="noopener noreferrer"><img src="{img}" alt="{title}" loading="eager" fetchpriority="high" width="1200" height="620" /><div class="hero-overlay"></div><div class="hero-content"><span class="hero-kicker">{kicker}</span><h2 class="hero-title">{title}</h2><p class="hero-excerpt">{excerpt}</p></div></a></section>"""
 
 
