@@ -701,22 +701,102 @@ main {
   color: var(--color-ink-soft);
 }
 
-.footer-ctas {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 0.5rem 1.5rem;
-  margin-bottom: 1.1rem;
-  padding-bottom: 1.1rem;
+.footer-promo {
+  text-align: center;
+  max-width: 480px;
+  margin: 0 auto 1.5rem;
+  padding-bottom: 1.5rem;
   border-bottom: 1px solid var(--color-line);
 }
 
-.footer-insta-link,
-.footer-edit-link {
+.footer-promo-title {
+  font-family: var(--font-heading);
+  font-weight: 900;
+  font-size: 1.1rem;
+  color: var(--color-ink);
+  margin: 0 0 0.4rem;
+}
+
+.footer-promo-text {
+  font-size: 0.85rem;
+  color: var(--color-ink-soft);
+  margin: 0 0 0.75rem;
+}
+
+.footer-edit-link,
+.footer-insta-link {
   font-family: var(--font-heading);
   font-size: 0.85rem;
   font-weight: 800;
   color: var(--color-accent);
+}
+
+.footer-cols {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
+  max-width: 780px;
+  margin: 0 auto 1.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--color-line);
+  text-align: left;
+}
+
+.footer-col {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.footer-col-title {
+  font-family: var(--font-heading);
+  font-weight: 800;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-ink);
+  margin: 0 0 0.3rem;
+}
+
+.footer-col a {
+  font-size: 0.82rem;
+  color: var(--color-ink-soft);
+}
+
+.footer-col a:hover {
+  color: var(--color-accent);
+}
+
+.footer-suggest {
+  max-width: 480px;
+  margin: 0 auto 1rem;
+  font-size: 0.8rem;
+}
+
+.footer-follow {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.footer-follow-label {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--color-ink-soft);
+  margin: 0 0 0.5rem;
+}
+
+.footer-follow-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.4rem 1.2rem;
+}
+
+.footer-follow-soon {
+  font-family: var(--font-heading);
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--color-line);
 }
 
 .footer-legal {
@@ -738,6 +818,11 @@ main {
 
   .rail-card {
     flex-basis: 68vw;
+  }
+
+  .footer-cols {
+    grid-template-columns: repeat(2, 1fr);
+    text-align: center;
   }
 
   .section-nav a {
