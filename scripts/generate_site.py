@@ -327,8 +327,9 @@ def build_main_html(articles, em_alta_items, curated_posts, mais_lidas_items):
             key=lambda p: p["pubDate"],
             reverse=True,
         )
-        # Melhores itens seguem no ar por até 3 dias se não tiver nada mais novo
-        posts = filter_by_max_age(posts, max_age_hours=72, min_count=1)
+        # Melhores itens seguem no ar por até 3 dias se não tiver nada mais novo,
+        # mas nunca deixa o pilar com menos de 5 itens no ar
+        posts = filter_by_max_age(posts, max_age_hours=72, min_count=5)
         parts.append(
             render_rail_section(pillar["key"], pillar["label"], pillar["desc"], posts, variant="curadoria")
         )
