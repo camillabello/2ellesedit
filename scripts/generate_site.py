@@ -73,63 +73,63 @@ EDIT_FEATURED = [
         "section": "Contexto",
         "read_time": "5 min de leitura",
         "image": "images/2elles-edit/mulher-navegando-online-em-casa-com-mascara-facial.jpg",
-        "link": "2elles-edit/dopamine-sites-comprar-sem-receber.html",
+        "link": "2elles-edit/dopamine-sites-comprar-sem-receber",
     },
     {
         "title": "A inteligência artificial democratizou a moda ou apenas tornou descartáveis as pessoas que construíram essa indústria?",
         "section": "Contexto",
         "read_time": "7 min de leitura",
         "image": "images/2elles-edit/editorial-de-moda-gerado-por-inteligencia-artificial.jpg",
-        "link": "2elles-edit/inteligencia-artificial-na-moda.html",
+        "link": "2elles-edit/inteligencia-artificial-na-moda",
     },
     {
         "title": "Qual será o futuro das publis nas redes sociais?",
         "section": "Contexto",
         "read_time": "6 min de leitura",
         "image": "images/2elles-edit/influenciadora-fazendo-publi-em-loja-de-beleza.jpg",
-        "link": "2elles-edit/futuro-das-publis.html",
+        "link": "2elles-edit/futuro-das-publis",
     },
     {
         "title": "O que é Quiet Luxury",
         "section": "Dossiê",
         "read_time": "6 min de leitura",
         "image": "images/2elles-edit/bastidores-desfile-alta-costura-quadro-de-casting.jpg",
-        "link": "2elles-edit/o-que-e-quiet-luxury.html",
+        "link": "2elles-edit/o-que-e-quiet-luxury",
     },
     {
         "title": "Como funciona a Haute Couture de verdade",
         "section": "Dossiê",
         "read_time": "6 min de leitura",
         "image": "images/2elles-edit/vitrine-de-atelie-com-vestidos-brancos-de-alta-costura.jpg",
-        "link": "2elles-edit/como-funciona-a-haute-couture.html",
+        "link": "2elles-edit/como-funciona-a-haute-couture",
     },
     {
         "title": "Old Money vs. Quiet Luxury: qual a diferença real",
         "section": "Dossiê",
         "read_time": "5 min de leitura",
         "image": "images/2elles-edit/acessorios-vintage-estilo-old-money-com-oculos-e-perolas.jpg",
-        "link": "2elles-edit/old-money-vs-quiet-luxury.html",
+        "link": "2elles-edit/old-money-vs-quiet-luxury",
     },
     {
         "title": "Clean Beauty: o que significa de verdade",
         "section": "Dossiê",
         "read_time": "5 min de leitura",
         "image": "images/2elles-edit/sombra-de-maos-aplicando-serum-com-conta-gotas.jpg",
-        "link": "2elles-edit/o-que-e-clean-beauty.html",
+        "link": "2elles-edit/o-que-e-clean-beauty",
     },
     {
         "title": "Cruelty-free e vegano não são a mesma coisa",
         "section": "Dossiê",
         "read_time": "4 min de leitura",
         "image": "images/2elles-edit/necessaire-com-produtos-de-beleza-e-skincare.jpg",
-        "link": "2elles-edit/cruelty-free-vs-vegano.html",
+        "link": "2elles-edit/cruelty-free-vs-vegano",
     },
     {
         "title": "A história da Glossier",
         "section": "Dossiê",
         "read_time": "6 min de leitura",
         "image": "images/2elles-edit/produtos-glossier-organizados-em-prateleira-de-banheiro.jpg",
-        "link": "2elles-edit/historia-da-glossier.html",
+        "link": "2elles-edit/historia-da-glossier",
     },
 ]
 
@@ -266,7 +266,7 @@ def render_edit_card(post):
 def render_edit_rail():
     cards = "".join(render_edit_card(p) for p in EDIT_FEATURED)
     badge = f'<span class="byline-badge">{esc(EDIT_BADGE)}</span>'
-    return f"""<section class="rail-section is-edit-feature" id="2elles-edit" data-editorial="2elles-edit"><div class="rail-head"><div>{badge}<p class="rail-desc">Conteúdo autoral pra quem quer ir além. <a class="rail-see-all" href="2elles-edit.html">Ver tudo →</a></p></div></div><div class="rail-track">{cards}</div></section>"""
+    return f"""<section class="rail-section is-edit-feature" id="2elles-edit" data-editorial="2elles-edit"><div class="rail-head"><div>{badge}<p class="rail-desc">Conteúdo autoral pra quem quer ir além. <a class="rail-see-all" href="2elles-edit">Ver tudo →</a></p></div></div><div class="rail-track">{cards}</div></section>"""
 
 
 def render_mais_lidas(items):
@@ -282,7 +282,7 @@ def render_mais_lidas(items):
 def render_section_nav():
     links = [f'<a href="#em-alta">Em Alta</a>']
     links += [f'<a href="#{ed["key"]}">{esc(ed["label"])}</a>' for ed in EDITORIALS]
-    links.append('<a href="2elles-edit.html" class="nav-2elles">2 Élles Edit</a>')
+    links.append('<a href="2elles-edit" class="nav-2elles">2 Élles Edit</a>')
     return "".join(links)
 
 
