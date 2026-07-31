@@ -809,6 +809,68 @@ main {
   margin-left: 0.4rem;
 }
 
+/* ---------- 2 Élles Edit: busca e filtro por tag ---------- */
+
+.edit-filter {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 1.25rem 1.5rem 0.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.edit-search-input {
+  width: 100%;
+  max-width: 420px;
+  font-family: var(--font-body);
+  font-size: 0.88rem;
+  padding: 0.6rem 1.1rem;
+  border-radius: 999px;
+  border: 1px solid var(--color-line);
+  background: var(--color-chip-bg);
+  color: var(--color-ink);
+}
+
+.edit-search-input::placeholder {
+  color: var(--color-ink-soft);
+}
+
+.edit-search-input:focus {
+  outline: none;
+  border-color: var(--color-accent);
+}
+
+.edit-tag-filter {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.edit-empty-msg {
+  text-align: center;
+  color: var(--color-ink-soft);
+  font-family: var(--font-body);
+  font-style: italic;
+  padding: 3rem 1rem;
+  display: none;
+}
+
+/* ---------- 2 Élles Edit: grid de arquivo por editoria ---------- */
+
+.edit-archive-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1.25rem;
+}
+
+.edit-archive-grid .rail-card {
+  flex: none;
+  width: 100%;
+}
+
 /* ---------- Responsive ---------- */
 
 @media (max-width: 640px) {
