@@ -69,6 +69,13 @@ CURATED_BADGE = "Curadoria da Redação"
 
 EDIT_FEATURED = [
     {
+        "title": "Quem é Jonathan Anderson",
+        "section": "Dossiê",
+        "read_time": "5 min de leitura",
+        "image": "images/2elles-edit/jonathan-anderson-diretor-criativo-dior.jpg",
+        "link": "2elles-edit/quem-e-jonathan-anderson",
+    },
+    {
         "title": "Quiet luxury morreu mesmo?",
         "section": "Contexto",
         "read_time": "4 min de leitura",
@@ -151,20 +158,6 @@ EDIT_FEATURED = [
         "read_time": "5 min de leitura",
         "image": "images/2elles-edit/acessorios-vintage-estilo-old-money-com-oculos-e-perolas.jpg",
         "link": "2elles-edit/old-money-vs-quiet-luxury",
-    },
-    {
-        "title": "Como funciona a Haute Couture de verdade",
-        "section": "Dossiê",
-        "read_time": "6 min de leitura",
-        "image": "images/2elles-edit/vitrine-de-atelie-com-vestidos-brancos-de-alta-costura.jpg",
-        "link": "2elles-edit/como-funciona-a-haute-couture",
-    },
-    {
-        "title": "O que é Quiet Luxury",
-        "section": "Dossiê",
-        "read_time": "6 min de leitura",
-        "image": "images/2elles-edit/bastidores-desfile-alta-costura-quadro-de-casting.jpg",
-        "link": "2elles-edit/o-que-e-quiet-luxury",
     },
 ]
 
