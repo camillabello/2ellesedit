@@ -69,6 +69,13 @@ CURATED_BADGE = "Curadoria da Redação"
 
 EDIT_FEATURED = [
     {
+        "title": "Huda Beauty chega ao Brasil com exclusividade na Sephora",
+        "section": "Radar",
+        "read_time": "4 min de leitura",
+        "image": "images/2elles-edit/huda-beauty-chega-ao-brasil.jpg",
+        "link": "2elles-edit/huda-beauty-chega-ao-brasil",
+    },
+    {
         "title": "Quem é Jonathan Anderson",
         "section": "Dossiê",
         "read_time": "5 min de leitura",
@@ -151,13 +158,6 @@ EDIT_FEATURED = [
         "read_time": "5 min de leitura",
         "image": "images/2elles-edit/sombra-de-maos-aplicando-serum-com-conta-gotas.jpg",
         "link": "2elles-edit/o-que-e-clean-beauty",
-    },
-    {
-        "title": "Old Money vs. Quiet Luxury: qual a diferença real",
-        "section": "Dossiê",
-        "read_time": "5 min de leitura",
-        "image": "images/2elles-edit/acessorios-vintage-estilo-old-money-com-oculos-e-perolas.jpg",
-        "link": "2elles-edit/old-money-vs-quiet-luxury",
     },
 ]
 
