@@ -76,7 +76,7 @@ EDIT_FEATURED = [
         "link": "2elles-edit/bolsa-cigale-it-bag-de-2026",
     },
     {
-        "title": "Max Mara lança seu primeiro perfume da história",
+        "title": "Max Mara volta a lançar perfume depois de quase 20 anos",
         "section": "Radar",
         "read_time": "4 min de leitura",
         "image": "images/2elles-edit/frasco-de-perfume-minimalista-fundo-bege.jpg",
