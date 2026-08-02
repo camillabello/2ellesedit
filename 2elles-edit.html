@@ -236,6 +236,26 @@
         max-width: 60ch;
       }
 
+      /* ---------- Fileiras por tema (montadas ao vivo a partir dos data-tag reais) ---------- */
+      .theme-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 1rem;
+        margin-bottom: 1.5rem;
+      }
+      .theme-grid .rail-card:first-child {
+        grid-column: span 2;
+        grid-row: span 2;
+      }
+      @media (max-width: 900px) {
+        .theme-grid { grid-template-columns: repeat(2, 1fr); }
+        .theme-grid .rail-card:first-child { grid-row: span 1; }
+      }
+      @media (max-width: 560px) {
+        .theme-grid { grid-template-columns: 1fr; }
+        .theme-grid .rail-card:first-child { grid-column: span 1; }
+      }
+
       .edit-fictional-note {
         text-align: center;
         font-family: var(--font-body);
@@ -396,6 +416,8 @@
       </div>
     </header>
 
+    <div class="edit-main" id="theme-rails" aria-label="Destaques por tema"></div>
+
     <main class="edit-main">
       <section class="edit-section" data-searchable="section" id="contexto">
         <div class="edit-section-head">
@@ -520,6 +542,7 @@
       </div>
       <p class="footer-legal">2 Élles Edit publica conteúdos editoriais próprios do PickYourFeed.</p>
     </footer>
+    <script defer src="2elles-edit-themes.js"></script>
     <script defer src="2elles-edit-search.js"></script>
     <script>
       (function () {
