@@ -69,6 +69,20 @@ CURATED_BADGE = "Curadoria da Redação"
 
 EDIT_FEATURED = [
     {
+        "title": "A bolsa Cigale virou o it-bag de 2026",
+        "section": "Radar",
+        "read_time": "4 min de leitura",
+        "image": "images/2elles-edit/bolsa-de-couro-preta-editorial-minimalista.jpg",
+        "link": "2elles-edit/bolsa-cigale-it-bag-de-2026",
+    },
+    {
+        "title": "Max Mara lança seu primeiro perfume da história",
+        "section": "Radar",
+        "read_time": "4 min de leitura",
+        "image": "images/2elles-edit/frasco-de-perfume-minimalista-fundo-bege.jpg",
+        "link": "2elles-edit/max-mara-lanca-primeiro-perfume",
+    },
+    {
         "title": "Huda Beauty chega ao Brasil com exclusividade na Sephora",
         "section": "Radar",
         "read_time": "4 min de leitura",
@@ -144,20 +158,6 @@ EDIT_FEATURED = [
         "read_time": "6 min de leitura",
         "image": "images/2elles-edit/produtos-glossier-organizados-em-prateleira-de-banheiro.jpg",
         "link": "2elles-edit/historia-da-glossier",
-    },
-    {
-        "title": "Cruelty-free e vegano não são a mesma coisa",
-        "section": "Dossiê",
-        "read_time": "4 min de leitura",
-        "image": "images/2elles-edit/necessaire-com-produtos-de-beleza-e-skincare.jpg",
-        "link": "2elles-edit/cruelty-free-vs-vegano",
-    },
-    {
-        "title": "Clean Beauty: o que significa de verdade",
-        "section": "Dossiê",
-        "read_time": "5 min de leitura",
-        "image": "images/2elles-edit/sombra-de-maos-aplicando-serum-com-conta-gotas.jpg",
-        "link": "2elles-edit/o-que-e-clean-beauty",
     },
 ]
 
