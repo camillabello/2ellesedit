@@ -16,7 +16,7 @@
 
   function renderList(items) {
     const rows = items
-      .slice(0, 8)
+      .slice(0, 5)
       .map((item, i) => {
         const num = String(i + 1).padStart(2, "0");
         return `<li>

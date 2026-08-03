@@ -347,6 +347,14 @@
         color: var(--color-ink-soft);
       }
 
+      /* ---------- Grade por editoria (Contexto/Dossiê/...): mais discreta que as fileiras por tema ---------- */
+      main.compact-archive .rail-track { gap: 0.7rem; }
+      main.compact-archive .rail-card { flex: 0 0 150px; }
+      main.compact-archive .rail-card-content { padding: 0.6rem; }
+      main.compact-archive .rail-card-tag { font-size: 0.6rem; }
+      main.compact-archive .rail-card-title { font-size: 0.8rem; line-height: 1.25; }
+      main.compact-archive .rail-card-time { font-size: 0.62rem; margin-top: 0.4rem; }
+
       .edit-fictional-note {
         text-align: center;
         font-family: var(--font-body);
@@ -509,9 +517,7 @@
 
     <div class="edit-main" id="theme-rails" aria-label="Destaques por tema"></div>
 
-    <div class="edit-main" id="pulse-lists" aria-label="Em alta e mais lidos"></div>
-
-    <main class="edit-main">
+    <main class="edit-main compact-archive">
       <section class="edit-section" data-searchable="section" id="contexto">
         <div class="edit-section-head">
           <h2 class="edit-section-name">Contexto</h2>
@@ -606,6 +612,8 @@
 
       <p class="edit-empty-msg">Nenhuma matéria encontrada</p>
     </main>
+
+    <div class="edit-main" id="pulse-lists" aria-label="Em alta e mais lidos"></div>
 
     <div class="edit-footer-note">
       <p class="edit-footer-title">Volte para o radar.</p>
