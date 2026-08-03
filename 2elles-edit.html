@@ -284,6 +284,22 @@
       }
 
       /* ---------- Listas simples (sem foto): Em Alta no Pick, Mais lidos ---------- */
+      /* Deliberadamente discreto: é um widget de apoio, não uma seção editorial */
+      .pulse-title {
+        font-family: var(--font-heading);
+        font-weight: 800;
+        font-size: 0.85rem;
+        letter-spacing: 0.02em;
+        text-transform: uppercase;
+        color: var(--color-ink);
+        margin: 0 0 0.2rem;
+      }
+      .pulse-desc {
+        font-family: var(--font-body);
+        font-size: 0.76rem;
+        color: var(--color-ink-soft);
+        margin: 0 0 1rem;
+      }
       .simple-list {
         list-style: none;
         margin: 0;
@@ -292,32 +308,33 @@
       .simple-list li {
         display: flex;
         align-items: baseline;
-        gap: 0.9rem;
-        padding: 0.85rem 0;
+        gap: 0.6rem;
+        padding: 0.55rem 0;
         border-bottom: 1px solid var(--color-line);
       }
       .simple-list li:first-child { padding-top: 0; }
       .simple-list li:last-child { border-bottom: none; }
       .simple-list-num {
-        font-family: var(--font-signature);
-        font-size: 1.4rem;
-        color: var(--color-line);
+        font-family: var(--font-body);
+        font-weight: 600;
+        font-size: 0.72rem;
+        color: var(--color-ink-soft);
         flex: none;
-        width: 1.6rem;
+        width: 1.1rem;
       }
-      .simple-list a { display: flex; flex-direction: column; gap: 0.2rem; min-width: 0; }
+      .simple-list a { display: flex; flex-direction: column; gap: 0.1rem; min-width: 0; }
       .simple-list-tag {
         font-family: var(--font-body);
-        font-size: 0.68rem;
+        font-size: 0.62rem;
         font-weight: 700;
-        letter-spacing: 0.06em;
+        letter-spacing: 0.05em;
         text-transform: uppercase;
         color: var(--color-accent);
       }
       .simple-list-title {
-        font-family: var(--font-heading);
-        font-weight: 800;
-        font-size: 0.95rem;
+        font-family: var(--font-body);
+        font-weight: 600;
+        font-size: 0.82rem;
         line-height: 1.3;
         color: var(--color-ink);
         margin: 0;
@@ -325,7 +342,7 @@
       .simple-list a:hover .simple-list-title { color: var(--color-accent); }
       .simple-list-empty {
         font-family: var(--font-body);
-        font-size: 0.85rem;
+        font-size: 0.8rem;
         font-style: italic;
         color: var(--color-ink-soft);
       }

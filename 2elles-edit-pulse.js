@@ -3,6 +3,8 @@
   // real e atualizado pela automação do PickYourFeed) e "Mais lidos da
   // semana" (lê data/mais-lidas.json — hoje vazio de propósito, só existe
   // ranking de verdade quando houver tráfego real; nada aqui é simulado).
+  // "Mais lidos" só é inserida no DOM quando existir dado real: enquanto
+  // estiver vazia, nem aparece (evita o widget morto/estranho na home).
   const container = document.getElementById("pulse-lists");
   if (!container) return;
 
@@ -12,10 +14,7 @@
     return div.innerHTML;
   }
 
-  function renderList(items, emptyMessage) {
-    if (!items.length) {
-      return `<p class="simple-list-empty">${emptyMessage}</p>`;
-    }
+  function renderList(items) {
     const rows = items
       .slice(0, 8)
       .map((item, i) => {
@@ -32,78 +31,68 @@
     return `<ol class="simple-list">${rows}</ol>`;
   }
 
-  function buildColumn(title, desc, bodyHtml) {
+  function buildColumn(title, desc) {
     const col = document.createElement("div");
-    const head = document.createElement("div");
-    head.className = "edit-section-head";
-    const h2 = document.createElement("h2");
-    h2.className = "edit-section-name";
+    const h2 = document.createElement("p");
+    h2.className = "pulse-title";
     h2.textContent = title;
-    head.appendChild(h2);
-    col.appendChild(head);
+    col.appendChild(h2);
     const p = document.createElement("p");
-    p.className = "edit-section-desc";
+    p.className = "pulse-desc";
     p.textContent = desc;
     col.appendChild(p);
     const body = document.createElement("div");
     body.className = "pulse-col-body";
-    body.innerHTML = bodyHtml;
+    body.innerHTML = '<p class="simple-list-empty">Carregando…</p>';
     col.appendChild(body);
     return { col, body };
   }
 
-  const section = document.createElement("section");
-  section.className = "edit-section pulse-section";
-  section.style.display = "grid";
-  section.style.gridTemplateColumns = "1fr 1fr";
-  section.style.gap = "3rem";
-
-  const loadingHtml = "<p class=\"simple-list-empty\">Carregando…</p>";
-  const emAlta = buildColumn("Em Alta no Pick", "Integrado com a home do PickYourFeed — atualizado automaticamente", loadingHtml);
-  const maisLidos = buildColumn("Mais lidos da semana", "Atualizado automaticamente assim que houver tráfego real coletado", loadingHtml);
-
-  section.appendChild(emAlta.col);
-  section.appendChild(maisLidos.col);
-  container.appendChild(section);
-
-  fetch("data/em-alta.json")
-    .then((r) => r.json())
-    .then((data) => {
-      const items = (data.items || []).map((it) => ({
-        link: it.link,
-        tag: it.source,
-        title: it.title,
-      }));
-      emAlta.body.innerHTML = renderList(items, "Nada em alta no momento.");
-    })
-    .catch(() => {
-      emAlta.body.innerHTML = renderList([], "Não foi possível carregar agora.");
-    });
-
-  fetch("data/mais-lidas.json")
-    .then((r) => r.json())
-    .then((data) => {
-      const items = (data.items || []).map((it) => ({
-        link: it.link,
-        tag: it.tag || it.editorial || it.source || "",
-        title: it.title,
-      }));
-      maisLidos.body.innerHTML = renderList(
-        items,
-        "Ainda sem dados reais de acesso — essa lista entra sozinha assim que o site tiver tráfego suficiente pra medir de verdade."
-      );
-    })
-    .catch(() => {
-      maisLidos.body.innerHTML = renderList(
-        [],
-        "Ainda sem dados reais de acesso — essa lista entra sozinha assim que o site tiver tráfego suficiente pra medir de verdade."
-      );
-    });
-
-  const mql = window.matchMedia("(max-width: 720px)");
-  function applyResponsive() {
-    section.style.gridTemplateColumns = mql.matches ? "1fr" : "1fr 1fr";
+  function fetchItems(url, mapFn) {
+    return fetch(url)
+      .then((r) => r.json())
+      .then((data) => (data.items || []).map(mapFn))
+      .catch(() => []);
   }
-  mql.addEventListener("change", applyResponsive);
-  applyResponsive();
+
+  Promise.all([
+    fetchItems("data/em-alta.json", (it) => ({ link: it.link, tag: it.source, title: it.title })),
+    fetchItems("data/mais-lidas.json", (it) => ({
+      link: it.link,
+      tag: it.tag || it.editorial || it.source || "",
+      title: it.title,
+    })),
+  ]).then(([emAltaItems, maisLidosItems]) => {
+    const section = document.createElement("section");
+    section.className = "edit-section pulse-section";
+
+    const emAlta = buildColumn("Em Alta no Pick", "Integrado com a home do PickYourFeed");
+    emAlta.body.innerHTML = emAltaItems.length
+      ? renderList(emAltaItems)
+      : '<p class="simple-list-empty">Nada em alta no momento.</p>';
+
+    if (maisLidosItems.length) {
+      section.style.display = "grid";
+      section.style.gridTemplateColumns = "1fr 1fr";
+      section.style.gap = "3rem";
+      const maisLidos = buildColumn("Mais lidos da semana", "Atualizado automaticamente");
+      maisLidos.body.innerHTML = renderList(maisLidosItems);
+      section.appendChild(emAlta.col);
+      section.appendChild(maisLidos.col);
+
+      const mql = window.matchMedia("(max-width: 720px)");
+      const applyResponsive = () => {
+        section.style.gridTemplateColumns = mql.matches ? "1fr" : "1fr 1fr";
+      };
+      mql.addEventListener("change", applyResponsive);
+      applyResponsive();
+    } else {
+      // Sem dado real ainda: só "Em Alta", largura contida (não é pra
+      // parecer uma seção editorial cheia, é um widget discreto).
+      emAlta.col.style.maxWidth = "420px";
+      section.appendChild(emAlta.col);
+    }
+
+    container.appendChild(section);
+  });
 })();
