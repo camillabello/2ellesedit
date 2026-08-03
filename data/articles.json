@@ -1,42 +1,6 @@
 {
-  "generatedAt": "2026-08-03T19:48:56.980274+00:00",
+  "generatedAt": "2026-08-03T21:11:38.513591+00:00",
   "articles": [
-    {
-      "id": "04f19ae9ebbe",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "Exame",
-      "title": "Você pode estar cometendo o erro nº1 das entrevistas de emprego sem saber",
-      "excerpt": "Analista de Pessoas e Cultura da Refuturiza explica os hábitos que mais afastam vagas e como se preparar para testes comportamentais",
-      "image": null,
-      "link": "https://exame.com/carreira/voce-pode-estar-cometendo-o-erro-no1-das-entrevistas-de-emprego-sem-saber/",
-      "mentions": [],
-      "pubDate": "2026-08-03T19:48:51.443624+00:00"
-    },
-    {
-      "id": "94e929cece92",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "Exame",
-      "title": "Christopher Nolan critica a forma como 'amadores' julgam filmes na internet",
-      "excerpt": "Segundo o diretor, boa parte da crítica online confunde entender a mecânica de um filme com invalidá-la",
-      "image": null,
-      "link": "https://exame.com/pop/christopher-nolan-critica-como-amadores-julgam-filmes-na-internet/",
-      "mentions": [],
-      "pubDate": "2026-08-03T19:48:51.440995+00:00"
-    },
-    {
-      "id": "9d7e5a8b7aa0",
-      "editorial": "em-pauta",
-      "scope": "nacional",
-      "source": "Exame",
-      "title": "Como John Galliano voltou ao centro da moda mundial",
-      "excerpt": "Museu Metropolitano dedica retrospectiva de 2027 ao estilista britânico, celebrando sua carreira sem esconder os episódios mais controversos de sua história",
-      "image": null,
-      "link": "https://exame.com/casual/como-john-galliano-voltou-ao-centro-da-moda-mundial/",
-      "mentions": [],
-      "pubDate": "2026-08-03T19:48:51.439972+00:00"
-    },
     {
       "id": "c7c697bbcc90",
       "editorial": "cultura",
@@ -47,7 +11,7 @@
       "image": null,
       "link": "https://exame.com/carreira/a-decisao-mais-importante-sem-ia-por-que-uma-vp-da-microsoft-foi-buscar-respostas-na-filosofia/",
       "mentions": [],
-      "pubDate": "2026-08-03T19:48:51.438327+00:00"
+      "pubDate": "2026-08-03T21:11:30.253666+00:00"
     },
     {
       "id": "a770583fbcde",
@@ -59,7 +23,31 @@
       "image": null,
       "link": "https://exame.com/carreira/cofundador-da-netflix-aposta-em-inteligencia-emocional-e-indica-este-exercicio-para-equipes/",
       "mentions": [],
-      "pubDate": "2026-08-03T19:48:51.437333+00:00"
+      "pubDate": "2026-08-03T21:11:30.252742+00:00"
+    },
+    {
+      "id": "ee61d0ae46c8",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Exame",
+      "title": "Qual o seu maior defeito? IA explica como responder à pergunta mais temida em entrevista de emprego",
+      "excerpt": "Recrutadores não esperam perfeição, mas uma resposta que revele autoconhecimento, ação e aprendizado",
+      "image": null,
+      "link": "https://exame.com/carreira/qual-o-seu-maior-defeito-ia-explica-como-responder-a-pergunta-mais-temida-em-entrevista-de-emprego/",
+      "mentions": [],
+      "pubDate": "2026-08-03T21:11:30.251838+00:00"
+    },
+    {
+      "id": "0839581d1df0",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Exame",
+      "title": "Faturamento, alcance ou inovação: os quatro critérios que provam se um projeto é bom",
+      "excerpt": "Prêmios e aceleradoras brasileiras usam critérios parecidos para separar ideia de projeto que funciona",
+      "image": null,
+      "link": "https://exame.com/carreira/faturamento-alcance-ou-inovacao-os-quatro-criterios-que-provam-se-um-projeto-e-bom/",
+      "mentions": [],
+      "pubDate": "2026-08-03T21:11:30.249606+00:00"
     },
     {
       "id": "ac574af9ec0b",
@@ -71,7 +59,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/retinol-acido-glicolico-essa-combinacao-da-certo",
       "mentions": [],
-      "pubDate": "2026-08-03T19:48:46.791631+00:00"
+      "pubDate": "2026-08-03T21:11:22.613286+00:00"
     },
     {
       "id": "9eec7580dc5f",
@@ -83,7 +71,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/6-beneficios-incriveis-do-creme-retexturizador-noturno",
       "mentions": [],
-      "pubDate": "2026-08-03T19:48:46.791457+00:00"
+      "pubDate": "2026-08-03T21:11:22.613122+00:00"
     },
     {
       "id": "2b7e523b4a34",
@@ -95,7 +83,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/sono-da-beleza-mito-ou-verdade",
       "mentions": [],
-      "pubDate": "2026-08-03T19:48:46.791194+00:00"
+      "pubDate": "2026-08-03T21:11:22.612870+00:00"
     },
     {
       "id": "e8979206c5fc",
@@ -107,7 +95,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/cafeina-vetorizada-o-que-e-quais-os-beneficios-e-diferencas",
       "mentions": [],
-      "pubDate": "2026-08-03T19:48:46.791018+00:00"
+      "pubDate": "2026-08-03T21:11:22.612684+00:00"
     },
     {
       "id": "8597d6e29ecd",
@@ -119,7 +107,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/os-tipos-de-olheiras-e-o-que-pode-agravar-o-escurecimento",
       "mentions": [],
-      "pubDate": "2026-08-03T19:48:46.790689+00:00"
+      "pubDate": "2026-08-03T21:11:22.612337+00:00"
     },
     {
       "id": "11851eb28794",
@@ -131,7 +119,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/glutationa-o-que-e-e-quais-os-beneficios-para-a-pele",
       "mentions": [],
-      "pubDate": "2026-08-03T19:48:46.790515+00:00"
+      "pubDate": "2026-08-03T21:11:22.612183+00:00"
     },
     {
       "id": "e486a6d380c4",
@@ -143,7 +131,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/peptideo-antiolheiras-o-que-e-e-quais-os-beneficios-falta-foto",
       "mentions": [],
-      "pubDate": "2026-08-03T19:48:46.790217+00:00"
+      "pubDate": "2026-08-03T21:11:22.611906+00:00"
     },
     {
       "id": "3c4346b2f749",
@@ -155,7 +143,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/serum-antiolheiras-reducao-de-olheiras-em-30-dias-e-outros-4-beneficios-para-regiao-dos-olhos",
       "mentions": [],
-      "pubDate": "2026-08-03T19:48:46.790029+00:00"
+      "pubDate": "2026-08-03T21:11:22.611723+00:00"
     },
     {
       "id": "b11322bbde3c",
@@ -167,7 +155,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/quais-tipos-de-olheiras-o-serum-antiolheiras-ajuda-a-tratar",
       "mentions": [],
-      "pubDate": "2026-08-03T19:48:46.789584+00:00"
+      "pubDate": "2026-08-03T21:11:22.611296+00:00"
     },
     {
       "id": "3153b4a4d606",
@@ -179,7 +167,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/como-usar-o-serum-antiolheiras",
       "mentions": [],
-      "pubDate": "2026-08-03T19:48:46.789390+00:00"
+      "pubDate": "2026-08-03T21:11:22.611111+00:00"
     },
     {
       "id": "df8e212829a4",
@@ -193,7 +181,7 @@
       "mentions": [
         "Saint Laurent"
       ],
-      "pubDate": "2026-08-03T19:48:39.242454+00:00"
+      "pubDate": "2026-08-03T21:11:12.393293+00:00"
     },
     {
       "id": "ff969f1d52a1",
@@ -207,7 +195,7 @@
       "mentions": [
         "Burberry"
       ],
-      "pubDate": "2026-08-03T19:48:39.242047+00:00"
+      "pubDate": "2026-08-03T21:11:12.392906+00:00"
     },
     {
       "id": "00f4706702a5",
@@ -219,7 +207,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/music/article/70742/1/ariana-grande-petal-album-review-victim-warning-signs-eternal-sunshine?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=petal-the-dark-disturbing-beauty-of-ariana-grande-s-new-album",
       "mentions": [],
-      "pubDate": "2026-08-03T19:48:39.241602+00:00"
+      "pubDate": "2026-08-03T21:11:12.392491+00:00"
     },
     {
       "id": "c46e11952ca2",
@@ -231,7 +219,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/beauty/article/70728/1/lesbian-perfumes-bodybuilders-and-ice-cream-the-months-best-beauty-drops?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=lesbian-perfumes-and-gelato-hairbrushes-these-are-july-s-best-beauty-drops",
       "mentions": [],
-      "pubDate": "2026-08-03T19:48:39.240454+00:00"
+      "pubDate": "2026-08-03T21:11:12.391345+00:00"
     },
     {
       "id": "1e5dd8e92995",
@@ -243,7 +231,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/beauty/article/62583/1/how-do-we-talk-about-this-new-era-of-extreme-thinness?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=how-do-we-talk-about-this-new-era-of-extreme-thinness",
       "mentions": [],
-      "pubDate": "2026-08-03T19:48:39.239529+00:00"
+      "pubDate": "2026-08-03T21:11:12.390487+00:00"
     },
     {
       "id": "2c0e849a02d4",
@@ -255,7 +243,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/beauty/article/70723/1/horoscopes-august-2026-leo-season-eclipse-virgo-pisces-lunar-eclipse?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=horoscopes-august-2026-get-ready-for-some-drama",
       "mentions": [],
-      "pubDate": "2026-08-03T19:48:39.239029+00:00"
+      "pubDate": "2026-08-03T21:11:12.390019+00:00"
     },
     {
       "id": "0c440f5303d8",
@@ -267,7 +255,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/fashion/article/70750/1/met-gala-2027-john-galliano-anna-wintour-peak-nostalgia?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=does-the-john-galliano-met-gala-prove-that-fashion-is-stuck-in-the-past",
       "mentions": [],
-      "pubDate": "2026-08-03T19:48:39.237841+00:00"
+      "pubDate": "2026-08-03T21:11:12.388861+00:00"
     },
     {
       "id": "42dd9bb896b3",
@@ -279,7 +267,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/fashion/article/70732/1/reebok-and-karol-g-celebrate-community-and-self-expression?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=reebok-and-karol-g-celebrate-community-and-self-expression",
       "mentions": [],
-      "pubDate": "2026-08-03T19:48:39.237551+00:00"
+      "pubDate": "2026-08-03T21:11:12.388593+00:00"
     },
     {
       "id": "928cce2a045a",
@@ -291,7 +279,7 @@
       "image": "https://assets.vogue.com/photos/6a70c535bf0b43bb4d9bfb38/master/pass/00001-freya-dalsjo-spring-2027-ready-to-wear-copenhagen-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/freya-dalsjo",
       "mentions": [],
-      "pubDate": "2026-08-03T19:45:04+00:00"
+      "pubDate": "2026-08-03T21:11:01+00:00"
     },
     {
       "id": "70de4587c78c",
@@ -303,7 +291,7 @@
       "image": "https://assets.vogue.com/photos/6a6a0c8b2b1e041cc97631ec/master/pass/00001-self-portrait-resort-2027-credit-brand.jpg",
       "link": "https://www.vogue.com/fashion-shows/resort-2027/self-portrait",
       "mentions": [],
-      "pubDate": "2026-08-03T19:45:04+00:00"
+      "pubDate": "2026-08-03T21:11:01+00:00"
     },
     {
       "id": "ce6e3751d72d",
@@ -315,7 +303,7 @@
       "image": "https://assets.vogue.com/photos/6a70be16c9944acffc8379d1/master/pass/00001-anne-sofie-madsen-spring-2027-ready-to-wear-copenhagen-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/anne-sofie-madsen",
       "mentions": [],
-      "pubDate": "2026-08-03T19:45:04+00:00"
+      "pubDate": "2026-08-03T21:11:01+00:00"
     },
     {
       "id": "b12026801455",
@@ -327,7 +315,241 @@
       "image": "https://assets.vogue.com/photos/6a6b58e29c6a695fa12bac52/master/pass/00001-sportmax-resort-2027-credit-brand.jpg",
       "link": "https://www.vogue.com/fashion-shows/resort-2027/sportmax",
       "mentions": [],
-      "pubDate": "2026-08-03T19:45:04+00:00"
+      "pubDate": "2026-08-03T21:11:01+00:00"
+    },
+    {
+      "id": "19c43923793a",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Highsnobiety",
+      "title": "Nike’s Miu Miu-Coded Jordan Sneaker Is Extra (in a Good Way)",
+      "excerpt": "The new Air Jordan 3 \"Sport Renaissance\" sneaker has a lot going on, from mismatched details to Miu Miu-style shoelaces.",
+      "image": null,
+      "link": "https://www.highsnobiety.com/p/jordan-3-sport-renaissance/",
+      "mentions": [
+        "Miu Miu"
+      ],
+      "pubDate": "2026-08-03T21:02:23+00:00"
+    },
+    {
+      "id": "05c23aee62a7",
+      "editorial": "beleza",
+      "scope": "internacional",
+      "source": "WWD",
+      "title": "Skin Care’s Getting Fishy Again: Experts Weigh in on the Sardine Surge",
+      "excerpt": "From salmon sperm skin care to sardines for supper, beauty’s appetite for fish-derived complexion fixes keeps growing.",
+      "image": null,
+      "link": "https://wwd.com/pop-culture/culture-news/sardine-skin-care-tiktok-trend-explained-1239091705/",
+      "mentions": [],
+      "pubDate": "2026-08-03T20:53:39+00:00"
+    },
+    {
+      "id": "9e6a1a73b002",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Meio & Mensagem",
+      "title": "Disney+ passa Netflix e se torna vice-líder no streaming",
+      "excerpt": "O Disney+ ultrapassou a Netflix em participação no mercado brasileiro de streaming. Segundo dados da JustWatch, a plataforma de VOD da Disney passou para a vice-liderança do mercado no segundo…",
+      "image": "https://www.meioemensagem.com.br/wp-content/uploads/2026/08/1280X852-apps-streaming-cred-Koshiro-K-shutterstock-1280x668.jpg",
+      "link": "https://www.meioemensagem.com.br/midia/disney-netflix-vice-lideranca-streaming",
+      "mentions": [],
+      "pubDate": "2026-08-03T20:48:15+00:00"
+    },
+    {
+      "id": "7962587ac9d1",
+      "editorial": "cultura",
+      "scope": "internacional",
+      "source": "Nylon",
+      "title": "Custom Corsets & Fairy Braids: Faouzia’s Magically Whimsical Lollapalooza 2026 Photo Diary",
+      "excerpt": "Canadian singer Faouzia takes NYLON along for her debut at Lollapalooza 2026.",
+      "image": "https://imgix.bustle.com/uploads/image/2026/8/3/d5187b06/bellapeterson-073026-5615-1.jpg?w=1200&fit=max",
+      "link": "https://www.nylon.com/entertainment/faouzia-photo-diary-lollapalooza-2026",
+      "mentions": [],
+      "pubDate": "2026-08-03T20:46:21+00:00"
+    },
+    {
+      "id": "8660053ec6db",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Highsnobiety",
+      "title": "You Know a Shoe Is Peak When It's Snow Peak",
+      "excerpt": "With every color-focused collab, outdoor brand Snow Peak is improving on classic shoe silhouettes from Merrell, Birkenstock, Keen, and more.",
+      "image": null,
+      "link": "https://www.highsnobiety.com/p/snow-peak-shoe-collabs/",
+      "mentions": [],
+      "pubDate": "2026-08-03T20:45:01+00:00"
+    },
+    {
+      "id": "b2f0b68a5731",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Who What Wear",
+      "title": "Free People Is My Secret to Getting Compliments—6 Specific Pieces I'm Always Asked About",
+      "excerpt": "Shop my tightly curated edit.",
+      "image": "https://cdn.mos.cms.futurecdn.net/WqjZkjR4aTCX5YB3cNRfdV-1280-80.jpg",
+      "link": "https://www.whowhatwear.com/fashion/trends/most-complimented-items-free-people",
+      "mentions": [],
+      "pubDate": "2026-08-03T20:39:36+00:00"
+    },
+    {
+      "id": "1bc69c8bd70e",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Meio & Mensagem",
+      "title": "Santander Brasil promove Eduardo Álvarez",
+      "excerpt": "Eduardo Álvarez acaba de ser promovido a diretor da área Institucional do Santander no País, que reúne as frentes de Comunicação, Marketing, Sustentabilidade, Experiências e Cultura. Com a…",
+      "image": "https://www.meioemensagem.com.br/wp-content/uploads/2026/08/Eduardo-Alvarez_Santander_dir_Institucional_1280-1280x668.jpg",
+      "link": "https://www.meioemensagem.com.br/gente/santander-brasil-promove-eduardo-alvarez",
+      "mentions": [],
+      "pubDate": "2026-08-03T20:28:16+00:00"
+    },
+    {
+      "id": "da193bd139ce",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Highsnobiety",
+      "title": "Even When It’s Doing Nothing, Nike’s Skate-Ready Tennis Sneaker Looks Good",
+      "excerpt": "Nike SB's Zoom Tennis Classic sneaker lands in a simple \"Black/White\" colorway. And it still looks good.",
+      "image": null,
+      "link": "https://www.highsnobiety.com/p/nike-sb-zoom-tennis-classic-black/",
+      "mentions": [],
+      "pubDate": "2026-08-03T20:21:51+00:00"
+    },
+    {
+      "id": "e0f35956c9b0",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Vogue Brasil",
+      "title": "Anne Hathaway comemora os 25 anos de O Diário da Princesa e faz homenagem emocionante ao diretor",
+      "excerpt": "Atriz relembrou o filme que marcou sua estreia no cinema, agradeceu o carinho dos fãs e prestou uma homenagem especial ao diretor Garry Marshall",
+      "image": "https://s2-vogue.glbimg.com/QJtKrZwMJYrqRjP6UcT-dgk8M2Y=/i.s3.glbimg.com/v1/AUTH_5dfbcf92c1a84b20a5da5024d398ff2f/internal_photos/bs/2022/z/i/B9YqjKReSnzp1bGffkLA/2016-03-16-daad.jpg",
+      "link": "https://vogue.globo.com/cultura/filmes/noticia/2026/08/anne-hathaway-comemora-os-25-anos-de-o-diario-da-princesa-e-faz-homenagem-emocionante-ao-diretor.ghtml",
+      "mentions": [],
+      "pubDate": "2026-08-03T20:21:37+00:00"
+    },
+    {
+      "id": "e9eed55041ae",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "When It Was Time to Propose, Presley Oldham Made His Fiancé’s Ring Himself",
+      "excerpt": "The jeweler popped the question with a bespoke ring embedded with meaning. “It was a lot of pressure to design it, because I wanted it to be right. Also, it is my job.”",
+      "image": "https://assets.vogue.com/photos/6a70b9f750f490a3e3bab099/master/pass/Our-First-Engaged-Kiss%20(2).jpg4.jpg",
+      "link": "https://www.vogue.com/article/presley-oldham-engagement-ring",
+      "mentions": [],
+      "pubDate": "2026-08-03T20:19:59+00:00"
+    },
+    {
+      "id": "a81d9e49c263",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Who What Wear",
+      "title": "I Studied All of Zara's New Items—These Are the 30 I'd Buy Before They Inevitably Sell Out",
+      "excerpt": "Michelle has lived in Los Angeles for 12 years and worked in editorial and content creation for 10+ years. She started her career in 2012 interning at WhoWhatWear then was quickly hired as their…",
+      "image": "https://cdn.mos.cms.futurecdn.net/8ZdZdkeSYFspCPuHbPhfSQ-1280-80.png",
+      "link": "https://www.whowhatwear.com/fashion/shopping/sell-out-zara-items-august-2026",
+      "mentions": [
+        "Zara"
+      ],
+      "pubDate": "2026-08-03T20:17:04+00:00"
+    },
+    {
+      "id": "4e50f014cba1",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Elle US",
+      "title": "Gigi Hadid and Bradley Cooper Step Out in Paris With Rings on Their Left Hands",
+      "excerpt": "The couple’s new hardware sparked marriage speculation.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/c7924377-2320-4ca2-bc03-271f2011b8b7.jpg",
+      "link": "https://www.elle.com/culture/celebrities/a73336394/gigi-hadid-bradley-cooper-new-rings-marriage-rumors-explained/",
+      "mentions": [],
+      "pubDate": "2026-08-03T20:16:01+00:00"
+    },
+    {
+      "id": "39abb545454b",
+      "editorial": "em-pauta",
+      "scope": "internacional",
+      "source": "WWD",
+      "title": "Has Miu Miu Found Its Next Big Sneaker to Follow Up Its New Balance Collaboration?",
+      "excerpt": "Miu Miu's Bubble shoe, updated from an early 2000s archival style, is back.",
+      "image": null,
+      "link": "https://wwd.com/footwear-news/shoe-trends/miu-miu-bubble-shoe-sneaker-fall-2026-1239091856/",
+      "mentions": [
+        "Miu Miu"
+      ],
+      "pubDate": "2026-08-03T20:14:28+00:00"
+    },
+    {
+      "id": "ef6a0e5351bf",
+      "editorial": "cultura",
+      "scope": "internacional",
+      "source": "Harper's Bazaar US",
+      "title": "The 2026 Lollapalooza Festival Was Buzzier Than Ever",
+      "excerpt": "This year’s lineup saw performances, and fashion, that elevated it to new heights",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d8b6db25-5936-42fd-abff-00aea812a804.jpg",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73335873/2026-lollapalooza-music-festival-reaction-fashion-performances/",
+      "mentions": [],
+      "pubDate": "2026-08-03T20:11:47+00:00"
+    },
+    {
+      "id": "f17c9bf32b60",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Harper's Bazaar US",
+      "title": "We Found the Best Handbags to Shop Before Nordstrom’s Anniversary Sale Ends",
+      "excerpt": "Save up to 70 percent on designer styles from Tory Burch, Mulberry, Chloé, and more",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/807a6892-7c30-4241-a69e-3f284da9449b.png",
+      "link": "https://www.harpersbazaar.com/fashion/trends/a71930374/nordstrom-anniversary-sale-handbag-deals-2026/",
+      "mentions": [],
+      "pubDate": "2026-08-03T20:08:00+00:00"
+    },
+    {
+      "id": "c01440e4d28a",
+      "editorial": "beleza",
+      "scope": "internacional",
+      "source": "Harper's Bazaar US",
+      "title": "The 15 Best Mature Beauty Deals to Shop Now at Nordstrom’s Anniversary Sale 2026",
+      "excerpt": "Time’s running out to save up to 50 percent off on La Mer, T3, and more",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2d336636-9730-417b-b3bb-60be78199e8b.jpg",
+      "link": "https://www.harpersbazaar.com/beauty/skin-care/g71899334/nordstrom-anniversary-sale-mature-beauty-deals-2026/",
+      "mentions": [],
+      "pubDate": "2026-08-03T20:07:00+00:00"
+    },
+    {
+      "id": "0b6ae972ada5",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "WWD",
+      "title": "Jay Schottenstein Tapped to Receive The Visionary Award From the NRF",
+      "excerpt": "The longtime AEO leader has lived a life in retail.",
+      "image": null,
+      "link": "https://wwd.com/fashion-news/fashion-scoops/jay-schottenstein-nrf-visionary-award-2027-1239091979/",
+      "mentions": [],
+      "pubDate": "2026-08-03T20:03:04+00:00"
+    },
+    {
+      "id": "c0fa1e5fe030",
+      "editorial": "lifestyle",
+      "scope": "nacional",
+      "source": "Habitare",
+      "title": "Casa Orientales: Studio di Giácomo transforma antiga construção em restaurante de parrilla uruguaia em Florianópolis",
+      "excerpt": "Com projeto que alia funcionalidade, identidade e aconchego, o Studio di Giácomo reformou completamente o restaurante Casa Orientales, integrando gastronomia, empório e charcutaria em um ambiente…",
+      "image": "https://static.wixstatic.com/media/826b47_c4892ca5e41944e588f45803f7077524~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png",
+      "link": "https://www.revistahabitare.com.br/post/casa-orientales-studio-di-gi%C3%A1como-transforma-antiga-constru%C3%A7%C3%A3o-em-restaurante-de-parrilla-uruguaia",
+      "mentions": [],
+      "pubDate": "2026-08-03T20:00:12+00:00"
+    },
+    {
+      "id": "c6dabc0a693b",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Meio & Mensagem",
+      "title": "Salles Neto apresenta seu livro em evento no Rio de Janeiro",
+      "excerpt": "Salles Neto, o fundador do Grupo Meio & Mensagem, participa da noite de autógrafos da autobiografia O Comunicador da Comunicação nesta terça-feira, 4, na Livraria Travessa, Ipanema, no Rio de…",
+      "image": "https://www.meioemensagem.com.br/wp-content/uploads/2026/08/1280x852-salles-neto-o-comunicado-da-comunicacao-cred-maquina-da-foto-1280x668.jpg",
+      "link": "https://www.meioemensagem.com.br/midia/salles-neto-apresenta-seu-livro-em-evento-no-rio-de-janeiro",
+      "mentions": [],
+      "pubDate": "2026-08-03T19:49:07+00:00"
     },
     {
       "id": "5b5a087ae6be",
@@ -726,32 +948,6 @@
       "pubDate": "2026-08-03T17:15:40+00:00"
     },
     {
-      "id": "628ecccd128b",
-      "editorial": "cultura",
-      "scope": "internacional",
-      "source": "WWD",
-      "title": "Charlize Theron Gives Translucent Dressing a Technical Twist in Tom Ford",
-      "excerpt": "Clear plastic is emerging as a futuristic alternative to the delicate fabrics long associated with sheer dressing.",
-      "image": null,
-      "link": "https://wwd.com/pop-culture/celebrity-news/charlize-theron-tom-ford-the-odyssey-seoul-1239091383/",
-      "mentions": [],
-      "pubDate": "2026-08-03T17:15:25+00:00"
-    },
-    {
-      "id": "ac88b4e154ad",
-      "editorial": "cultura",
-      "scope": "internacional",
-      "source": "WWD",
-      "title": "Zara Larsson Puts Polka Dot Eyes on the Summer Beauty Agenda at Lollapalooza 2026",
-      "excerpt": "The artist took the stage in color-drenched glam and eccentric shadow on Friday night.",
-      "image": null,
-      "link": "https://wwd.com/pop-culture/celebrity-news/zara-larsson-beauty-lollapalooza-2026-1239091374/",
-      "mentions": [
-        "Zara"
-      ],
-      "pubDate": "2026-08-03T17:01:17+00:00"
-    },
-    {
       "id": "15ecb8b4af06",
       "editorial": "beleza",
       "scope": "nacional",
@@ -920,18 +1116,6 @@
       "pubDate": "2026-08-03T16:06:00+00:00"
     },
     {
-      "id": "b5246c083189",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "The Vogue Business People Moves Tracker",
-      "excerpt": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
-      "image": "https://assets.vogue.com/photos/6942d832d405f1aa30a2559f/master/pass/people-moves-vogue-business-story.jpg",
-      "link": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
-      "mentions": [],
-      "pubDate": "2026-08-03T16:02:37+00:00"
-    },
-    {
       "id": "08176682b6cd",
       "editorial": "moda",
       "scope": "internacional",
@@ -954,18 +1138,6 @@
       "link": "https://www.elle.com/beauty/makeup-skin-care/a73233030/colorful-micro-french-manicure-ideas/",
       "mentions": [],
       "pubDate": "2026-08-03T16:00:00+00:00"
-    },
-    {
-      "id": "ed20f41e2bd5",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Elle US",
-      "title": "All About Jennifer Lopez’s Eldest Child, Emme Maribel Muñiz",
-      "excerpt": "",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/a752c961-3d34-436a-b1d8-6bdcbb523741.jpg",
-      "link": "https://www.elle.com/culture/celebrities/a69194490/who-is-jennifer-lopez-child-emme-maribel-muniz/",
-      "mentions": [],
-      "pubDate": "2026-08-03T15:58:00+00:00"
     },
     {
       "id": "aef710238aae",
@@ -1114,18 +1286,6 @@
       "pubDate": "2026-08-03T15:06:34+00:00"
     },
     {
-      "id": "3990a62855b3",
-      "editorial": "cultura",
-      "scope": "internacional",
-      "source": "Harper's Bazaar US",
-      "title": "Queen Letizia Looks Fantastic in a Burgundy Off-the-Shoulder Cocktail Dress",
-      "excerpt": "She attended the closing ceremony for the 2026 Atlàntida Mallorca Film Fest",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/272c53ca-37a9-4930-8b10-c6770e1cf8ec.jpeg",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73333425/queen-letizia-burgundy-off-the-shoulder-dress-2026-atlantida-mallorca-film-fest-closing-ceremony/",
-      "mentions": [],
-      "pubDate": "2026-08-03T15:05:35+00:00"
-    },
-    {
       "id": "88d2dfcaf64b",
       "editorial": "moda",
       "scope": "internacional",
@@ -1268,18 +1428,6 @@
       "link": "https://stealthelook.com.br/5-opcoes-de-presente-infaliveis-para-o-dia-dos-pais-de-ate-r200/",
       "mentions": [],
       "pubDate": "2026-08-03T14:00:00+00:00"
-    },
-    {
-      "id": "8eb0e52ce410",
-      "editorial": "cultura",
-      "scope": "internacional",
-      "source": "Harper's Bazaar US",
-      "title": "Dakota Johnson Makes a Sexy Cameo in Role Model’s Unreleased Song “Love I You”",
-      "excerpt": "And it’s all I can think about",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/600bb0f4-0fa9-49a3-9e1b-473e156d4cf6.jpg",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73333375/dakota-johnson-voice-cameo-role-model-song-love-i-you-lyrics/",
-      "mentions": [],
-      "pubDate": "2026-08-03T13:56:33+00:00"
     },
     {
       "id": "207d19b93406",
@@ -1963,7 +2111,7 @@
       "scope": "nacional",
       "source": "Meio & Mensagem",
       "title": "RD Saúde terá modelo de farmácia focado em beleza",
-      "excerpt": "Nesta quarta-feira, 5, a RD Saúde, grupo responsável pelas redes de farmácias Raia e Drogasil, inaugura sua primeira farmácia focada em beleza. A Raia Conceito, como foi batizada, ficará no Itaim…",
+      "excerpt": "Atualizada em 3 de agosto às 17h16 Nesta quarta-feira, 5, a RD Saúde, grupo responsável pelas redes de farmácias Raia e Drogasil, inaugura sua primeira farmácia focada em beleza. A Raia Conceito…",
       "image": "https://www.meioemensagem.com.br/wp-content/uploads/2026/07/Raia-Conceito-3D.JPG-1280x668.jpg",
       "link": "https://www.meioemensagem.com.br/marketing/rd-saude-tera-modelo-de-farmacia-focado-em-beleza",
       "mentions": [],
@@ -2126,32 +2274,6 @@
       "pubDate": "2026-08-03T07:00:36+00:00"
     },
     {
-      "id": "c91a1d4248a7",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Who What Wear",
-      "title": "It's Official: This is the Number-One Chanel Bag of 2026",
-      "excerpt": "Anna is an editor on the fashion team at Who What Wear and has been at the company for over eight years, having begun her career in the Los Angeles office before relocating to New York, where she's…",
-      "image": "https://cdn.mos.cms.futurecdn.net/Q2FihdzSdnjg5dRs6KjEWR-1280-80.gif",
-      "link": "https://www.whowhatwear.com/fashion/luxury/chanel-shopping-bag",
-      "mentions": [
-        "Chanel"
-      ],
-      "pubDate": "2026-08-03T07:00:00+00:00"
-    },
-    {
-      "id": "56e957138382",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Who What Wear",
-      "title": "I Hope You're Not Sleeping on the Nordstrom Anniversary Sale—These Are the Random (Yet Amazing) Items to Buy Before It Ends",
-      "excerpt": "Bobby Schuessler is a fashion editor with over 15 years of editorial experience covering shopping, style, and beauty. He's spent over a decade at Who What Wear, currently leading the market team to…",
-      "image": "https://cdn.mos.cms.futurecdn.net/GMUCxmmDRcucHKBHiqvtAL-1280-80.gif",
-      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-anniversary-sale-useful-items-2026",
-      "mentions": [],
-      "pubDate": "2026-08-03T07:00:00+00:00"
-    },
-    {
       "id": "a42c913df14f",
       "editorial": "cultura",
       "scope": "internacional",
@@ -2248,18 +2370,6 @@
       "pubDate": "2026-08-02T22:00:27+00:00"
     },
     {
-      "id": "3b654b286dbe",
-      "editorial": "cultura",
-      "scope": "internacional",
-      "source": "Harper's Bazaar US",
-      "title": "Charli XCX Celebrates Her 34th Birthday With a Striped Pantless Party Look",
-      "excerpt": "The Lollapalooza style streak just keeps on coming",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/027add7d-31e3-446c-83c1-deb78155e37b.jpg",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73327696/charli-xcx-celebrates-34-birthday-striped-pantless-look-lollapalooza-party-photos/",
-      "mentions": [],
-      "pubDate": "2026-08-02T21:59:33+00:00"
-    },
-    {
       "id": "8d567d5ed101",
       "editorial": "cultura",
       "scope": "nacional",
@@ -2270,18 +2380,6 @@
       "link": "https://capricho.abril.com.br/entretenimento/ariana-grande-deixa-peca-de-teatro-e-fara-pausa-na-carreira-apos-turne/",
       "mentions": [],
       "pubDate": "2026-08-02T20:56:06+00:00"
-    },
-    {
-      "id": "51cc03cc728d",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Highsnobiety",
-      "title": "New Balance’s Elegant Dad Shoe Is a Rare Breed",
-      "excerpt": "New Balance's newest 996 sneakers appear with textural looks & satin shoelaces, a rare makeover for the brand's dad shoes.",
-      "image": null,
-      "link": "https://www.highsnobiety.com/p/new-balance-996-satin-shoelaces/",
-      "mentions": [],
-      "pubDate": "2026-08-02T20:40:09+00:00"
     },
     {
       "id": "2141f6d6535d",
@@ -2782,18 +2880,6 @@
       "pubDate": "2026-08-01T16:09:49+00:00"
     },
     {
-      "id": "851139c02400",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "Vogue Brasil",
-      "title": "Tudo sobre o casamento de Emma Roberts e Cody John na encosta de uma montanha em Idaho",
-      "excerpt": "O casal de atores celebrou a união em uma propriedade da família de Cody em Sun Valley, em Idaho, nos Estados Unidos",
-      "image": "https://s2-vogue.glbimg.com/YaGCD30yagsGiyKTtQYL-oT1CS4=/i.s3.glbimg.com/v1/AUTH_5dfbcf92c1a84b20a5da5024d398ff2f/internal_photos/bs/2026/o/L/iWP6LuQSSrRAKSja4USw/emma-roberts-e-cody-john-norman-blake-15.jpg",
-      "link": "https://vogue.globo.com/noiva/noticia/2026/08/tudo-sobre-o-casamento-de-emma-roberts-e-cody-john-na-encosta-de-uma-montanha-em-idaho.ghtml",
-      "mentions": [],
-      "pubDate": "2026-08-01T15:39:26+00:00"
-    },
-    {
       "id": "d379bcadbb4a",
       "editorial": "em-pauta",
       "scope": "nacional",
@@ -3046,18 +3132,6 @@
       "link": "https://forbes.com.br/forbes-life/2026/07/como-iago-jacomussi-foi-do-mercado-financeiro-ao-estrelato-do-guia-michelin-em-5-anos/",
       "mentions": [],
       "pubDate": "2026-07-31T21:02:02+00:00"
-    },
-    {
-      "id": "b15bb9e1bc4c",
-      "editorial": "moda",
-      "scope": "nacional",
-      "source": "Meio & Mensagem",
-      "title": "Vasco vira 1º clube brasileiro com coleção Stanley",
-      "excerpt": "O Vasco da Gama se tornou o primeiro clube brasileiro a desenvolver uma coleção licenciada com a Stanley 1913. Com a parceria, anunciada nesta sexta-feira, 31, o time também passa a ser o quarto do…",
-      "image": "https://www.meioemensagem.com.br/wp-content/uploads/2026/07/Stanley-Vasco.jpg-1280x668.jpg",
-      "link": "https://www.meioemensagem.com.br/marketing/vasco-vira-1o-clube-brasileiro-com-colecao-stanley",
-      "mentions": [],
-      "pubDate": "2026-07-31T20:02:56+00:00"
     },
     {
       "id": "4d4712dc8d81",
@@ -3314,18 +3388,6 @@
       "pubDate": "2026-07-30T23:05:00+00:00"
     },
     {
-      "id": "1861b7050ebf",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Highsnobiety",
-      "title": "To Bring the Best Out of Matthew Williams & 424, Invite Them to Your Birthday",
-      "excerpt": "Japanese luxury streetwear retailer Nubian convinced Matthew M. Williams and 424 to turn their staple pieces into deconstructed perfection.",
-      "image": null,
-      "link": "https://www.highsnobiety.com/p/youll-have-to-go-to-japan-for-424s-most-perfectly-distressed-denim/",
-      "mentions": [],
-      "pubDate": "2026-07-30T21:33:00+00:00"
-    },
-    {
       "id": "1983843b7833",
       "editorial": "lifestyle",
       "scope": "nacional",
@@ -3555,32 +3617,6 @@
         "Prada"
       ],
       "pubDate": "2026-07-29T15:30:59+00:00"
-    },
-    {
-      "id": "7b793abfd31c",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Nylon",
-      "title": "Olivia Rodrigo On Designing For Lego And Her \"Amazing\" Summer",
-      "excerpt": "Catching up with the singer in Los Angeles to talk her new collectables and what's still on her summer bucket list.",
-      "image": "https://imgix.bustle.com/uploads/image/2026/7/29/e41cf790/img_6062.jpg?w=1200&fit=max",
-      "link": "https://www.nylon.com/entertainment/olivia-rodrigo-lego-collection",
-      "mentions": [],
-      "pubDate": "2026-07-29T14:00:25+00:00"
-    },
-    {
-      "id": "c72151f95b3a",
-      "editorial": "moda",
-      "scope": "nacional",
-      "source": "Garotas Estúpidas",
-      "title": "Escolhemos nossos favoritos da collab entre Renner e FRANCESCA",
-      "excerpt": "Uma das parcerias mais aguardadas da moda nacional, a colaboração inédita entre a Renner e a marca FRANCESCA... O post Escolhemos nossos favoritos da collab entre Renner e FRANCESCA apareceu primeiro…",
-      "image": "https://garotasestupidas.com/wp-content/uploads/2026/07/baarbara-martinez-renner-francesca-moda-garotas-estupidas.jpeg",
-      "link": "https://garotasestupidas.com/escolhemos-nossos-favoritos-da-collab-entre-renner-e-francesca/",
-      "mentions": [
-        "Renner"
-      ],
-      "pubDate": "2026-07-28T19:56:00+00:00"
     }
   ]
 }
