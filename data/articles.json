@@ -1,30 +1,6 @@
 {
-  "generatedAt": "2026-08-04T23:08:19.174712+00:00",
+  "generatedAt": "2026-08-05T02:57:21.911417+00:00",
   "articles": [
-    {
-      "id": "159200a74876",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "Exame",
-      "title": "Os 100 melhores álbuns da história, segundo a Apple Music",
-      "excerpt": "A seleção foi elaborada a partir de uma curadoria editorial, com a participação de artistas como Pharrell Williams, J Balvin, Maren Morris e Charli XCX",
-      "image": null,
-      "link": "https://exame.com/pop/apple-music-elege-os-100-melhores-albuns-da-historia-veja-a-lista-completa/",
-      "mentions": [],
-      "pubDate": "2026-08-04T23:08:12.599464+00:00"
-    },
-    {
-      "id": "2b697b735dbe",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "Exame",
-      "title": "Como usar prompts para se preparar para uma entrevista de emprego sem parecer um robô",
-      "excerpt": "Ferramentas podem simular recrutadores e revisar respostas, mas não substituem experiência, pesquisa e autenticidade",
-      "image": null,
-      "link": "https://exame.com/carreira/como-usar-prompts-para-se-preparar-para-uma-entrevista-de-emprego-sem-parecer-um-robo/",
-      "mentions": [],
-      "pubDate": "2026-08-04T23:08:12.598608+00:00"
-    },
     {
       "id": "45aed1e5ab21",
       "editorial": "cultura",
@@ -35,7 +11,7 @@
       "image": null,
       "link": "https://exame.com/carreira/estudantes-de-todas-as-regioes-do-brasil-podem-ganhar-viagem-gratuita-para-a-china-com-esta-premiacao/",
       "mentions": [],
-      "pubDate": "2026-08-04T23:08:12.597982+00:00"
+      "pubDate": "2026-08-05T02:57:14.980236+00:00"
     },
     {
       "id": "766680242738",
@@ -47,7 +23,7 @@
       "image": null,
       "link": "https://exame.com/carreira/ministra-carmen-lucia-e-preciso-se-levantar-contra-toda-forma-de-violencia-contra-a-mulher/",
       "mentions": [],
-      "pubDate": "2026-08-04T23:08:12.596077+00:00"
+      "pubDate": "2026-08-05T02:57:14.978199+00:00"
     },
     {
       "id": "193120e648a3",
@@ -59,7 +35,7 @@
       "image": null,
       "link": "https://exame.com/carreira/voce-tem-mais-medo-da-mudanca-ou-de-que-as-coisas-nao-mudem/",
       "mentions": [],
-      "pubDate": "2026-08-04T23:08:12.593803+00:00"
+      "pubDate": "2026-08-05T02:57:14.975782+00:00"
     },
     {
       "id": "070c77fb325c",
@@ -71,7 +47,21 @@
       "image": null,
       "link": "https://exame.com/esporte/apos-morte-de-puro-osso-presidente-do-ufc-faz-post-fumando-charuto-com-emoji-feliz/",
       "mentions": [],
-      "pubDate": "2026-08-04T23:08:12.593489+00:00"
+      "pubDate": "2026-08-05T02:57:14.975434+00:00"
+    },
+    {
+      "id": "6cd76868a3e3",
+      "editorial": "lifestyle",
+      "scope": "nacional",
+      "source": "Exame",
+      "title": "C&A tem lucro recorde de R$ 130 milhões no 2º tri, mas Copa do Mundo freia vendas",
+      "excerpt": "Receita de vestuário da varejista cresceu 5,6%, enquanto SSS desacelerou para 4,1% no trimestre",
+      "image": null,
+      "link": "https://exame.com/invest/mercados/ca-tem-lucro-recorde-de-r-130-milhoes-no-2o-tri-mas-copa-do-mundo-freia-vendas/",
+      "mentions": [
+        "C&A"
+      ],
+      "pubDate": "2026-08-05T02:57:14.973629+00:00"
     },
     {
       "id": "ac574af9ec0b",
@@ -83,7 +73,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/retinol-acido-glicolico-essa-combinacao-da-certo",
       "mentions": [],
-      "pubDate": "2026-08-04T23:08:05.640980+00:00"
+      "pubDate": "2026-08-05T02:57:10.698976+00:00"
     },
     {
       "id": "9eec7580dc5f",
@@ -95,7 +85,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/6-beneficios-incriveis-do-creme-retexturizador-noturno",
       "mentions": [],
-      "pubDate": "2026-08-04T23:08:05.640783+00:00"
+      "pubDate": "2026-08-05T02:57:10.698808+00:00"
     },
     {
       "id": "2b7e523b4a34",
@@ -107,7 +97,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/sono-da-beleza-mito-ou-verdade",
       "mentions": [],
-      "pubDate": "2026-08-04T23:08:05.640533+00:00"
+      "pubDate": "2026-08-05T02:57:10.698541+00:00"
     },
     {
       "id": "e8979206c5fc",
@@ -119,7 +109,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/cafeina-vetorizada-o-que-e-quais-os-beneficios-e-diferencas",
       "mentions": [],
-      "pubDate": "2026-08-04T23:08:05.640361+00:00"
+      "pubDate": "2026-08-05T02:57:10.698339+00:00"
     },
     {
       "id": "8597d6e29ecd",
@@ -131,7 +121,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/os-tipos-de-olheiras-e-o-que-pode-agravar-o-escurecimento",
       "mentions": [],
-      "pubDate": "2026-08-04T23:08:05.640053+00:00"
+      "pubDate": "2026-08-05T02:57:10.698022+00:00"
     },
     {
       "id": "11851eb28794",
@@ -143,7 +133,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/glutationa-o-que-e-e-quais-os-beneficios-para-a-pele",
       "mentions": [],
-      "pubDate": "2026-08-04T23:08:05.639889+00:00"
+      "pubDate": "2026-08-05T02:57:10.697861+00:00"
     },
     {
       "id": "e486a6d380c4",
@@ -155,7 +145,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/peptideo-antiolheiras-o-que-e-e-quais-os-beneficios-falta-foto",
       "mentions": [],
-      "pubDate": "2026-08-04T23:08:05.639590+00:00"
+      "pubDate": "2026-08-05T02:57:10.697570+00:00"
     },
     {
       "id": "3c4346b2f749",
@@ -167,7 +157,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/serum-antiolheiras-reducao-de-olheiras-em-30-dias-e-outros-4-beneficios-para-regiao-dos-olhos",
       "mentions": [],
-      "pubDate": "2026-08-04T23:08:05.639411+00:00"
+      "pubDate": "2026-08-05T02:57:10.697367+00:00"
     },
     {
       "id": "b11322bbde3c",
@@ -179,7 +169,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/quais-tipos-de-olheiras-o-serum-antiolheiras-ajuda-a-tratar",
       "mentions": [],
-      "pubDate": "2026-08-04T23:08:05.639002+00:00"
+      "pubDate": "2026-08-05T02:57:10.696942+00:00"
     },
     {
       "id": "3153b4a4d606",
@@ -191,7 +181,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/como-usar-o-serum-antiolheiras",
       "mentions": [],
-      "pubDate": "2026-08-04T23:08:05.638795+00:00"
+      "pubDate": "2026-08-05T02:57:10.696749+00:00"
     },
     {
       "id": "c46e11952ca2",
@@ -203,7 +193,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/beauty/article/70728/1/lesbian-perfumes-bodybuilders-and-ice-cream-the-months-best-beauty-drops?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=lesbian-perfumes-and-gelato-hairbrushes-these-are-july-s-best-beauty-drops",
       "mentions": [],
-      "pubDate": "2026-08-04T23:07:55.766707+00:00"
+      "pubDate": "2026-08-05T02:56:52.201272+00:00"
     },
     {
       "id": "1e5dd8e92995",
@@ -215,7 +205,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/beauty/article/62583/1/how-do-we-talk-about-this-new-era-of-extreme-thinness?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=how-do-we-talk-about-this-new-era-of-extreme-thinness",
       "mentions": [],
-      "pubDate": "2026-08-04T23:07:55.765854+00:00"
+      "pubDate": "2026-08-05T02:56:52.200373+00:00"
     },
     {
       "id": "2c0e849a02d4",
@@ -227,7 +217,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/beauty/article/70723/1/horoscopes-august-2026-leo-season-eclipse-virgo-pisces-lunar-eclipse?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=horoscopes-august-2026-get-ready-for-some-drama",
       "mentions": [],
-      "pubDate": "2026-08-04T23:07:55.765384+00:00"
+      "pubDate": "2026-08-05T02:56:52.199917+00:00"
     },
     {
       "id": "0c440f5303d8",
@@ -239,7 +229,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/fashion/article/70750/1/met-gala-2027-john-galliano-anna-wintour-peak-nostalgia?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=does-the-john-galliano-met-gala-prove-that-fashion-is-stuck-in-the-past",
       "mentions": [],
-      "pubDate": "2026-08-04T23:07:55.764281+00:00"
+      "pubDate": "2026-08-05T02:56:52.198801+00:00"
     },
     {
       "id": "42dd9bb896b3",
@@ -251,7 +241,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/fashion/article/70732/1/reebok-and-karol-g-celebrate-community-and-self-expression?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=reebok-and-karol-g-celebrate-community-and-self-expression",
       "mentions": [],
-      "pubDate": "2026-08-04T23:07:55.764043+00:00"
+      "pubDate": "2026-08-05T02:56:52.198558+00:00"
     },
     {
       "id": "f90b883a8042",
@@ -263,7 +253,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/music/article/70740/1/meet-che-the-metallic-gothic-future-of-rage-music?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=che-is-the-emo-future-of-rage-music",
       "mentions": [],
-      "pubDate": "2026-08-04T23:07:55.762918+00:00"
+      "pubDate": "2026-08-05T02:56:52.197409+00:00"
     },
     {
       "id": "705606540dfb",
@@ -275,7 +265,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/music/article/70737/1/marshall-just-made-your-new-favourite-headphones?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=marshall-just-made-your-new-favourite-headphones",
       "mentions": [],
-      "pubDate": "2026-08-04T23:07:55.762414+00:00"
+      "pubDate": "2026-08-05T02:56:52.196919+00:00"
     },
     {
       "id": "f1b8e3ced89f",
@@ -287,7 +277,7 @@
       "image": "https://assets.vogue.com/photos/6a724a5885ee4a606884cf1a/master/pass/00001-by-malene-birger-spring-2027-ready-to-wear-copenhagen-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/by-malene-birger",
       "mentions": [],
-      "pubDate": "2026-08-04T23:05:09+00:00"
+      "pubDate": "2026-08-05T02:52:06+00:00"
     },
     {
       "id": "337ab02594a8",
@@ -299,7 +289,7 @@
       "image": "https://assets.vogue.com/photos/6a7239d50191dadd1a896db8/master/pass/00001-paolina-russo-spring-2027-ready-to-wear-copenhagen-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/paolina-russo",
       "mentions": [],
-      "pubDate": "2026-08-04T23:05:09+00:00"
+      "pubDate": "2026-08-05T02:52:06+00:00"
     },
     {
       "id": "4a111c3b0343",
@@ -311,7 +301,7 @@
       "image": "https://assets.vogue.com/photos/6a7090d72b334ea7e07aff47/master/pass/00001-paolo-carzana-fall-2026-ready-to-wear-credit-joseph-rigby-brand.jpg",
       "link": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/paolo-carzana",
       "mentions": [],
-      "pubDate": "2026-08-04T23:05:09+00:00"
+      "pubDate": "2026-08-05T02:52:06+00:00"
     },
     {
       "id": "c69065e65df1",
@@ -323,7 +313,7 @@
       "image": "https://assets.vogue.com/photos/6a720743af36e8c1556c17f1/master/pass/00001-studio-constance-spring-2027-ready-to-wear-copenhagen-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/studio-constance",
       "mentions": [],
-      "pubDate": "2026-08-04T23:05:09+00:00"
+      "pubDate": "2026-08-05T02:52:06+00:00"
     },
     {
       "id": "5ced0ac05105",
@@ -335,7 +325,7 @@
       "image": "https://assets.vogue.com/photos/6a71e26484a191806e49bb3f/master/pass/00001-aiayu-spring-2027-ready-to-wear-copenhagen-credit-brand.jpg",
       "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/aiayu",
       "mentions": [],
-      "pubDate": "2026-08-04T23:05:09+00:00"
+      "pubDate": "2026-08-05T02:52:06+00:00"
     },
     {
       "id": "e9062b1e0953",
@@ -347,7 +337,7 @@
       "image": "https://assets.vogue.com/photos/6a71fe4998f652db94fb77b5/master/pass/00001-mkdt-studio-spring-2027-ready-to-wear-copenhagen-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/mark-kenly-domino-tan",
       "mentions": [],
-      "pubDate": "2026-08-04T23:05:09+00:00"
+      "pubDate": "2026-08-05T02:52:06+00:00"
     },
     {
       "id": "5fd8b47a8d01",
@@ -359,7 +349,91 @@
       "image": "https://assets.vogue.com/photos/6a71ed1dfde8755f9e9300db/master/pass/00001-skall-studio-spring-2027-ready-to-wear-copenhagen-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/skall-studio",
       "mentions": [],
-      "pubDate": "2026-08-04T23:05:09+00:00"
+      "pubDate": "2026-08-05T02:52:06+00:00"
+    },
+    {
+      "id": "7abb711e383f",
+      "editorial": "lifestyle",
+      "scope": "internacional",
+      "source": "Wallpaper*",
+      "title": "The new CMF Clip Pro make light work of the ear clip approach to listening on the move",
+      "excerpt": "CMF have launched the Clip Pro, a new entry into the open, clip-style earbuds that let the outside in without compromising on sound or call quality. We gave them a listen",
+      "image": "https://cdn.mos.cms.futurecdn.net/oCh3p5PsMZFoHhqHcygRzZ-1280-80.jpg",
+      "link": "https://www.wallpaper.com/tech/cmf-clip-pro-review",
+      "mentions": [],
+      "pubDate": "2026-08-05T00:21:29+00:00"
+    },
+    {
+      "id": "9ec1e1d8b61c",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Who What Wear",
+      "title": "And Now, a Tightly Curated List of H&M's 15 Coolest New Arrivals",
+      "excerpt": "Erin got her start as a Who What Wear intern in 2011—back when the site only published a single story per day. (We have since increased that number twentyfold.) She graduated magna cum laude from USC…",
+      "image": "https://cdn.mos.cms.futurecdn.net/uUZExMmPcYCCP5xxgVhuRS-1280-80.jpg",
+      "link": "https://www.whowhatwear.com/fashion/affordable/best-hm-early-fall-pieces-august-2026",
+      "mentions": [],
+      "pubDate": "2026-08-05T00:20:52+00:00"
+    },
+    {
+      "id": "f8dbb7033719",
+      "editorial": "lifestyle",
+      "scope": "internacional",
+      "source": "Wallpaper*",
+      "title": "The intriguing Staempfli House on Costa Brava was once home to a Surrealist art dealer",
+      "excerpt": "Once host to Dalí, Bertoia, Noguchi and more, this elegant Spanish seaside villa was a meeting point for post-war artistic movements. Now it’s on the market",
+      "image": "https://cdn.mos.cms.futurecdn.net/NyGvFWgc5v4KoZqbrFvBJE-1280-80.jpg",
+      "link": "https://www.wallpaper.com/architecture/residential/costa-brava-staempfli-house",
+      "mentions": [],
+      "pubDate": "2026-08-05T00:05:43+00:00"
+    },
+    {
+      "id": "cc126ce14a96",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "The Best Street Style Photos From the Spring 2027 Show in Copenhagen",
+      "excerpt": "Acielle Tanbetova is on the ground in Copenhagen photographing the best dressed guests at the spring 2027 shows.",
+      "image": "https://assets.vogue.com/photos/6a727c076ae5b7d5c98dcbfb/master/pass/CPHFW%20SS27%20day%202%20by%20Acielle%20STYLEDUMONDE%207471.jpg",
+      "link": "https://www.vogue.com/slideshow/copenhagen-fashion-week-street-style-spring-2027",
+      "mentions": [],
+      "pubDate": "2026-08-04T23:57:02+00:00"
+    },
+    {
+      "id": "922966dfd40a",
+      "editorial": "cultura",
+      "scope": "internacional",
+      "source": "The Cut",
+      "title": "Princess Eugenie Welcomed Her First Daughter",
+      "excerpt": "This is the princess’s third child.",
+      "image": "https://pyxis.nymag.com/v1/imgs/11d/7b6/7af197044fc1de92ea9acddd7145300d2f-GettyImages-2222729403.1x.rsocial.w1200.jpg",
+      "link": "http://www.thecut.com/article/princess-eugenie-welcomed-first-daughter.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "mentions": [],
+      "pubDate": "2026-08-04T23:42:17+00:00"
+    },
+    {
+      "id": "379270fa2fe0",
+      "editorial": "cultura",
+      "scope": "internacional",
+      "source": "The Cut",
+      "title": "Role Model Loved Dakota Johnson’s Cameo on His Song",
+      "excerpt": "She “knocked it out better than we could have imagined.”",
+      "image": "https://pyxis.nymag.com/v1/imgs/f56/f5b/aa4dde10727b2294051fb13109bc5d980b-dakota-johnson-role-model.1x.rsocial.w1200.jpg",
+      "link": "http://www.thecut.com/article/role-model-loved-dakota-johnson-cameo-song.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "mentions": [],
+      "pubDate": "2026-08-04T23:00:33+00:00"
+    },
+    {
+      "id": "da1766457da0",
+      "editorial": "lifestyle",
+      "scope": "nacional",
+      "source": "Glamour Brasil",
+      "title": "Horóscopo do dia: a previsão para os signos de hoje, quarta (05/08/2026)",
+      "excerpt": "Confira o que os astros reservaram para a quarta",
+      "image": "https://s2-glamour.glbimg.com/FlkR0uqkqBDkaUTuC0uzYCdXj6Y=/i.s3.glbimg.com/v1/AUTH_ba3db981e6d14e54bb84be31c923b00c/internal_photos/bs/2025/X/M/iLwOftSASPpKc8y9v2Dw/ouassima-issrae-3mykroicnvu-unsplash.jpg",
+      "link": "https://glamour.globo.com/bem-estar/horoscopo/horoscopo-do-dia/noticia/2026/08/horoscopo-do-dia-a-previsao-para-os-signos-de-hoje-quarta-05082026.ghtml",
+      "mentions": [],
+      "pubDate": "2026-08-04T23:00:08+00:00"
     },
     {
       "id": "9bf974b3e64e",
@@ -470,18 +544,6 @@
       "pubDate": "2026-08-04T21:02:38+00:00"
     },
     {
-      "id": "be024e50d9fc",
-      "editorial": "beleza",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "With One Easy Swap, Hailey Bieber Turns a Dinner Staple Into a Protein-Packed Dish",
-      "excerpt": "“Don’t knock it until you try it,” the beauty entrepreneur says.",
-      "image": "https://assets.vogue.com/photos/6a72453daf36e8c1556c1beb/master/pass/2274537174",
-      "link": "https://www.vogue.com/article/hailey-bieber-protein",
-      "mentions": [],
-      "pubDate": "2026-08-04T20:57:30+00:00"
-    },
-    {
       "id": "c11805026dcb",
       "editorial": "beleza",
       "scope": "internacional",
@@ -532,6 +594,18 @@
         "Zendaya"
       ],
       "pubDate": "2026-08-04T20:40:00+00:00"
+    },
+    {
+      "id": "20e4cd7ddfb3",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Hypebeast",
+      "title": "Julien's Auctions and Marshall Mathers Foundation Present Largest-Ever Eminem Sneaker Sale",
+      "excerpt": "Summary Julien’s Auctions has partnered with the Marshall Mathers Foundation to auction over 100 lots of signed Eminem sneakersThe sale features rare collaborations with Jordan Brand, Carhartt, Nike…",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F08%2F04%2Fjuliens-auctions-marshall-mathers-foundation-present-largest-ever-eminem-sneaker-sale-nike-air-jordan-carhartt-puma-adidas-000.jpg?w=800&cbr=1&q=90&fit=max",
+      "link": "https://hypebeast.com/2026/8/juliens-auctions-marshall-mathers-foundation-present-largest-ever-eminem-sneaker-sale-nike-air-jordan-carhartt-puma-adidas",
+      "mentions": [],
+      "pubDate": "2026-08-04T20:19:54+00:00"
     },
     {
       "id": "f3ec92c36967",
@@ -604,6 +678,20 @@
       "link": "https://www.harpersbazaar.com/fashion/trends/a73298130/how-to-style-an-arm-cuff/",
       "mentions": [],
       "pubDate": "2026-08-04T19:58:22+00:00"
+    },
+    {
+      "id": "bcb9a3c69470",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Hypebeast",
+      "title": "Burberry and V&A Announce 'The Burberry Trench: Crafting an Icon' Exhibition",
+      "excerpt": "Summary Burberry and the V&A will present a free display dedicated to the heritage of the trench coat in London from September 21, 2026 through January 3, 2027Marking Burberry’s 170th anniversary the…",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F08%2F04%2Fburberry-victoria-albert-museum-announce-the-burberry-trench-crafting-an-icon-exhibition-announcement-000.jpg?w=800&cbr=1&q=90&fit=max",
+      "link": "https://hypebeast.com/2026/8/burberry-victoria-albert-museum-announce-the-burberry-trench-crafting-an-icon-exhibition-announcement",
+      "mentions": [
+        "Burberry"
+      ],
+      "pubDate": "2026-08-04T19:57:43+00:00"
     },
     {
       "id": "f9d9b403a0b8",
@@ -1744,30 +1832,6 @@
       "pubDate": "2026-08-04T13:54:14+00:00"
     },
     {
-      "id": "e34d00111e91",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Who What Wear",
-      "title": "If You Only Buy One Pair of Shoes Before September, Make It This Chic Flat",
-      "excerpt": "Michelle has lived in Los Angeles for 12 years and worked in editorial and content creation for 10+ years. She started her career in 2012 interning at WhoWhatWear then was quickly hired as their…",
-      "image": "https://cdn.mos.cms.futurecdn.net/vt9mnJGZSko9ca3coUGGMj-1280-80.png",
-      "link": "https://www.whowhatwear.com/fashion/shoes/metallic-ballet-flat-trend",
-      "mentions": [],
-      "pubDate": "2026-08-04T13:53:06+00:00"
-    },
-    {
-      "id": "74183f1f63ea",
-      "editorial": "cultura",
-      "scope": "internacional",
-      "source": "The Cut",
-      "title": "Ariana Grande Says Her Break Was Not ‘Impulsive’",
-      "excerpt": "During her concert on Monday night, the singer told fans that she decided to take a step back from public life “a long time ago.”",
-      "image": "https://pyxis.nymag.com/v1/imgs/cd8/5b7/446daf22d34372b0010e496331e462dbad-ariana-break-speech.1x.rsocial.w1200.jpg",
-      "link": "http://www.thecut.com/article/ariana-grande-says-break-not-impulsive.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "mentions": [],
-      "pubDate": "2026-08-04T13:34:39+00:00"
-    },
-    {
       "id": "0b880cd90263",
       "editorial": "cultura",
       "scope": "nacional",
@@ -1814,18 +1878,6 @@
       "link": "https://stealthelook.com.br/o-cabelo-do-meu-filho-mudou-e-a-minha-rotina-mudou-junto/",
       "mentions": [],
       "pubDate": "2026-08-04T13:11:07+00:00"
-    },
-    {
-      "id": "f23316f23cb3",
-      "editorial": "cultura",
-      "scope": "internacional",
-      "source": "The Cut",
-      "title": "The Postpartum-Psychosis Novel Is Here",
-      "excerpt": "Emily McBride’s Queen Mab captures the surrealism of early motherhood.",
-      "image": "https://pyxis.nymag.com/v1/imgs/704/248/6ae21f2b64a14bf0b61027ca10d84d1f8e-queen-mab-emily-mcbride.1x.rsocial.w1200.jpg",
-      "link": "http://www.thecut.com/article/emily-mcbride-queen-mab-postpartum-psychosis-novel.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "mentions": [],
-      "pubDate": "2026-08-04T13:00:34+00:00"
     },
     {
       "id": "7f679382f8d4",
@@ -2476,18 +2528,6 @@
       "pubDate": "2026-08-04T07:56:47+00:00"
     },
     {
-      "id": "564d23fdb8e2",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Hypebeast",
-      "title": "‘Final Fantasy X’ 25th Anniversary Capsule Arrives at Daimaru Matsuzakaya",
-      "excerpt": "Summary 'Final Fantasy X' 25th Anniversary Collection launches via Daimaru Matsuzakaya with Square Enix. Apparel and accessories feature character-inspired designs and immersive pop-up installations…",
-      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F08%2F04%2Ffinal-fantasy-x-25th-anniversary-daimaru-matsuzakaya-collection-favment-info-0.jpg?w=800&cbr=1&q=90&fit=max",
-      "link": "https://hypebeast.com/2026/8/final-fantasy-x-25th-anniversary-daimaru-matsuzakaya-collection-favment-info",
-      "mentions": [],
-      "pubDate": "2026-08-04T07:34:03+00:00"
-    },
-    {
       "id": "d5fa0bbfcd7e",
       "editorial": "lifestyle",
       "scope": "internacional",
@@ -2558,18 +2598,6 @@
       "link": "https://vogue.globo.com/lifestyle/noticia/2026/08/por-que-uma-frida-kahlo-vale-mais-que-uma-tarsila-do-amaral.ghtml",
       "mentions": [],
       "pubDate": "2026-08-04T06:00:46+00:00"
-    },
-    {
-      "id": "4c980f1b79c7",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Hypebeast",
-      "title": "BAPE and MEDICOM TOY Revive 2003 Camo for 30th Anniversary Collection",
-      "excerpt": "Summary BAPE and MEDICOM TOY have teamed up to revive their archival 2003 camouflage pattern in celebration of MEDICOM TOY’s 30th anniversaryThe capsule features a BE@R SHARK full-zip reversible…",
-      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F08%2F04%2Fbape-medicom-toy-revive-2003-camo-30th-anniversary-collection-shark-full-zip-sta-bearbrick-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-      "link": "https://hypebeast.com/2026/8/bape-medicom-toy-revive-2003-camo-30th-anniversary-collection-shark-full-zip-sta-bearbrick-release-info",
-      "mentions": [],
-      "pubDate": "2026-08-04T05:34:16+00:00"
     },
     {
       "id": "3b613cbcded8",
@@ -2824,18 +2852,6 @@
       "pubDate": "2026-08-03T17:34:41+00:00"
     },
     {
-      "id": "6c5ab3ba6b22",
-      "editorial": "lifestyle",
-      "scope": "internacional",
-      "source": "Wallpaper*",
-      "title": "A Pierre Paulin design icon becomes the backdrop for Fred Again.. and Latin Mafia's latest collaboration",
-      "excerpt": "Conceived in 1970, Pierre Paulin's Dune seating landscape is part of Fred Again.. and Latin Mafia's collaborative mixtape, '9 months & 50 hours', recorded at LagoAlgo in Mexico City, with a spatial…",
-      "image": "https://cdn.mos.cms.futurecdn.net/qQxMSkct2k8R8C9gxNh4N7-1280-80.png",
-      "link": "https://www.wallpaper.com/design-interiors/furniture/fred-again-latin-mafia-9-months-and-50-hours-lago-algo-paulin-paulin-paulin",
-      "mentions": [],
-      "pubDate": "2026-08-03T17:15:40+00:00"
-    },
-    {
       "id": "15ecb8b4af06",
       "editorial": "beleza",
       "scope": "nacional",
@@ -2882,20 +2898,6 @@
       "link": "https://elle.com.br/beleza/a-nova-era-do-lip-tint",
       "mentions": [],
       "pubDate": "2026-08-03T15:50:02+00:00"
-    },
-    {
-      "id": "fab5f3835ebd",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Wallpaper*",
-      "title": "John Galliano to the Burberry trench: these are the upcoming fashion exhibitions to add to your calendar",
-      "excerpt": "The golden age of the fashion exhibition looks set to continue over the next twelve months, with blockbuster displays spanning a John Galliano retrospective at The Met and a deep dive into the…",
-      "image": "https://cdn.mos.cms.futurecdn.net/gNK9tUqFYrtqPi3V3FZdd6-1280-80.jpg",
-      "link": "https://www.wallpaper.com/fashion-beauty/upcoming-fashion-exhibitons-2026-2027",
-      "mentions": [
-        "Burberry"
-      ],
-      "pubDate": "2026-08-03T15:21:45+00:00"
     },
     {
       "id": "bf40b269a7d5",
@@ -3030,20 +3032,6 @@
       "pubDate": "2026-08-03T11:03:47+00:00"
     },
     {
-      "id": "39e0e4e54a44",
-      "editorial": "beleza",
-      "scope": "nacional",
-      "source": "Glamour Brasil",
-      "title": "Baby bangs: o que você precisa saber antes de adotar a franjinha de Zendaya",
-      "excerpt": "Entendemos quem pode apostar na tendência e como reproduzir o styling",
-      "image": "https://s2-glamour.glbimg.com/L07flTZC9yfkTfCubOC_0g3ABY4=/i.s3.glbimg.com/v1/AUTH_ba3db981e6d14e54bb84be31c923b00c/internal_photos/bs/2026/q/S/5KBaldT8OWAIn6PwBXeA/header-de-site-glamour-91-.png",
-      "link": "https://glamour.globo.com/beleza/cabelo/noticia/2026/08/baby-bangs-o-que-voce-precisa-saber-antes-de-adotar-a-franjinha-de-zendaya.ghtml",
-      "mentions": [
-        "Zendaya"
-      ],
-      "pubDate": "2026-08-03T11:03:35+00:00"
-    },
-    {
       "id": "b02bac4c6732",
       "editorial": "moda",
       "scope": "nacional",
@@ -3162,18 +3150,6 @@
       "link": "https://www.archdaily.com.br/pt/1181919/a-arte-do-design-de-sorveterias",
       "mentions": [],
       "pubDate": "2026-08-03T07:30:00+00:00"
-    },
-    {
-      "id": "076b78e0a8c3",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "ArchDaily Brasil",
-      "title": "Museu de Arte de Pudong apresenta \"Jean Nouvel: Sem o/a artista, a arquitetura desaparece\" em Xangai",
-      "excerpt": "O Museum of Art Pudong (MAP), em Xangai, apresenta a exposição \"Jean Nouvel: Without the Artist, Architecture Disappears\" até 31 de agosto de 2026. Marcando o quinto aniversário do museu, a mostra é…",
-      "image": null,
-      "link": "https://www.archdaily.com.br/pt/1182096/museu-de-arte-de-pudong-apresenta-jean-nouvel-sem-o-a-artista-a-arquitetura-desaparece-em-xangai",
-      "mentions": [],
-      "pubDate": "2026-08-03T06:30:00+00:00"
     },
     {
       "id": "5cd3a53c3c64",
@@ -3622,18 +3598,6 @@
       "link": "https://www.dezeen.com/2026/07/30/streetwear-hip-hop-projects-lebanese-american-university-schoolshows/",
       "mentions": [],
       "pubDate": "2026-07-30T15:00:09+00:00"
-    },
-    {
-      "id": "c3cca2ca6548",
-      "editorial": "em-pauta",
-      "scope": "nacional",
-      "source": "Garotas Estúpidas",
-      "title": "Qual é o batom favorito das beauty lovers no momento?",
-      "excerpt": "Você sabia que hoje é o Dia do Batom? Um dos itens mais amados do universo da beleza... O post Qual é o batom favorito das beauty lovers no momento? apareceu primeiro em Garotas Estúpidas .",
-      "image": "https://garotasestupidas.com/wp-content/uploads/2026/07/dia-do-batom-beleza-garotas-estupidas.jpg",
-      "link": "https://garotasestupidas.com/qual-e-o-batom-favorito-das-beauty-lovers-no-momento/",
-      "mentions": [],
-      "pubDate": "2026-07-29T23:36:00+00:00"
     }
   ]
 }
