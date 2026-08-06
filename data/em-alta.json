@@ -1,6 +1,19 @@
 {
-  "generatedAt": "2026-08-06T10:46:00.694390+00:00",
+  "generatedAt": "2026-08-06T14:27:32.995903+00:00",
   "items": [
+    {
+      "id": "42bbbfb4de1b",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Chika Kisada Tokyo Spring 2027",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6a748082d7a3056363862070/master/pass/00001-chika-kisada-spring-2027-ready-to-wear-tokyo-credit-brand.jpg",
+      "link": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/chika-kisada",
+      "mentions": [],
+      "pubDate": "2026-08-06T14:25:07+00:00",
+      "trendingReason": null
+    },
     {
       "id": "30f5487f7c20",
       "editorial": "moda",
@@ -11,7 +24,7 @@
       "image": "https://assets.vogue.com/photos/6a73b581765a11e247c2463a/master/pass/00004-mfpen-spring-2027-ready-to-wear-copenhagen-credit-isak-berglund-mattsson-marn-brand.jpg",
       "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/mfpen",
       "mentions": [],
-      "pubDate": "2026-08-06T10:43:30+00:00",
+      "pubDate": "2026-08-06T14:25:07+00:00",
       "trendingReason": null
     },
     {
@@ -24,88 +37,75 @@
       "image": "https://assets.vogue.com/photos/6a7388f422d3b42596fff142/master/pass/00001-baum-und-pferdgarten-spring-2027-ready-to-wear-copenhagen-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/baum-und-pferdgarten",
       "mentions": [],
-      "pubDate": "2026-08-06T10:43:30+00:00",
+      "pubDate": "2026-08-06T14:25:07+00:00",
       "trendingReason": null
     },
     {
-      "id": "d7fd695ae685",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Henrik Vibskov Copenhagen Spring 2027",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6a736c88784f8a507bc7845a/master/pass/00001-henrik-vibskov-spring-2027-ready-to-wear-copenhagen-credit-gorunway.jpg",
-      "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/henrik-vibskov",
-      "mentions": [],
-      "pubDate": "2026-08-06T10:43:30+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "c3b79f8ac671",
-      "editorial": "beleza",
-      "scope": "internacional",
-      "source": "Who What Wear",
-      "title": "Bella Hadid Just Confirmed This Shade of Blonde Is the Perfect Late-Summer Hair Colour",
-      "excerpt": "Grace Lindsay is the deputy beauty editor at Who What Wear UK. At the age of 18 she decided to train as a makeup artist before going on to study english and media at Goldsmiths University. It was…",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZPvGcRMpcGQ4GbL63YZMTa-1280-80.jpg",
-      "link": "https://www.whowhatwear.com/beauty/hair/bella-hadid-sandy-blonde-hair-colour",
-      "mentions": [
-        "Bella Hadid"
-      ],
-      "pubDate": "2026-08-06T10:34:23+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "8138db309c57",
-      "editorial": "beleza",
-      "scope": "internacional",
-      "source": "Hypebeast",
-      "title": "Kith &Kin FW26 Elevates Outerwear With Pony Hair and Rope Twill",
-      "excerpt": "Ronnie Fieg has unveiled the Kith &Kin Fall/Winter 2026 collection. Serving as the brand's first delivery for the second half of the year, the elevated sub-label continues its focus on unbranded…",
-      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F08%2F06%2Fft-kith-kin-fall-winter-2026-lookbook-release-info.jpg?w=800&cbr=1&q=90&fit=max",
-      "link": "https://hypebeast.com/2026/8/kith-kin-fall-winter-2026-lookbook-release-info",
-      "mentions": [],
-      "pubDate": "2026-08-06T10:21:24+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "d1ef10233392",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Meet the Vogue & Condé Nast PhotoVogue Committee",
-      "excerpt": "Discover the expansive creative community of Vogue and Condé Nast talent from around the world collaborating with PhotoVogue",
-      "image": "https://assets.vogue.com/photos/67e428aa3b55dd439af7220d/master/pass/The%20Vogue%20&%20Conde%CC%81%20Nast%20Committee.jpg",
-      "link": "https://www.vogue.com/article/meet-the-vogue-and-conde-nast-photovogue-committee",
-      "mentions": [],
-      "pubDate": "2026-08-06T10:16:05+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "04f2e11f6c8e",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Hypebeast",
-      "title": "A Symphony of Leather and Metal: Jil Sander and Thonet’s Expanded Furniture Collection",
-      "excerpt": "Summary Jil Sander and Thonet expand the JS. THONET collection with reimagined S 411 lounge chairs and S 1070 tables. Designs merge tubular steel Bauhaus heritage with tactile luxury. Offered in…",
-      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F08%2F06%2Fjil-sander-thonet-furniture-collection-expansions-21070-tables-s411-lounge-chairs-info-1.jpg?w=800&cbr=1&q=90&fit=max",
-      "link": "https://hypebeast.com/2026/8/jil-sander-thonet-furniture-collection-expansions-21070-tables-s411-lounge-chairs-info",
-      "mentions": [],
-      "pubDate": "2026-08-06T10:09:48+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "b1afcfeb2946",
+      "id": "214dec791ad3",
       "editorial": "moda",
       "scope": "internacional",
       "source": "Vogue UK",
-      "title": "Glove Ballet Pumps Are Shaping Up To Be Autumn’s Standout Flat",
-      "excerpt": "Glove ballet pumps – aka, ballerina flats that “fit like a glove” – are the trending autumn shoe to know now. Shop Vogue's pick of the best",
-      "image": "https://media.vogue.co.uk/photos/6a71c22dc4e3c05a945a81b9/master/pass/GettyImages-2222624881.jpg",
-      "link": "https://www.vogue.co.uk/article/glove-ballet-pumps",
+      "title": "Here Comes The Goth Bride: Unpacking 2026’s Most Fashion-Forward Wedding Trend",
+      "excerpt": "In 2026, a growing cohort of A-listers – including Gabbriette and Emma Roberts – are saying ‘I do’ to gothic bridal style, turning to labels such as Matières Fécales and Dilara Findikoglu for their…",
+      "image": "https://media.vogue.co.uk/photos/6a746311eabb320e5caf4a1f/master/pass/LH-050826-BRIDES-COLLAGE.jpg",
+      "link": "https://www.vogue.co.uk/article/gothic-bridal-wedding-dress-trend",
       "mentions": [],
-      "pubDate": "2026-08-06T10:06:44+00:00",
+      "pubDate": "2026-08-06T14:24:57+00:00",
       "trendingReason": null
+    },
+    {
+      "id": "32c25dadfeec",
+      "editorial": "cultura",
+      "scope": "internacional",
+      "source": "Harper's Bazaar US",
+      "title": "Hilary Duff Brought Out Good Charlotte for a Nostalgic Performance in NYC",
+      "excerpt": "The night was for the ’90s kids",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/8079cb8f-ea23-462e-90f1-ced5f05dc12e.png",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73365782/hilary-duff-good-charlotte-cameo-lucky-me-tour-nyc-msg-show/",
+      "mentions": [],
+      "pubDate": "2026-08-06T14:23:57+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "82ca033d839a",
+      "editorial": "em-pauta",
+      "scope": "nacional",
+      "source": "Capricho",
+      "title": "A ‘queridinha’ agenda CAPRICHO está de volta com quatro capas exclusivas",
+      "excerpt": "Queridinha dos fãs há anos, a agenda retorna dentro da nova coleção de papelaria da marca, construída lado a lado com a redação da revista.",
+      "image": "https://capricho.abril.com.br/wp-content/uploads/2026/08/thumb-credeal_planners.png",
+      "link": "https://capricho.abril.com.br/comportamento/a-queridinha-agenda-capricho-esta-de-volta-com-quatro-capas-exclusivas/",
+      "mentions": [],
+      "pubDate": "2026-08-06T14:15:13+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "747b2c5e1d98",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Elle US",
+      "title": "The Launch: Fashion News to Know This August",
+      "excerpt": "",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/6fe7bf4f-d624-4d1f-a48b-891f7de11bb3.jpg",
+      "link": "https://www.elle.com/fashion/a73294760/best-fashion-launches-august-2026/",
+      "mentions": [],
+      "pubDate": "2026-08-06T14:11:00+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "b263f25420a3",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "“The Devil Wears Prada 2” Fashion to Hit the Auction Block in September",
+      "excerpt": "Ever wanted to steal a look from The Devil Wears Prada's Miranda Priestly, Andy Sachs, Nigel or Emily? Now you can.",
+      "image": "https://assets.vogue.com/photos/6a733f4f2c544d7615dd49de/master/pass/TDWP2-19956_R2_19964_r.jpg",
+      "link": "https://www.vogue.com/article/the-devil-wears-prada-2-fashion-to-hit-the-auction-block-in-september",
+      "mentions": [
+        "Prada"
+      ],
+      "pubDate": "2026-08-06T13:29:45+00:00",
+      "trendingReason": "Repercutindo em 3 veículos"
     }
   ]
 }
