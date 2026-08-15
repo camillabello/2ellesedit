@@ -1,42 +1,6 @@
 {
-  "generatedAt": "2026-08-15T08:37:16.241553+00:00",
+  "generatedAt": "2026-08-15T10:28:33.404761+00:00",
   "articles": [
-    {
-      "id": "4c2b18bbd1db",
-      "editorial": "em-pauta",
-      "scope": "nacional",
-      "source": "Exame",
-      "title": "Quando o filme 'Pinóquio: Maldição de Madeira' chega aos cinemas brasileiros?",
-      "excerpt": "A distribuidora A2 Filmes divulgou o trailer legendado do longa",
-      "image": null,
-      "link": "https://exame.com/pop/quando-o-filme-pinoquio-maldicao-de-madeira-chega-aos-cinemas-brasileiros/",
-      "mentions": [],
-      "pubDate": "2026-08-15T08:37:08.738888+00:00"
-    },
-    {
-      "id": "b926459eb66f",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "Exame",
-      "title": "O teste aceito por Harvard, MIT e Yale chega pela primeira vez a uma escola do Brasil",
-      "excerpt": "Feira acontece na Barra da Tijuca em 26 de agosto e traz pela primeira vez o teste de inglês do Duolingo",
-      "image": null,
-      "link": "https://exame.com/carreira/o-teste-aceito-por-harvard-mit-e-yale-chega-pela-primeira-vez-a-uma-escola-do-brasil/",
-      "mentions": [],
-      "pubDate": "2026-08-15T08:37:08.738439+00:00"
-    },
-    {
-      "id": "248d5674f329",
-      "editorial": "em-pauta",
-      "scope": "nacional",
-      "source": "Exame",
-      "title": "Por que Julie Andrews disse 'não' para 'O Diário da Princesa 3'?",
-      "excerpt": "O terceiro filme da franquia foi anunciado em 2024, com Anne Hathaway retomando o papel de Mia Thermopolis, rainha de Genovia",
-      "image": null,
-      "link": "https://exame.com/pop/por-que-julie-andrews-disse-nao-para-o-diario-da-princesa-3/",
-      "mentions": [],
-      "pubDate": "2026-08-15T08:37:08.735964+00:00"
-    },
     {
       "id": "de105ae4f0c1",
       "editorial": "cultura",
@@ -47,7 +11,7 @@
       "image": null,
       "link": "https://exame.com/pop/hbo-max-renova-stuart-nao-consegue-salvar-o-universo-para-segunda-temporada/",
       "mentions": [],
-      "pubDate": "2026-08-15T08:37:08.735829+00:00"
+      "pubDate": "2026-08-15T10:28:28.721785+00:00"
     },
     {
       "id": "0ee02d1a3979",
@@ -59,7 +23,7 @@
       "image": null,
       "link": "https://exame.com/pop/diretora-de-black-mirror-recusa-serie-de-harry-potter-por-falas-transfobicas-de-j-k-rowling/",
       "mentions": [],
-      "pubDate": "2026-08-15T08:37:08.735038+00:00"
+      "pubDate": "2026-08-15T10:28:28.721035+00:00"
     },
     {
       "id": "e6fcac3eef71",
@@ -71,7 +35,79 @@
       "image": null,
       "link": "https://exame.com/pop/ahsoka-2a-temporada-da-serie-de-star-wars-ganha-data-de-estreia/",
       "mentions": [],
-      "pubDate": "2026-08-15T08:37:08.734820+00:00"
+      "pubDate": "2026-08-15T10:28:28.720855+00:00"
+    },
+    {
+      "id": "c879384ba17d",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Exame",
+      "title": "'Lanternas': quando estreia e onde assistir à nova série dos Lanternas Verdes",
+      "excerpt": "Produção da DC acompanha Hal Jordan e John Stewart em uma investigação policial ligada à Tropa dos Lanternas Verdes",
+      "image": null,
+      "link": "https://exame.com/pop/lanternas-quando-estreia-e-onde-assistir-a-nova-serie-dos-lanternas-verdes/",
+      "mentions": [],
+      "pubDate": "2026-08-15T10:28:28.719828+00:00"
+    },
+    {
+      "id": "58690dc1ef35",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Exame",
+      "title": "Letícia Spiller vive 'Clarice Lispector' mais próxima de si em novo filme",
+      "excerpt": "Em entrevista exclusiva à EXAME, atriz conta como sua própria experiência interpretando a escritora ajudou a construir Anjo, personagem de \"Mal-estar de um Anjo\"",
+      "image": null,
+      "link": "https://exame.com/casual/leticia-spiller-vive-clarice-lispector-mais-proxima-de-si-em-novo-filme/",
+      "mentions": [],
+      "pubDate": "2026-08-15T10:28:28.719063+00:00"
+    },
+    {
+      "id": "173095e19a0f",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Exame",
+      "title": "Os 35 anos de ‘A Bela e a Fera’: os segredos por trás do clássico da Disney",
+      "excerpt": "Lançado em 1991, o filme da Disney quebrou barreiras para as animações e fez história ao disputar o Oscar de Melhor Filme",
+      "image": null,
+      "link": "https://exame.com/pop/a-bela-e-a-fera-completa-35-anos-como-o-filme-revolucionou-as-animacoes-da-disney/",
+      "mentions": [],
+      "pubDate": "2026-08-15T10:28:28.718294+00:00"
+    },
+    {
+      "id": "ec7978f3db00",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Exame",
+      "title": "Matthew McConaughey revela como ajudou a polícia a encontrar um assassino",
+      "excerpt": "Antes de chegar ao cinema, ator participou de uma reconstituição exibida na TV que contribuiu para a prisão de um foragido",
+      "image": null,
+      "link": "https://exame.com/pop/matthew-mcconaughey-revela-como-ajudou-a-policia-a-encontrar-um-assassino/",
+      "mentions": [],
+      "pubDate": "2026-08-15T10:28:28.718069+00:00"
+    },
+    {
+      "id": "2dd8d9e88926",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Exame",
+      "title": "'Camp Rock 3' é a prova do porquê a nostalgia nem sempre funciona",
+      "excerpt": "Dezesseis anos após Camp Rock 2, o terceiro filme chega ao Disney+, mas tropeça no público-alvo da produção",
+      "image": null,
+      "link": "https://exame.com/pop/camp-rock-3-e-a-prova-do-porque-a-nostalgia-nem-sempre-funciona/",
+      "mentions": [],
+      "pubDate": "2026-08-15T10:28:28.717318+00:00"
+    },
+    {
+      "id": "e89070d9e250",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Exame",
+      "title": "Os X-Men de 'Vingadores: Doutor Destino' são os mesmos dos filmes da Fox? Entenda",
+      "excerpt": "Marvel Studios reuniu atores da franquia da Fox no novo filme dos Vingadores; entenda o que já foi confirmado sobre a identidade desses personagens",
+      "image": null,
+      "link": "https://exame.com/pop/os-x-men-de-vingadores-doutor-destino-sao-os-mesmos-dos-filmes-da-fox-entenda/",
+      "mentions": [],
+      "pubDate": "2026-08-15T10:28:28.717136+00:00"
     },
     {
       "id": "8597d6e29ecd",
@@ -83,7 +119,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/os-tipos-de-olheiras-e-o-que-pode-agravar-o-escurecimento",
       "mentions": [],
-      "pubDate": "2026-08-15T08:36:33.189378+00:00"
+      "pubDate": "2026-08-15T10:28:22.853805+00:00"
     },
     {
       "id": "11851eb28794",
@@ -95,7 +131,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/glutationa-o-que-e-e-quais-os-beneficios-para-a-pele",
       "mentions": [],
-      "pubDate": "2026-08-15T08:36:33.189213+00:00"
+      "pubDate": "2026-08-15T10:28:22.853669+00:00"
     },
     {
       "id": "e486a6d380c4",
@@ -107,7 +143,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/peptideo-antiolheiras-o-que-e-e-quais-os-beneficios-falta-foto",
       "mentions": [],
-      "pubDate": "2026-08-15T08:36:33.188946+00:00"
+      "pubDate": "2026-08-15T10:28:22.853434+00:00"
     },
     {
       "id": "3c4346b2f749",
@@ -119,7 +155,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/serum-antiolheiras-reducao-de-olheiras-em-30-dias-e-outros-4-beneficios-para-regiao-dos-olhos",
       "mentions": [],
-      "pubDate": "2026-08-15T08:36:33.188784+00:00"
+      "pubDate": "2026-08-15T10:28:22.853285+00:00"
     },
     {
       "id": "b11322bbde3c",
@@ -131,7 +167,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/quais-tipos-de-olheiras-o-serum-antiolheiras-ajuda-a-tratar",
       "mentions": [],
-      "pubDate": "2026-08-15T08:36:33.188413+00:00"
+      "pubDate": "2026-08-15T10:28:22.852942+00:00"
     },
     {
       "id": "3153b4a4d606",
@@ -143,7 +179,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/como-usar-o-serum-antiolheiras",
       "mentions": [],
-      "pubDate": "2026-08-15T08:36:33.188240+00:00"
+      "pubDate": "2026-08-15T10:28:22.852789+00:00"
     },
     {
       "id": "bcec3ba36171",
@@ -155,7 +191,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/serum-antiolheiras-por-dentro-da-formula",
       "mentions": [],
-      "pubDate": "2026-08-15T08:36:33.188117+00:00"
+      "pubDate": "2026-08-15T10:28:22.852678+00:00"
     },
     {
       "id": "f1b9f678cbb7",
@@ -167,7 +203,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/sallve-recebe-ikesaki-para-dia-de-cocriacao-e-treinamento",
       "mentions": [],
-      "pubDate": "2026-08-15T08:36:33.187909+00:00"
+      "pubDate": "2026-08-15T10:28:22.852488+00:00"
     },
     {
       "id": "f93ddaff12a6",
@@ -179,7 +215,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/protetor-solar-antioleosidade-por-dentro-da-formula",
       "mentions": [],
-      "pubDate": "2026-08-15T08:36:33.187658+00:00"
+      "pubDate": "2026-08-15T10:28:22.852257+00:00"
     },
     {
       "id": "283ce354bb7c",
@@ -191,7 +227,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/como-usar-o-protetor-solar-antioleosidade",
       "mentions": [],
-      "pubDate": "2026-08-15T08:36:33.187417+00:00"
+      "pubDate": "2026-08-15T10:28:22.852034+00:00"
     },
     {
       "id": "d72cea3804a3",
@@ -203,7 +239,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/beauty/article/70797/1/meet-pia-momos-the-artist-behind-the-viral-erling-haaland-nails?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-imaginative-artist-behind-those-viral-erling-haaland-nails",
       "mentions": [],
-      "pubDate": "2026-08-15T08:36:22.731802+00:00"
+      "pubDate": "2026-08-15T10:28:13.146008+00:00"
     },
     {
       "id": "ef44de149b8f",
@@ -215,7 +251,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/art-photography/article/70779/1/black-lights-blackpool-photos-north-england-timon-benson-white-hotel?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=charged-photos-of-the-experimental-scene-brewing-in-the-north-of-england",
       "mentions": [],
-      "pubDate": "2026-08-15T08:36:22.731564+00:00"
+      "pubDate": "2026-08-15T10:28:13.145794+00:00"
     },
     {
       "id": "56ab49aa7b59",
@@ -227,7 +263,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/life-culture/article/70801/1/are-ai-dating-apps-ushering-in-the-era-of-swipeless-dating?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=are-ai-dating-apps-ushering-in-the-era-of-swipeless-dating",
       "mentions": [],
-      "pubDate": "2026-08-15T08:36:22.731374+00:00"
+      "pubDate": "2026-08-15T10:28:13.145614+00:00"
     },
     {
       "id": "6f3d893db69e",
@@ -239,7 +275,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/beauty/article/70791/1/why-are-people-getting-gun-tattoos?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-complicated-rise-of-gun-tattoos",
       "mentions": [],
-      "pubDate": "2026-08-15T08:36:22.731244+00:00"
+      "pubDate": "2026-08-15T10:28:13.145505+00:00"
     },
     {
       "id": "c280fc4fe246",
@@ -251,7 +287,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/fashion/article/70803/1/photos-from-bjorks-celestial-solar-eclipse-rave-in-iceland?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=bjork-celebrates-solar-eclipse-with-celestial-rave",
       "mentions": [],
-      "pubDate": "2026-08-15T08:36:22.730975+00:00"
+      "pubDate": "2026-08-15T10:28:13.145275+00:00"
     },
     {
       "id": "a0b980f5295d",
@@ -263,7 +299,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/beauty/article/70807/1/i-bought-a-beauty-spell-from-an-etsy-witch-and-it-made-me-more-confident?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=i-bought-a-beauty-spell-from-an-etsy-witch-and-it-worked",
       "mentions": [],
-      "pubDate": "2026-08-15T08:36:22.730811+00:00"
+      "pubDate": "2026-08-15T10:28:13.145132+00:00"
     },
     {
       "id": "190c4b638bd4",
@@ -275,7 +311,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/music/article/70809/1/the-saddest-phoebe-bridger-s-songs-ranked-lost-weekend?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-9-saddest-phoebe-bridgers-songs-ranked",
       "mentions": [],
-      "pubDate": "2026-08-15T08:36:22.730494+00:00"
+      "pubDate": "2026-08-15T10:28:13.144863+00:00"
     },
     {
       "id": "04182060443d",
@@ -287,7 +323,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/fashion/article/70800/1/fka-twigs-and-on-just-started-a-wellness-cult?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=fka-twigs-and-on-just-started-a-wellness-cult",
       "mentions": [],
-      "pubDate": "2026-08-15T08:36:22.730265+00:00"
+      "pubDate": "2026-08-15T10:28:13.144622+00:00"
     },
     {
       "id": "2556e0333f03",
@@ -299,7 +335,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/art-photography/article/70799/1/jesse-glazzard-photographer-sound-of-dirt-beauty-book-mack?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=first-look-jesse-glazzard-distills-the-dirt-and-beauty-of-queer-life",
       "mentions": [],
-      "pubDate": "2026-08-15T08:36:22.730026+00:00"
+      "pubDate": "2026-08-15T10:28:13.144416+00:00"
     },
     {
       "id": "893bdffa22f0",
@@ -311,7 +347,175 @@
       "image": null,
       "link": "https://www.dazeddigital.com/fashion/article/70780/1/punketo-meet-the-indigenous-gen-z-punks-of-mexico-city-maxwell-vice?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=punketo-meet-the-indigenous-gen-z-punks-of-mexico-city",
       "mentions": [],
-      "pubDate": "2026-08-15T08:36:22.729761+00:00"
+      "pubDate": "2026-08-15T10:28:13.144180+00:00"
+    },
+    {
+      "id": "436322107728",
+      "editorial": "beleza",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "excerpt": "Color continues to dominate, from opulent ’80s pink to dreamy shades of pastel, while glam teams got precise with eyes and lips. From Priyanka Kedia to Adela, these are the week’s best beauty looks.",
+      "image": "https://assets.vogue.com/photos/6a8031f22c0e813ce929608c/master/pass/SnapInsta.to_774788179_18611881219051454_603119431941705381_n.jpg",
+      "link": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-august-15-2026",
+      "mentions": [],
+      "pubDate": "2026-08-15T10:06:41+00:00"
+    },
+    {
+      "id": "0adea757e35f",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "The Scandi Street Style Way to Wear Sheers",
+      "excerpt": "At Copenhagen Fashion Week, peekaboo looks were all the rage.",
+      "image": "https://assets.vogue.com/photos/6a74f55bcd98d9c6753e36b6/master/pass/COPENHAGEN_SS27_STREETSTYLE_DAY4_ACIELLE_43.jpg",
+      "link": "https://www.vogue.com/article/the-scandi-street-style-way-to-wear-sheers",
+      "mentions": [],
+      "pubDate": "2026-08-15T10:00:00+00:00"
+    },
+    {
+      "id": "8657bdde5933",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Discover the Best Dresses for Every August Occasion",
+      "excerpt": "Explore the best dresses of the month, from silk maxidresses to practical striped shirtdresses. Shop a wide selection of handpicked Vogue dresses.",
+      "image": "https://assets.vogue.com/photos/6a7f6965ada41360335bcb28/master/pass/Copy%20of%20072026_VOGUESHOPPING_FINAL-12.jpg",
+      "link": "https://www.vogue.com/article/dresses",
+      "mentions": [],
+      "pubDate": "2026-08-15T10:00:00+00:00"
+    },
+    {
+      "id": "b4aa4a27285f",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Who What Wear",
+      "title": "Forget Paris—Buyers, Tastemakers, and Trend Forecasters Are Saying Spring 2027 Trends Start in This City",
+      "excerpt": "Ana Escalante is an award-winning journalist and Gen Z editor whose work ranges from dissecting size inclusivity at fashion week to discussing how American Girl Doll meme accounts are the the answer…",
+      "image": "https://cdn.mos.cms.futurecdn.net/dASwtgoUqH6c68qmWaCWoV-1280-80.gif",
+      "link": "https://www.whowhatwear.com/fashion/runway/ciff-spring-summer-2027-buyers-fashion-trends",
+      "mentions": [],
+      "pubDate": "2026-08-15T10:00:00+00:00"
+    },
+    {
+      "id": "0312a923a638",
+      "editorial": "lifestyle",
+      "scope": "internacional",
+      "source": "Wallpaper*",
+      "title": "A holiday house by Kaviar Collaborative is designed as a series of 'viewing galleries'",
+      "excerpt": "Set on a secluded peninsula in Maharashtra, Kaviar Collaborative’s lakeside retreat uses soaring spaces, natural materials and vast windows to frame the landscape",
+      "image": "https://cdn.mos.cms.futurecdn.net/FQiRGiTdfmwJPy4GwAfV3f-1280-80.jpg",
+      "link": "https://www.wallpaper.com/architecture/architects-directory/kaviar-collaborative-india",
+      "mentions": [],
+      "pubDate": "2026-08-15T10:00:00+00:00"
+    },
+    {
+      "id": "25b526503f59",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Highsnobiety",
+      "title": "Brown's Back Big & This adidas Classic Is Buying In",
+      "excerpt": "the Three Stripes reinforces its skateboarding lineage with the arrival of the adidas Originals Samba ADV Dark Brown/Core Black/Gum.",
+      "image": null,
+      "link": "https://www.highsnobiety.com/p/adidas-samba-adv-dark-brown/",
+      "mentions": [],
+      "pubDate": "2026-08-15T09:10:00+00:00"
+    },
+    {
+      "id": "5b974fd2140f",
+      "editorial": "beleza",
+      "scope": "nacional",
+      "source": "Marie Claire Brasil",
+      "title": "4 penteados sofisticados para cabelos cacheados que salvam o day after em 5 minutos",
+      "excerpt": "Veja penteados práticos e elegantes para renovar o look na correria",
+      "image": "https://s2-marieclaire.glbimg.com/GmvszaRt-5mNkK3Cz8zK4PewZxk=/i.s3.glbimg.com/v1/AUTH_51f0194726ca4cae994c33379977582d/internal_photos/bs/2026/W/b/ewJD2TTVWBnaQ0Vl4b1g/saveclip.app-748763523-18623583097028076-483856477646611713-n-2.jpg",
+      "link": "https://revistamarieclaire.globo.com/beleza/noticia/2026/08/4-penteados-sofisticados-para-cabelos-cacheados-que-salvam-o-day-after-em-5-minutos.ghtml",
+      "mentions": [],
+      "pubDate": "2026-08-15T09:03:08+00:00"
+    },
+    {
+      "id": "f27f226daa18",
+      "editorial": "beleza",
+      "scope": "nacional",
+      "source": "Marie Claire Brasil",
+      "title": "Quantas vezes por dia aplicar óleo nas cutículas no inverno?",
+      "excerpt": "No inverno, o frio e o ar seco podem deixar a região ao redor das unhas mais ressecada — e a frequência de aplicação faz diferença",
+      "image": "https://s2-marieclaire.glbimg.com/VQ_oelgkz7oiEGTKIb3R-MYIBXQ=/i.s3.glbimg.com/v1/AUTH_51f0194726ca4cae994c33379977582d/internal_photos/bs/2026/Y/P/8cBTeWQ2qDtjFOQz0viA/br-sinails-pdp.jpg",
+      "link": "https://revistamarieclaire.globo.com/beleza/noticia/2026/08/quantas-vezes-por-dia-aplicar-oleo-nas-cuticulas-no-inverno.ghtml",
+      "mentions": [],
+      "pubDate": "2026-08-15T09:01:08+00:00"
+    },
+    {
+      "id": "a76ae2cdf6f4",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Marie Claire Brasil",
+      "title": "Mulher engravida com 12 miomas e vive gestação de alto risco: ‘Estava sempre com medo de perder o bebê’",
+      "excerpt": "Após o parto, Tatiane Belotti fez uma embolização uterina para tratar o problema e, se engravidar novamente, poder curtir a experiência sem tensão",
+      "image": "https://s2-marieclaire.glbimg.com/fCLJCXZhm28qjrNICpNuUtNXokM=/i.s3.glbimg.com/v1/AUTH_51f0194726ca4cae994c33379977582d/internal_photos/bs/2026/V/X/NSqslTQYWaRHbNqtN6zg/tatiane-belotti.png",
+      "link": "https://revistamarieclaire.globo.com/saude/noticia/2026/08/mulher-engravida-com-12-miomas-e-vive-gestacao-de-alto-risco-estava-sempre-com-medo-de-perder-o-bebe.ghtml",
+      "mentions": [],
+      "pubDate": "2026-08-15T09:01:06+00:00"
+    },
+    {
+      "id": "a975957f2c09",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Casa Vogue",
+      "title": "Além do fondue: 3 restaurantes em Zurique para quem quer fugir do óbvio",
+      "excerpt": "Do cult Kronenhalle ao contemporâneo IGNIV, passando pelo pioneiro vegetariano Hiltl, endereços que revelam, em taças e pratos, o estilo diverso da maior cidade da Suíça",
+      "image": "https://s2-casavogue.glbimg.com/3LBEPEq89qePEQKM9uubwtKn3tg=/i.s3.glbimg.com/v1/AUTH_d72fd4bf0af74c0c89d27a5a226dbbf8/internal_photos/bs/2026/F/H/WpehHqStWgFCRR6mgdSA/igniv-zurich-by-divulgacao-3.jpg",
+      "link": "https://casavogue.globo.com/lazer-e-cultura/restaurante/noticia/2026/08/restaurantes-zurique.ghtml",
+      "mentions": [],
+      "pubDate": "2026-08-15T09:00:58+00:00"
+    },
+    {
+      "id": "bd13f03ccb46",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Casa Vogue",
+      "title": "Meu almoço com Joan Miró",
+      "excerpt": "E tudo o que não está nos livros de história",
+      "image": "https://s2-casavogue.glbimg.com/b1AHRGAfGCqkQtBAz144F4r3OjQ=/i.s3.glbimg.com/v1/AUTH_d72fd4bf0af74c0c89d27a5a226dbbf8/internal_photos/bs/2026/F/J/yUAxKJQ8aTAqr5kAtdpw/exposicion-1-lbo4c7-gqjouo-1fzkkd.webp",
+      "link": "https://casavogue.globo.com/colunas/arte-em-prosa/coluna/2026/08/meu-almoco-com-joan-miro.ghtml",
+      "mentions": [],
+      "pubDate": "2026-08-15T09:00:55+00:00"
+    },
+    {
+      "id": "0e4a518a2d8e",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Highsnobiety",
+      "title": "The Frat-Boy Starter Pack That Won’t Break The Bank",
+      "excerpt": "Prepare for the semester ahead with our back to campus guide featuring comfortable, understated essentials under $100.",
+      "image": null,
+      "link": "https://www.highsnobiety.com/p/back-to-campus-guide-under-100-dollars/",
+      "mentions": [],
+      "pubDate": "2026-08-15T09:00:01+00:00"
+    },
+    {
+      "id": "c8f2b2d53ade",
+      "editorial": "cultura",
+      "scope": "internacional",
+      "source": "Who What Wear",
+      "title": "Hold the Black Shoes—This Elegant Sandal Colour Trend Makes Summer Dresses Look Chicest",
+      "excerpt": "Natalie Munro is Who What Wear UK’s news writer. Having worked in the fashion industry since her time at university—where she obtained a BA in Journalism from University of the Arts London, Natalie's…",
+      "image": "https://cdn.mos.cms.futurecdn.net/z9GXft9MZF3jUCgjzQMMam-1280-80.jpg",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/brown-sandals-trend-victoria-beckham-2026",
+      "mentions": [],
+      "pubDate": "2026-08-15T09:00:00+00:00"
+    },
+    {
+      "id": "8d3123710e29",
+      "editorial": "lifestyle",
+      "scope": "internacional",
+      "source": "Wallpaper*",
+      "title": "Albania recruited top starchitects to transform its image. A new book is raising questions about that process",
+      "excerpt": "Anna Solomon is Wallpaper’s digital staff writer, working across all of Wallpaper.com’s core pillars. She has a special interest in interiors and curates the weekly spotlight series, The Inside…",
+      "image": "https://cdn.mos.cms.futurecdn.net/85FB35ZTCoMoUg7RYKBNvU-1280-80.jpg",
+      "link": "https://www.wallpaper.com/architecture/the-albanian-files-freedom-and-architecture-book",
+      "mentions": [],
+      "pubDate": "2026-08-15T09:00:00+00:00"
     },
     {
       "id": "6df0bdd9b688",
@@ -611,32 +815,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/mXXhPheKxck89MQVXMKty-1280-80.jpg",
       "link": "https://www.whowhatwear.com/beauty/hair/zig-zag-headband-trend-hailey-bieber-2026",
       "mentions": [],
-      "pubDate": "2026-08-15T06:00:00+00:00"
-    },
-    {
-      "id": "7f91c4f79f59",
-      "editorial": "beleza",
-      "scope": "internacional",
-      "source": "Who What Wear",
-      "title": "Don't Let My Dry Shampoo Hear This, But This Lightweight Alternative Keeps My Hair So Fresh",
-      "excerpt": "Grace Lindsay is the deputy beauty editor at Who What Wear UK. At the age of 18 she decided to train as a makeup artist before going on to study english and media at Goldsmiths University. It was…",
-      "image": "https://cdn.mos.cms.futurecdn.net/hkxKJBL3syGnsthuwB9P4U-1280-80.jpg",
-      "link": "https://www.whowhatwear.com/beauty/hair/best-dry-shampoo-mists",
-      "mentions": [],
-      "pubDate": "2026-08-15T06:00:00+00:00"
-    },
-    {
-      "id": "5ff75c7de17b",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Who What Wear",
-      "title": "9 Early-Autumn Zara Buys Elegant French Women Are Shopping Now",
-      "excerpt": "Chloe Gallacher is a freelance fashion editor based in Essex. After graduating from university with a degree in Journalism, she worked for print publications including Hello! Fashion and You Magazine…",
-      "image": "https://cdn.mos.cms.futurecdn.net/ycfZTnyJNoHZkKwrAGbPx6-1280-80.png",
-      "link": "https://www.whowhatwear.com/fashion/affordable/early-autumn-french-girl-zara-buys-2026",
-      "mentions": [
-        "Zara"
-      ],
       "pubDate": "2026-08-15T06:00:00+00:00"
     },
     {
@@ -992,6 +1170,18 @@
       "pubDate": "2026-08-14T20:31:28+00:00"
     },
     {
+      "id": "1126b15580d1",
+      "editorial": "em-pauta",
+      "scope": "nacional",
+      "source": "Design Culture",
+      "title": "Instagram muda sua identidade – O que o novo logo revela sobre design, marca e comportamento digital?",
+      "excerpt": "Depois de uma década utilizando praticamente a mesma assinatura visual, o Instagram decidiu mexer em um dos elementos mais reconhecidos de sua identidade. A plataforma apresentou uma reformulação de…",
+      "image": null,
+      "link": "https://designculture.com.br/instagram-muda-sua-identidade-o-que-o-novo-logo-revela-sobre-design-marca-e-comportamento-digital/",
+      "mentions": [],
+      "pubDate": "2026-08-14T20:30:52+00:00"
+    },
+    {
       "id": "477f740be910",
       "editorial": "beleza",
       "scope": "internacional",
@@ -1002,6 +1192,18 @@
       "link": "https://www.vogue.com/article/gourmand-fragrance",
       "mentions": [],
       "pubDate": "2026-08-14T20:29:47+00:00"
+    },
+    {
+      "id": "0da70886d3f7",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Hypebeast",
+      "title": "Olaolu Slawn Unveils \"The Slawn x Rolex Multiverse\" 12-Piece Custom Watch Collection",
+      "excerpt": "Summary British-Nigerian artist Olaolu Slawn has revealed a custom 12-piece Rolex collection co-designed alongside global cultural iconsThe project features one-of-one timepieces created with figures…",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F08%2F14%2Folaolu-slawn-rolex-multiverse-12-piece-custom-watch-collection-000.jpg?w=800&cbr=1&q=90&fit=max",
+      "link": "https://hypebeast.com/2026/8/olaolu-slawn-rolex-multiverse-12-piece-custom-watch-collection",
+      "mentions": [],
+      "pubDate": "2026-08-14T20:22:06+00:00"
     },
     {
       "id": "c9879e431e49",
@@ -1198,18 +1400,6 @@
       "pubDate": "2026-08-14T19:35:42+00:00"
     },
     {
-      "id": "124ed29d842b",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Highsnobiety",
-      "title": "Your Next North Face Jacket Should Be One of One",
-      "excerpt": "The North Face Japan is introducing a permanent customization workshop to its flagship Sapporo Factory store to let you put a personal touch on every item.",
-      "image": null,
-      "link": "https://www.highsnobiety.com/p/the-north-face-customization/",
-      "mentions": [],
-      "pubDate": "2026-08-14T19:33:01+00:00"
-    },
-    {
       "id": "aacb4c98c1c3",
       "editorial": "moda",
       "scope": "internacional",
@@ -1340,18 +1530,6 @@
       "link": "https://harpersbazaar.uol.com.br/bazaar-man/por-que-os-homens-ainda-ignoram-os-sinais-das-varizes/",
       "mentions": [],
       "pubDate": "2026-08-14T18:59:40+00:00"
-    },
-    {
-      "id": "55a157a6b532",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Highsnobiety",
-      "title": "Nike’s Spotted Tennis Sneakers Literally Have That Dawg in ‘Em",
-      "excerpt": "Nike's Tennis Classic get a paw-fect makeover for the newest \"Chew Dog\" collection, resulting a furry Dalmatian-inspired take on the model.",
-      "image": null,
-      "link": "https://www.highsnobiety.com/p/nike-tennis-classic-chew-dog/",
-      "mentions": [],
-      "pubDate": "2026-08-14T18:56:09+00:00"
     },
     {
       "id": "44c8e9a19adb",
@@ -1656,18 +1834,6 @@
       "pubDate": "2026-08-14T17:00:45+00:00"
     },
     {
-      "id": "11da40a256b6",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "Marie Claire Brasil",
-      "title": "Como Dostoiévski se tornou o escritor favorito da geração TikTok",
-      "excerpt": "Editora da Marie Claire Rússia analisa como a obra de um dos maiores nomes da literatura de seu país vem sendo lida por jovens no Ocidente",
-      "image": "https://s2-marieclaire.glbimg.com/7SzpORstmb8k0c4hRtUh_ReexnE=/i.s3.glbimg.com/v1/AUTH_51f0194726ca4cae994c33379977582d/internal_photos/bs/2026/L/a/4BW3TVTnmBhv33YmaHFA/chatgpt-image-14-de-ago.-de-2026-13-46-26.png",
-      "link": "https://revistamarieclaire.globo.com/cultura/noticia/2026/08/como-dostoievski-se-tornou-o-escritor-favorito-da-geracao-tiktok.ghtml",
-      "mentions": [],
-      "pubDate": "2026-08-14T17:00:38+00:00"
-    },
-    {
       "id": "236f012f02f3",
       "editorial": "cultura",
       "scope": "nacional",
@@ -1875,20 +2041,6 @@
       "pubDate": "2026-08-14T16:09:00+00:00"
     },
     {
-      "id": "513c14d2a6a6",
-      "editorial": "cultura",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "A Behind-the-Scenes Look at Zara Larsson’s Lollapalooza Stop During Her ‘Midnight Sun’ Tour",
-      "excerpt": "The last time the Swedish pop star played Lolla, “I was a teenager,” she tells Vogue, “and now I’m a woman..., I feel more involved in my artistry and in my songwriting and in the making of the show…",
-      "image": "https://assets.vogue.com/photos/6a7e64d6233f5cf7788a82dd/master/pass/VO_Soundcheck_Zara_Larsson.jpg",
-      "link": "https://www.vogue.com/article/soundcheck-zara-larsson",
-      "mentions": [
-        "Zara"
-      ],
-      "pubDate": "2026-08-14T16:00:00+00:00"
-    },
-    {
       "id": "a5f14a7a5091",
       "editorial": "moda",
       "scope": "internacional",
@@ -1951,18 +2103,6 @@
       "pubDate": "2026-08-14T15:51:00+00:00"
     },
     {
-      "id": "165f5cd052fd",
-      "editorial": "em-pauta",
-      "scope": "nacional",
-      "source": "Marie Claire Brasil",
-      "title": "Por que homens estragam aniversários e momentos importantes de suas parceiras?",
-      "excerpt": "Psicóloga explica o que está por trás desse padrão de comportamento",
-      "image": "https://s2-marieclaire.glbimg.com/0NR1FQzUh469fXNx1_H7fo9acwM=/i.s3.glbimg.com/v1/AUTH_51f0194726ca4cae994c33379977582d/internal_photos/bs/2026/z/Y/GzFK7cQBuBul7pmV2BIA/gettyimages-2274910706.jpg",
-      "link": "https://revistamarieclaire.globo.com/violencia-de-genero/noticia/2026/08/por-que-alguns-homens-estragam-aniversarios-conquistas-e-momentos-importantes-das-parceiras.ghtml",
-      "mentions": [],
-      "pubDate": "2026-08-14T15:47:58+00:00"
-    },
-    {
       "id": "d67aec4d5cc2",
       "editorial": "cultura",
       "scope": "internacional",
@@ -1973,6 +2113,18 @@
       "link": "https://www.refinery29.com/en-us/katseye-pinky-up-wild-style-get-the-look?utm_source=feed&utm_medium=rss",
       "mentions": [],
       "pubDate": "2026-08-14T15:30:16+00:00"
+    },
+    {
+      "id": "3741e97ff8ec",
+      "editorial": "beleza",
+      "scope": "nacional",
+      "source": "Follow The Colours",
+      "title": "O hospital mais bonito do mundo: quando arquitetura e beleza também fazem parte da cura",
+      "excerpt": "Você acredita que a beleza pode ajudar a curar pessoas? Em Barcelona, existe um hospital construído a partir de uma ideia que, há mais de um século, parecia revolucionária: o ambiente onde estamos…",
+      "image": null,
+      "link": "https://followthecolours.com.br/hospital-sant-pau-barcelona-arquitetura-saude/",
+      "mentions": [],
+      "pubDate": "2026-08-14T15:29:40+00:00"
     },
     {
       "id": "db8c151444e6",
@@ -2083,18 +2235,6 @@
       "pubDate": "2026-08-14T14:51:10+00:00"
     },
     {
-      "id": "76aa337dc4f1",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Keeping the PhotoVogue spirit alive! The PhotoVogue Monday Story",
-      "excerpt": "Join us in celebrating the pics of the day since June 2025 until today",
-      "image": "https://assets.vogue.com/photos/69a5bcb06d2c2d7aba589946/master/pass/Untitled-1%20copy.png",
-      "link": "https://www.vogue.com/article/keeping-the-spirit-alive-more-than-a-month-in-pictures-the-pvmonday-story",
-      "mentions": [],
-      "pubDate": "2026-08-14T14:45:00+00:00"
-    },
-    {
       "id": "66911ea7f31e",
       "editorial": "cultura",
       "scope": "internacional",
@@ -2141,18 +2281,6 @@
       "link": "https://www.vogue.fr/article/instagram-boyfriend-decryptage",
       "mentions": [],
       "pubDate": "2026-08-14T14:22:44+00:00"
-    },
-    {
-      "id": "bd848c2759a7",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Kaia Gerber and Lewis Pullman Are Ready for Fall in Their Autumnal Couple Style",
-      "excerpt": "Summer doesn’t technically end until late September, but as far as Kaia Gerber and Lewis Pullman are concerned, it’s already fall.",
-      "image": "https://assets.vogue.com/photos/6a7f1bf0def08eb17a3870b8/master/pass/BGUS_3658645_002.jpg",
-      "link": "https://www.vogue.com/article/kaia-gerber-lewis-pullman-autumnal-couple-style",
-      "mentions": [],
-      "pubDate": "2026-08-14T14:18:39+00:00"
     },
     {
       "id": "69a69d1fb042",
@@ -2709,18 +2837,6 @@
       "pubDate": "2026-08-14T09:05:00+00:00"
     },
     {
-      "id": "87c1a96b77dc",
-      "editorial": "beleza",
-      "scope": "nacional",
-      "source": "Marie Claire Brasil",
-      "title": "Unhas cor ameixa: 7 manicures elegantes que são tendência no inverno de 2026",
-      "excerpt": "Profundo, sofisticado e fácil de combinar, o tom ameixa é uma tendência chave para esmaltes. De versões brilhantes e minimalistas a designs magnéticos ou translúcidos, aqui estão algumas maneiras de…",
-      "image": "https://s2-marieclaire.glbimg.com/eciQkn62R-Drh3bPeuu-oJ0hAKw=/i.s3.glbimg.com/v1/AUTH_51f0194726ca4cae994c33379977582d/internal_photos/bs/2026/u/W/e4UrdrSOiZPb3VVB9UHA/img-2469.jpg",
-      "link": "https://revistamarieclaire.globo.com/beleza/noticia/2026/08/unhas-cor-ameixa-7-manicures-elegantes-que-sao-tendencia-no-inverno-de-2026.ghtml",
-      "mentions": [],
-      "pubDate": "2026-08-14T09:03:10+00:00"
-    },
-    {
       "id": "98145add8095",
       "editorial": "cultura",
       "scope": "nacional",
@@ -2781,18 +2897,6 @@
       "pubDate": "2026-08-14T09:00:31+00:00"
     },
     {
-      "id": "fe03016d576c",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Wallpaper*",
-      "title": "These are the defining looks, accessories and trends of A/W 2026",
-      "excerpt": "The A/W 2026 season distilled into ten defining looks and accessories for men and women, each embracing the transformative rituals of dressing up",
-      "image": "https://cdn.mos.cms.futurecdn.net/auhRar4D5o2stdq4ezBKKF-1280-80.jpg",
-      "link": "https://www.wallpaper.com/fashion-beauty/standout-looks-trends-accessories-aw-2026",
-      "mentions": [],
-      "pubDate": "2026-08-14T08:11:12+00:00"
-    },
-    {
       "id": "765ccbcc0148",
       "editorial": "cultura",
       "scope": "nacional",
@@ -2825,18 +2929,6 @@
       "excerpt": "No Jardim Paulistano, o Tempo by Porsche tem restaurante de comida brasileira, automóveis raros no salão e um clube de membros para eventos exclusivos O post O Novo Espaço em São Paulo Que Une…",
       "image": "https://forbes.com.br/wp-content/uploads/2026/08/Porsche-300x200.jpg",
       "link": "https://forbes.com.br/forbes-life/2026/08/o-novo-espaco-em-sao-paulo-que-une-gastronomia-encontros-e-carros-da-porsche/",
-      "mentions": [],
-      "pubDate": "2026-08-14T08:00:00+00:00"
-    },
-    {
-      "id": "cffa26588f51",
-      "editorial": "lifestyle",
-      "scope": "internacional",
-      "source": "Wallpaper*",
-      "title": "A new tropical architecture archive traces a unique, global journey across the 20th century",
-      "excerpt": "The Architectural Association’s Department of Tropical Architecture Archive is now live – here's what we learned from this ‘extraordinary resource’ for academic research",
-      "image": "https://cdn.mos.cms.futurecdn.net/TXyQ5NSkyKoJfvJiSZz29J-1280-80.jpg",
-      "link": "https://www.wallpaper.com/architecture/aa-department-of-tropical-architecture-archive-uk",
       "mentions": [],
       "pubDate": "2026-08-14T08:00:00+00:00"
     },
@@ -3431,30 +3523,6 @@
       "link": "https://i-d.co/article/bo-bragason-sterling-point-zelda-interview/",
       "mentions": [],
       "pubDate": "2026-08-12T09:14:16+00:00"
-    },
-    {
-      "id": "613ed916fb36",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "Casa Vogue",
-      "title": "Museu Bernardo Paz: novo projeto em Brumadinho amplia o encontro entre arte, arquitetura e natureza",
-      "excerpt": "Com investimento estimado em R$ 1 bilhão, novo museu ocupará área de 1,26 milhão de m² e reunirá cerca de 3 mil obras, pavilhões, esculturas e um amplo projeto paisagístico",
-      "image": "https://s2-casavogue.glbimg.com/NQdjWFFxg7x9Bl_TXI1CD7C-DpU=/i.s3.glbimg.com/v1/AUTH_d72fd4bf0af74c0c89d27a5a226dbbf8/internal_photos/bs/2026/n/W/SAkuicQrmAwiraktkWaA/bernardo-paz-anuncia-novo-museu-2.jpg",
-      "link": "https://casavogue.globo.com/mostrasexpos/arte/noticia/2026/08/novo-inhotim-bernardo-paz-anuncia-novo-museu-ao-lado-do-instituto-mineiro.ghtml",
-      "mentions": [],
-      "pubDate": "2026-08-12T09:01:15+00:00"
-    },
-    {
-      "id": "aeae42795892",
-      "editorial": "lifestyle",
-      "scope": "nacional",
-      "source": "Casa Vogue",
-      "title": "A sujeira invisível: o que pode estar escondido no seu colchão (e adoecendo você)",
-      "excerpt": "Ácaros, suor, células mortas e fungos podem se esconder nas camadas do colchão; veja como reduzir o acúmulo e manter a cama mais limpa",
-      "image": "https://s2-casavogue.glbimg.com/tNE0m3mDiiConYMwj3Toxhkvv4I=/i.s3.glbimg.com/v1/AUTH_d72fd4bf0af74c0c89d27a5a226dbbf8/internal_photos/bs/2026/C/s/J1GAKlT6iNh3XR5B4pvA/8-silvia-braz.jpg",
-      "link": "https://casavogue.globo.com/smart/noticia/2026/08/a-sujeira-invisivel-o-que-pode-estar-escondido-no-seu-colchao-e-adoecendo-voce.ghtml",
-      "mentions": [],
-      "pubDate": "2026-08-12T09:00:45+00:00"
     },
     {
       "id": "7fb575a05add",
