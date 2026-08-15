@@ -1,42 +1,6 @@
 {
-  "generatedAt": "2026-08-15T14:29:38.846079+00:00",
+  "generatedAt": "2026-08-15T16:31:50.421169+00:00",
   "articles": [
-    {
-      "id": "69b1227ba5cc",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "Exame",
-      "title": "Quando estreia o novo filme dos X-Men? Marvel anuncia data",
-      "excerpt": "Longa dirigido por Jake Schreier chegará aos cinemas em 2028 e apresentará uma nova formação dos mutantes no MCU",
-      "image": null,
-      "link": "https://exame.com/pop/quando-estreia-o-novo-filme-dos-x-men-marvel-anuncia-data/",
-      "mentions": [],
-      "pubDate": "2026-08-15T14:29:32.024200+00:00"
-    },
-    {
-      "id": "4545ebad8a1c",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "Exame",
-      "title": "‘Os Incríveis 3’ ganha primeiras imagens e detalhes da trama; veja data de estreia",
-      "excerpt": "Novo filme colocará Violeta, Flecha e Zezé no centro da história, sem salto temporal",
-      "image": null,
-      "link": "https://exame.com/pop/os-incriveis-3-ganha-primeiras-imagens-e-detalhes-da-trama-veja-data-de-estreia/",
-      "mentions": [],
-      "pubDate": "2026-08-15T14:29:32.023141+00:00"
-    },
-    {
-      "id": "5667aa507460",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "Exame",
-      "title": "‘Star Wars: Starfighter’ exibe primeiras cenas com Ryan Gosling na D23",
-      "excerpt": "Filme dirigido por Shawn Levy terá uma história independente ambientada cinco anos após a última trilogia",
-      "image": null,
-      "link": "https://exame.com/pop/star-wars-starfighter-exibe-primeiras-cenas-com-ryan-gosling-na-d23/",
-      "mentions": [],
-      "pubDate": "2026-08-15T14:29:32.022930+00:00"
-    },
     {
       "id": "c5179a0ada7b",
       "editorial": "cultura",
@@ -47,7 +11,21 @@
       "image": null,
       "link": "https://exame.com/pop/quais-atores-ja-estao-confirmados-para-o-novo-harry-potter-veja-detalhes-do-elenco/",
       "mentions": [],
-      "pubDate": "2026-08-15T14:29:32.021845+00:00"
+      "pubDate": "2026-08-15T16:31:43.346391+00:00"
+    },
+    {
+      "id": "2c56763a90f2",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Exame",
+      "title": "Cultura da FARM: como a marca brasileira está levando seu jeito de trabalhar para o mundo",
+      "excerpt": "Em encontro realizado pela EXAME no RJ, presidente e diretora da FARM Rio contam como a empresa pretende ganhar escala internacional sem perder a identidade que marcaram sua história",
+      "image": null,
+      "link": "https://exame.com/carreira/cultura-da-farm-como-a-marca-brasileira-esta-levando-seu-jeito-de-trabalhar-para-o-mundo/",
+      "mentions": [
+        "Farm"
+      ],
+      "pubDate": "2026-08-15T16:31:43.343049+00:00"
     },
     {
       "id": "8597d6e29ecd",
@@ -59,7 +37,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/os-tipos-de-olheiras-e-o-que-pode-agravar-o-escurecimento",
       "mentions": [],
-      "pubDate": "2026-08-15T14:29:26.033236+00:00"
+      "pubDate": "2026-08-15T16:31:37.672249+00:00"
     },
     {
       "id": "11851eb28794",
@@ -71,7 +49,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/glutationa-o-que-e-e-quais-os-beneficios-para-a-pele",
       "mentions": [],
-      "pubDate": "2026-08-15T14:29:26.033108+00:00"
+      "pubDate": "2026-08-15T16:31:37.672160+00:00"
     },
     {
       "id": "e486a6d380c4",
@@ -83,7 +61,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/peptideo-antiolheiras-o-que-e-e-quais-os-beneficios-falta-foto",
       "mentions": [],
-      "pubDate": "2026-08-15T14:29:26.032874+00:00"
+      "pubDate": "2026-08-15T16:31:37.671995+00:00"
     },
     {
       "id": "3c4346b2f749",
@@ -95,7 +73,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/serum-antiolheiras-reducao-de-olheiras-em-30-dias-e-outros-4-beneficios-para-regiao-dos-olhos",
       "mentions": [],
-      "pubDate": "2026-08-15T14:29:26.032725+00:00"
+      "pubDate": "2026-08-15T16:31:37.671889+00:00"
     },
     {
       "id": "b11322bbde3c",
@@ -107,7 +85,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/quais-tipos-de-olheiras-o-serum-antiolheiras-ajuda-a-tratar",
       "mentions": [],
-      "pubDate": "2026-08-15T14:29:26.032370+00:00"
+      "pubDate": "2026-08-15T16:31:37.671635+00:00"
     },
     {
       "id": "3153b4a4d606",
@@ -119,7 +97,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/como-usar-o-serum-antiolheiras",
       "mentions": [],
-      "pubDate": "2026-08-15T14:29:26.032217+00:00"
+      "pubDate": "2026-08-15T16:31:37.671525+00:00"
     },
     {
       "id": "bcec3ba36171",
@@ -131,7 +109,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/serum-antiolheiras-por-dentro-da-formula",
       "mentions": [],
-      "pubDate": "2026-08-15T14:29:26.032114+00:00"
+      "pubDate": "2026-08-15T16:31:37.671452+00:00"
     },
     {
       "id": "f1b9f678cbb7",
@@ -143,7 +121,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/sallve-recebe-ikesaki-para-dia-de-cocriacao-e-treinamento",
       "mentions": [],
-      "pubDate": "2026-08-15T14:29:26.031923+00:00"
+      "pubDate": "2026-08-15T16:31:37.671317+00:00"
     },
     {
       "id": "f93ddaff12a6",
@@ -155,7 +133,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/protetor-solar-antioleosidade-por-dentro-da-formula",
       "mentions": [],
-      "pubDate": "2026-08-15T14:29:26.031689+00:00"
+      "pubDate": "2026-08-15T16:31:37.671150+00:00"
     },
     {
       "id": "283ce354bb7c",
@@ -167,7 +145,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/como-usar-o-protetor-solar-antioleosidade",
       "mentions": [],
-      "pubDate": "2026-08-15T14:29:26.031455+00:00"
+      "pubDate": "2026-08-15T16:31:37.670991+00:00"
     },
     {
       "id": "d72cea3804a3",
@@ -179,7 +157,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/beauty/article/70797/1/meet-pia-momos-the-artist-behind-the-viral-erling-haaland-nails?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-imaginative-artist-behind-those-viral-erling-haaland-nails",
       "mentions": [],
-      "pubDate": "2026-08-15T14:29:15.282132+00:00"
+      "pubDate": "2026-08-15T16:31:27.067328+00:00"
     },
     {
       "id": "ef44de149b8f",
@@ -191,7 +169,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/art-photography/article/70779/1/black-lights-blackpool-photos-north-england-timon-benson-white-hotel?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=charged-photos-of-the-experimental-scene-brewing-in-the-north-of-england",
       "mentions": [],
-      "pubDate": "2026-08-15T14:29:15.281920+00:00"
+      "pubDate": "2026-08-15T16:31:27.067172+00:00"
     },
     {
       "id": "56ab49aa7b59",
@@ -203,7 +181,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/life-culture/article/70801/1/are-ai-dating-apps-ushering-in-the-era-of-swipeless-dating?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=are-ai-dating-apps-ushering-in-the-era-of-swipeless-dating",
       "mentions": [],
-      "pubDate": "2026-08-15T14:29:15.281754+00:00"
+      "pubDate": "2026-08-15T16:31:27.067049+00:00"
     },
     {
       "id": "6f3d893db69e",
@@ -215,7 +193,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/beauty/article/70791/1/why-are-people-getting-gun-tattoos?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-complicated-rise-of-gun-tattoos",
       "mentions": [],
-      "pubDate": "2026-08-15T14:29:15.281646+00:00"
+      "pubDate": "2026-08-15T16:31:27.066967+00:00"
     },
     {
       "id": "c280fc4fe246",
@@ -227,7 +205,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/fashion/article/70803/1/photos-from-bjorks-celestial-solar-eclipse-rave-in-iceland?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=bjork-celebrates-solar-eclipse-with-celestial-rave",
       "mentions": [],
-      "pubDate": "2026-08-15T14:29:15.281410+00:00"
+      "pubDate": "2026-08-15T16:31:27.066792+00:00"
     },
     {
       "id": "a0b980f5295d",
@@ -239,7 +217,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/beauty/article/70807/1/i-bought-a-beauty-spell-from-an-etsy-witch-and-it-made-me-more-confident?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=i-bought-a-beauty-spell-from-an-etsy-witch-and-it-worked",
       "mentions": [],
-      "pubDate": "2026-08-15T14:29:15.281271+00:00"
+      "pubDate": "2026-08-15T16:31:27.066688+00:00"
     },
     {
       "id": "190c4b638bd4",
@@ -251,7 +229,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/music/article/70809/1/the-saddest-phoebe-bridger-s-songs-ranked-lost-weekend?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-9-saddest-phoebe-bridgers-songs-ranked",
       "mentions": [],
-      "pubDate": "2026-08-15T14:29:15.281013+00:00"
+      "pubDate": "2026-08-15T16:31:27.066502+00:00"
     },
     {
       "id": "04182060443d",
@@ -263,7 +241,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/fashion/article/70800/1/fka-twigs-and-on-just-started-a-wellness-cult?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=fka-twigs-and-on-just-started-a-wellness-cult",
       "mentions": [],
-      "pubDate": "2026-08-15T14:29:15.280814+00:00"
+      "pubDate": "2026-08-15T16:31:27.066358+00:00"
     },
     {
       "id": "2556e0333f03",
@@ -275,7 +253,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/art-photography/article/70799/1/jesse-glazzard-photographer-sound-of-dirt-beauty-book-mack?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=first-look-jesse-glazzard-distills-the-dirt-and-beauty-of-queer-life",
       "mentions": [],
-      "pubDate": "2026-08-15T14:29:15.280602+00:00"
+      "pubDate": "2026-08-15T16:31:27.066213+00:00"
     },
     {
       "id": "893bdffa22f0",
@@ -287,7 +265,127 @@
       "image": null,
       "link": "https://www.dazeddigital.com/fashion/article/70780/1/punketo-meet-the-indigenous-gen-z-punks-of-mexico-city-maxwell-vice?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=punketo-meet-the-indigenous-gen-z-punks-of-mexico-city",
       "mentions": [],
-      "pubDate": "2026-08-15T14:29:15.280367+00:00"
+      "pubDate": "2026-08-15T16:31:27.066043+00:00"
+    },
+    {
+      "id": "9ca94d01a2f4",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Who What Wear",
+      "title": "Gap's Viral 100% Cotton Sweater Sells Out Every Fall—I Think These 5 New Colors Will Go First",
+      "excerpt": "Erin got her start as a Who What Wear intern in 2011—back when the site only published a single story per day. (We have since increased that number twentyfold.) She graduated magna cum laude from USC…",
+      "image": "https://cdn.mos.cms.futurecdn.net/JkhxTZHJbaeQztzBZUHFPR-1280-80.jpg",
+      "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/best-100-percent-cotton-sweaters-women",
+      "mentions": [],
+      "pubDate": "2026-08-15T16:30:00+00:00"
+    },
+    {
+      "id": "a97798a8ad82",
+      "editorial": "cultura",
+      "scope": "internacional",
+      "source": "Elle US",
+      "title": "Everything We Know About Disney’s Live-Action Tangled",
+      "excerpt": "",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/42007865-3757-4104-b567-33cc95eb0c13.jpeg",
+      "link": "https://www.elle.com/culture/movies-tv/a70701839/disney-tangled-live-action-movie-all-the-details/",
+      "mentions": [],
+      "pubDate": "2026-08-15T16:28:00+00:00"
+    },
+    {
+      "id": "a74c4c4f6977",
+      "editorial": "cultura",
+      "scope": "internacional",
+      "source": "Harper's Bazaar US",
+      "title": "Victoria Beckham Is Wearing This Breezy Sheer Dress All Summer Long",
+      "excerpt": "From Ibiza to Portofino",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/3ea193f4-0b4e-4659-8b9e-cf31248654b1.jpg",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73442454/victoria-beckham-rewears-sheer-floral-dress-mini-hermes-kelly-bag-portofino-photos/",
+      "mentions": [],
+      "pubDate": "2026-08-15T16:27:31+00:00"
+    },
+    {
+      "id": "2b9b511bcf0e",
+      "editorial": "cultura",
+      "scope": "internacional",
+      "source": "WWD",
+      "title": "Sadie Sink Pulls From Alexander McQueen’s Famed 2004 Deliverance Collection for Jean Grey Reveal",
+      "excerpt": "The actress pulled from the designer’s spring 2004 collection for Disney’s Entertainment Showcase at D23.",
+      "image": null,
+      "link": "https://wwd.com/pop-culture/celebrity-news/sadie-sink-alexander-mcqueen-gown-disneys-showcase-1239125986/",
+      "mentions": [],
+      "pubDate": "2026-08-15T16:04:17+00:00"
+    },
+    {
+      "id": "ac4416ac1119",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Capricho",
+      "title": "O rap feminino é uma aula para garotas se colocarem em primeiro lugar",
+      "excerpt": "Pela música, artistas como Ebony e Duquesa nos lembram que somos força, inteligência, coragem e resistência.",
+      "image": "https://capricho.abril.com.br/wp-content/uploads/2023/08/duquesa-na-capricho.png",
+      "link": "https://capricho.abril.com.br/coluna/blog-da-galera-capricho/o-rap-feminino-e-uma-aula-para-garotas-se-colocarem-em-primeiro-lugar/",
+      "mentions": [],
+      "pubDate": "2026-08-15T16:00:14+00:00"
+    },
+    {
+      "id": "e5f391b82dbd",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "WWD",
+      "title": "Michael Jordan’s Most Popular Air Jordan Is Getting a New Jackie Robinson Tribute Style",
+      "excerpt": "The Air Jordan 4 will be released in a new colorway paying tribute to the legendary Jackie Robinson.",
+      "image": null,
+      "link": "https://wwd.com/footwear-news/sneaker-news/air-jordan-4-retro-og-jackie-robinson-release-date-jj9189-101-1239125989/",
+      "mentions": [],
+      "pubDate": "2026-08-15T15:54:23+00:00"
+    },
+    {
+      "id": "ba9dea5cafc6",
+      "editorial": "cultura",
+      "scope": "internacional",
+      "source": "Harper's Bazaar US",
+      "title": "Sadie Sink Goes Archival for the X-Men Reveal With a McQueen Spring 2004 Dress",
+      "excerpt": "The piece looked like it was made of stained glass",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/22922b9b-b260-458a-8929-759db58e2246.jpeg",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73442305/sadie-sink-archival-alexander-mcqueen-spring-2004-dress-disney-fan-event-photos/",
+      "mentions": [],
+      "pubDate": "2026-08-15T15:14:37+00:00"
+    },
+    {
+      "id": "9378e1b9e441",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Hypebeast",
+      "title": "JJJJound and AIAIAI Team up for Special Edition Audio Collection",
+      "excerpt": "Summary AIAIAI and JJJJound have collaborated on a special edition audio collection featuring headphones and a wireless studio monitorThe release includes the Tracks on-ear headphones in two…",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F08%2F14%2Fjjjjound-aiaiai-team-up-for-special-edition-audio-collection-headphones-studio-monitor-000.jpg?w=800&cbr=1&q=90&fit=max",
+      "link": "https://hypebeast.com/2026/8/jjjjound-aiaiai-team-up-for-special-edition-audio-collection-headphones-studio-monitor",
+      "mentions": [],
+      "pubDate": "2026-08-15T15:02:23+00:00"
+    },
+    {
+      "id": "e0944dd1c4a4",
+      "editorial": "moda",
+      "scope": "nacional",
+      "source": "Steal the Look",
+      "title": "Os looks de grávida da Isa Scherer são simplesmente icônicos — e podemos provar!",
+      "excerpt": "Inspirações de looks de grávida da Isa Scherer para quem não quer abrir mão do estilo.",
+      "image": "https://static.stealthelook.com.br/wp-content/uploads/2026/08/Untitled-design-2026-08-10T120113.763.png",
+      "link": "https://stealthelook.com.br/os-looks-de-gravida-da-isa-scheres-sao-simplesmente-iconicos-e-podemos-provar/",
+      "mentions": [],
+      "pubDate": "2026-08-15T15:00:00+00:00"
+    },
+    {
+      "id": "d4dfd87b3131",
+      "editorial": "lifestyle",
+      "scope": "nacional",
+      "source": "Glamour Brasil",
+      "title": "Influenciadora recebe conta de R$ 3 milhões após filha ficar na UTI neonatal nos EUA e viraliza",
+      "excerpt": "Madeleine White publicou vídeo nas redes sociais para mostrar valor total da internação e preço gerou revolta",
+      "image": "https://s2-glamour.glbimg.com/-TUF0XvkvMXSIMDsngQK5PBHEaA=/i.s3.glbimg.com/v1/AUTH_ba3db981e6d14e54bb84be31c923b00c/internal_photos/bs/2026/v/S/Wo9oI1TASvzm1rzcv9Vw/madeleine.jpg",
+      "link": "https://glamour.globo.com/lifestyle/trending/noticia/2026/08/influenciadora-recebe-conta-de-r-3-milhoes-apos-filha-ficar-na-uti-neonatal-nos-eua-e-viraliza.ghtml",
+      "mentions": [],
+      "pubDate": "2026-08-15T14:53:23+00:00"
     },
     {
       "id": "31bd10d10816",
@@ -544,18 +642,6 @@
       "pubDate": "2026-08-15T12:00:00+00:00"
     },
     {
-      "id": "d70924b7421e",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Who What Wear",
-      "title": "Cute Shoes That Won't Kill Your Feet—17 Pairs I'd Wear All Day",
-      "excerpt": "Editor approved.",
-      "image": "https://cdn.mos.cms.futurecdn.net/9ghBJX2ZXjzUKz2WjorjaN-1280-80.jpg",
-      "link": "https://www.whowhatwear.com/fashion/shopping/cute-comfortable-walking-shoes",
-      "mentions": [],
-      "pubDate": "2026-08-15T12:00:00+00:00"
-    },
-    {
       "id": "f451eb72e6f0",
       "editorial": "moda",
       "scope": "internacional",
@@ -564,6 +650,18 @@
       "excerpt": "Shop fashion and beauty, from Alex Mill to Flamingo Estate.",
       "image": "https://cdn.mos.cms.futurecdn.net/rp8LhZ9sR6tNecropig79H-1280-80.jpg",
       "link": "https://www.whowhatwear.com/fashion/shopping/shopbop-fashion-beauty-august-2026",
+      "mentions": [],
+      "pubDate": "2026-08-15T12:00:00+00:00"
+    },
+    {
+      "id": "d70924b7421e",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Who What Wear",
+      "title": "Cute Shoes That Won't Kill Your Feet—17 Pairs I'd Wear All Day",
+      "excerpt": "Editor approved.",
+      "image": "https://cdn.mos.cms.futurecdn.net/9ghBJX2ZXjzUKz2WjorjaN-1280-80.jpg",
+      "link": "https://www.whowhatwear.com/fashion/shopping/cute-comfortable-walking-shoes",
       "mentions": [],
       "pubDate": "2026-08-15T12:00:00+00:00"
     },
@@ -712,18 +810,6 @@
       "pubDate": "2026-08-15T10:00:04+00:00"
     },
     {
-      "id": "0adea757e35f",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "The Scandi Street Style Way to Wear Sheers",
-      "excerpt": "At Copenhagen Fashion Week, peekaboo looks were all the rage.",
-      "image": "https://assets.vogue.com/photos/6a74f55bcd98d9c6753e36b6/master/pass/COPENHAGEN_SS27_STREETSTYLE_DAY4_ACIELLE_43.jpg",
-      "link": "https://www.vogue.com/article/the-scandi-street-style-way-to-wear-sheers",
-      "mentions": [],
-      "pubDate": "2026-08-15T10:00:00+00:00"
-    },
-    {
       "id": "8657bdde5933",
       "editorial": "moda",
       "scope": "internacional",
@@ -732,6 +818,18 @@
       "excerpt": "Explore the best dresses of the month, from silk maxidresses to practical striped shirtdresses. Shop a wide selection of handpicked Vogue dresses.",
       "image": "https://assets.vogue.com/photos/6a7f6965ada41360335bcb28/master/pass/Copy%20of%20072026_VOGUESHOPPING_FINAL-12.jpg",
       "link": "https://www.vogue.com/article/dresses",
+      "mentions": [],
+      "pubDate": "2026-08-15T10:00:00+00:00"
+    },
+    {
+      "id": "0adea757e35f",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "The Scandi Street Style Way to Wear Sheers",
+      "excerpt": "At Copenhagen Fashion Week, peekaboo looks were all the rage.",
+      "image": "https://assets.vogue.com/photos/6a74f55bcd98d9c6753e36b6/master/pass/COPENHAGEN_SS27_STREETSTYLE_DAY4_ACIELLE_43.jpg",
+      "link": "https://www.vogue.com/article/the-scandi-street-style-way-to-wear-sheers",
       "mentions": [],
       "pubDate": "2026-08-15T10:00:00+00:00"
     },
@@ -1024,18 +1122,6 @@
       "pubDate": "2026-08-15T07:00:00+00:00"
     },
     {
-      "id": "3e49464d506f",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Who What Wear",
-      "title": "These 5 Fun Handbag Trends Will Be The Secret Behind Every Great Outfit This Autumn",
-      "excerpt": "Buckle up (you, not your bag).",
-      "image": "https://cdn.mos.cms.futurecdn.net/AKiSEdSXF4tznqQYwm6Vcd-1280-80.png",
-      "link": "https://www.whowhatwear.com/fashion/trends/fun-handbag-trends-autumn-2026",
-      "mentions": [],
-      "pubDate": "2026-08-15T07:00:00+00:00"
-    },
-    {
       "id": "24d216e1bc5c",
       "editorial": "cultura",
       "scope": "internacional",
@@ -1084,18 +1170,6 @@
       "pubDate": "2026-08-15T06:00:00+00:00"
     },
     {
-      "id": "10436c45bacb",
-      "editorial": "beleza",
-      "scope": "internacional",
-      "source": "Vogue UK",
-      "title": "The Best Wet-To-Dry Hair Stylers, According To Expert Hairstylists, For Faster, Shinier Blow-Dries",
-      "excerpt": "We've rounded up the very best wet-to-dry hair stylers for every hair type, budget and styling preference. Shop Vogue's expert guide to the best wet-to-dry hair stylers, from Ghd to BaByliss to Amika…",
-      "image": "https://media.vogue.co.uk/photos/6a7dc49338451b47c8d6277c/master/pass/VOGUEUK_202211_ANGELO-PENNETTA_01.jpg",
-      "link": "https://www.vogue.co.uk/article/best-wet-to-dry-hair-stylers",
-      "mentions": [],
-      "pubDate": "2026-08-15T06:00:00+00:00"
-    },
-    {
       "id": "df8ac362f34e",
       "editorial": "moda",
       "scope": "internacional",
@@ -1104,6 +1178,18 @@
       "excerpt": "As Michael Stewart’s label, Standing Ground, debuted in Paris, Vogue’s Daniel Rodgers visited the Irish craftswomen whose centuries-old lace lit up the couture runway.",
       "image": "https://media.vogue.co.uk/photos/6a7c5ab6082a9a34f893d441/master/pass/WEB-BRITISHVOGUE_STANDINGGROUND_CARRICKMACROSS_ANDREWNUDING_02_MIDRES.jpg",
       "link": "https://www.vogue.co.uk/article/standing-ground-carrickmacross-lace-couture-dress",
+      "mentions": [],
+      "pubDate": "2026-08-15T06:00:00+00:00"
+    },
+    {
+      "id": "10436c45bacb",
+      "editorial": "beleza",
+      "scope": "internacional",
+      "source": "Vogue UK",
+      "title": "The Best Wet-To-Dry Hair Stylers, According To Expert Hairstylists, For Faster, Shinier Blow-Dries",
+      "excerpt": "We've rounded up the very best wet-to-dry hair stylers for every hair type, budget and styling preference. Shop Vogue's expert guide to the best wet-to-dry hair stylers, from Ghd to BaByliss to Amika…",
+      "image": "https://media.vogue.co.uk/photos/6a7dc49338451b47c8d6277c/master/pass/VOGUEUK_202211_ANGELO-PENNETTA_01.jpg",
+      "link": "https://www.vogue.co.uk/article/best-wet-to-dry-hair-stylers",
       "mentions": [],
       "pubDate": "2026-08-15T06:00:00+00:00"
     },
@@ -1544,18 +1630,6 @@
       "pubDate": "2026-08-14T20:22:06+00:00"
     },
     {
-      "id": "c9879e431e49",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "WWD",
-      "title": "Kehlani Dances in Nike’s Coolest and Sleekest Slim Sneaker Onstage in Michigan",
-      "excerpt": "The sneakers are currently on sale.",
-      "image": null,
-      "link": "https://wwd.com/footwear-news/shoe-trends/kehlani-nike-shox-z-tour-michigan-1239125554/",
-      "mentions": [],
-      "pubDate": "2026-08-14T20:18:05+00:00"
-    },
-    {
       "id": "daa326bb724d",
       "editorial": "cultura",
       "scope": "internacional",
@@ -1734,18 +1808,6 @@
       "excerpt": "They’re soft, comfy, and look undeniably chic with any outfit.",
       "image": "https://hips.hearstapps.com/hmg-prod/images/6aaddbfa-8763-4ea6-9b72-11fd79afe03c.png",
       "link": "https://www.elle.com/fashion/shopping/g62504134/best-suede-sneakers/",
-      "mentions": [],
-      "pubDate": "2026-08-14T19:27:00+00:00"
-    },
-    {
-      "id": "824986cd77e0",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Elle US",
-      "title": "Culture Watch: What to See and Where to Go in August",
-      "excerpt": "",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/716c1cd6-5f8d-4fc3-91dc-a5b3bdae652e.jpg",
-      "link": "https://www.elle.com/culture/art-design/a73403374/best-fashion-exhibitions-august-2026/",
       "mentions": [],
       "pubDate": "2026-08-14T19:27:00+00:00"
     },
@@ -2026,18 +2088,6 @@
       "link": "https://vogue.globo.com/moda/noticia/2026/08/nova-edicao-da-masters-of-art-da-montblanc-e-inspirada-em-henri-matisse.ghtml",
       "mentions": [],
       "pubDate": "2026-08-14T17:39:43+00:00"
-    },
-    {
-      "id": "fc30ffba795f",
-      "editorial": "cultura",
-      "scope": "internacional",
-      "source": "Harper's Bazaar US",
-      "title": "The Anne Hathaway Dinosaur Movie Is Good, Actually",
-      "excerpt": "The End of Oak Street offers a thrilling, dino-powered summer blockbuster, proving that all a great movie needs is 90-ish minutes and a heart",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/b2832202-59dc-4906-9005-46b5e721d90c.jpeg",
-      "link": "https://www.harpersbazaar.com/culture/film-tv/a73401814/anne-hathaway-end-of-oak-street-explained/",
-      "mentions": [],
-      "pubDate": "2026-08-14T17:39:25+00:00"
     },
     {
       "id": "625bc38c3891",
@@ -2501,18 +2551,6 @@
       "pubDate": "2026-08-14T14:51:10+00:00"
     },
     {
-      "id": "66911ea7f31e",
-      "editorial": "cultura",
-      "scope": "internacional",
-      "source": "Harper's Bazaar US",
-      "title": "Jennifer Lawrence’s Cool-Mom Wardrobe Includes Studded Cutoff Jorts",
-      "excerpt": "It’s a denim-short renaissance",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/6827a8d7-0ccc-4c8f-acf8-0a9a46fc7b31.jpeg",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73435483/jennifer-lawrence-studded-cutoff-denim-bermuda-shorts-photos/",
-      "mentions": [],
-      "pubDate": "2026-08-14T14:43:54+00:00"
-    },
-    {
       "id": "461d75fed92d",
       "editorial": "moda",
       "scope": "nacional",
@@ -2595,18 +2633,6 @@
       "link": "https://gq.globo.com/bem-estar/noticia/2026/08/reporter-exagera-na-proteina-e-conta-o-que-aconteceu-com-seu-corpo-mais-do-que-conseguia-processar.ghtml",
       "mentions": [],
       "pubDate": "2026-08-14T14:00:39+00:00"
-    },
-    {
-      "id": "4d4cedfd5eec",
-      "editorial": "moda",
-      "scope": "nacional",
-      "source": "Capricho",
-      "title": "‘Jelly shoes’ são a tendência de sapato que promete bombar neste verão",
-      "excerpt": "Sandálias e calçados 'gelatinosos' que já eram febre no Brasil nos anos 2000 foram repaginados para o street style atual",
-      "image": "https://capricho.abril.com.br/wp-content/uploads/2026/08/tendencia-jelly-shoes-verao-2027.jpg",
-      "link": "https://capricho.abril.com.br/moda/jelly-shoes-sao-a-tendencia-de-sapato-que-promete-bombar-neste-verao/",
-      "mentions": [],
-      "pubDate": "2026-08-14T14:00:09+00:00"
     },
     {
       "id": "d53a08286ecb",
@@ -2767,18 +2793,6 @@
       "pubDate": "2026-08-14T12:30:00+00:00"
     },
     {
-      "id": "93688ca728f0",
-      "editorial": "moda",
-      "scope": "nacional",
-      "source": "Steal the Look",
-      "title": "Brasileiras na CPHFW: Os looks de Gabie Fernandes que você vai querer salvar",
-      "excerpt": "Os looks da influenciadora Gabie Fernandes durante a CPHFW criam o guia de tendências perfeito!",
-      "image": "https://static.stealthelook.com.br/wp-content/uploads/2026/08/Design-sem-nome-2026-08-13T162353.013-731x1024.jpg",
-      "link": "https://stealthelook.com.br/brasileiras-na-cphfw-os-looks-de-gabie-fernandes-que-voce-vai-querer-salvar/",
-      "mentions": [],
-      "pubDate": "2026-08-14T12:25:01+00:00"
-    },
-    {
       "id": "3eabed075464",
       "editorial": "cultura",
       "scope": "internacional",
@@ -2825,18 +2839,6 @@
       "link": "https://www.vogue.fr/article/peau-seche-regles-produits-maquillage",
       "mentions": [],
       "pubDate": "2026-08-14T11:32:00+00:00"
-    },
-    {
-      "id": "0685ea2282e4",
-      "editorial": "moda",
-      "scope": "nacional",
-      "source": "Glamour Brasil",
-      "title": "Sandália de dedo com meia: a combinação mais contreversa que as fashion girls estão apostando",
-      "excerpt": "A Miu Miu trouxe a ideia, mas quem congrassou essa tendência foi o street style de Copenhagen",
-      "image": "https://s2-glamour.glbimg.com/_xzeY60l6zpfBx2QqugajBmk1oQ=/i.s3.glbimg.com/v1/AUTH_ba3db981e6d14e54bb84be31c923b00c/internal_photos/bs/2026/j/6/hB9yrHQfyaqt6FhULNww/vermelho-na-parte-de-cima-nos-acessorios-e-tambem-na-meia.-para-entrar-na-trend-da-vez-invista-em-uma-sandalia-de-dedo-com-aplicacao-de-flor-3d.-as-fashion-girls-estao-obcecadas-.png",
-      "link": "https://glamour.globo.com/shopping/noticia/2026/08/sandalia-de-dedo-com-meia-a-combinacao-mais-contreversa-que-as-fashion-girls-estao-apostando.ghtml",
-      "mentions": [],
-      "pubDate": "2026-08-14T11:10:29+00:00"
     },
     {
       "id": "38fa00f5b24c",
