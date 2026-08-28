@@ -69,6 +69,20 @@ CURATED_BADGE = "Curadoria da Redação"
 
 EDIT_FEATURED = [
     {
+        "title": "A história da Hermès",
+        "section": "Dossiê",
+        "read_time": "4 min de leitura",
+        "image": "images/2elles-edit/fachada-boutique-hermes-paris.jpg",
+        "link": "2elles-edit/a-historia-da-hermes",
+    },
+    {
+        "title": "Quando a maquiagem virou autocuidado",
+        "section": "Arquivo",
+        "read_time": "3 min de leitura",
+        "image": "images/2elles-edit/mulher-aplicando-skincare-em-frente-ao-espelho.jpg",
+        "link": "2elles-edit/quando-a-maquiagem-virou-autocuidado",
+    },
+    {
         "title": "A bolsa Cigale virou o it-bag de 2026",
         "section": "Radar",
         "read_time": "4 min de leitura",
@@ -144,20 +158,6 @@ EDIT_FEATURED = [
         "read_time": "7 min de leitura",
         "image": "images/2elles-edit/editorial-de-moda-gerado-por-inteligencia-artificial.jpg",
         "link": "2elles-edit/inteligencia-artificial-na-moda",
-    },
-    {
-        "title": "Comprar sem receber nada parece absurdo?",
-        "section": "Contexto",
-        "read_time": "5 min de leitura",
-        "image": "images/2elles-edit/mulher-navegando-online-em-casa-com-mascara-facial.jpg",
-        "link": "2elles-edit/dopamine-sites-comprar-sem-receber",
-    },
-    {
-        "title": "A história da Glossier",
-        "section": "Dossiê",
-        "read_time": "6 min de leitura",
-        "image": "images/2elles-edit/produtos-glossier-organizados-em-prateleira-de-banheiro.jpg",
-        "link": "2elles-edit/historia-da-glossier",
     },
 ]
 
