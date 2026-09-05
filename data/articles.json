@@ -1,18 +1,6 @@
 {
-  "generatedAt": "2026-09-04T22:16:50.184795+00:00",
+  "generatedAt": "2026-09-05T03:56:14.815587+00:00",
   "articles": [
-    {
-      "id": "857ee83dbf7c",
-      "editorial": "lifestyle",
-      "scope": "nacional",
-      "source": "Exame",
-      "title": "Não sabe o que fazer no feriado? 8 experiências na região de São Paulo",
-      "excerpt": "Hotéis na capital e em cidades vizinhas preparam pacotes com gastronomia, spa e programação especial para os dias de descanso",
-      "image": null,
-      "link": "https://exame.com/casual/nao-sabe-o-que-fazer-no-feriado-8-experiencias-na-regiao-de-sao-paulo/",
-      "mentions": [],
-      "pubDate": "2026-09-04T22:16:38.837924+00:00"
-    },
     {
       "id": "0180ae4a275b",
       "editorial": "beleza",
@@ -25,7 +13,7 @@
       "mentions": [
         "Natura"
       ],
-      "pubDate": "2026-09-04T22:16:38.836797+00:00"
+      "pubDate": "2026-09-05T03:56:09.272995+00:00"
     },
     {
       "id": "68aedbf0964b",
@@ -37,7 +25,7 @@
       "image": null,
       "link": "https://exame.com/pop/setembro-amarelo-7-filmes-e-series-para-assistir-no-streaming-e-terminar-a-semana-mais-leve/",
       "mentions": [],
-      "pubDate": "2026-09-04T22:16:38.836147+00:00"
+      "pubDate": "2026-09-05T03:56:09.272385+00:00"
     },
     {
       "id": "aac672b7a677",
@@ -49,7 +37,7 @@
       "image": null,
       "link": "https://exame.com/casual/o-desfile-da-carnan-e-a-forca-dos-autores-independentes-de-moda/",
       "mentions": [],
-      "pubDate": "2026-09-04T22:16:38.833519+00:00"
+      "pubDate": "2026-09-05T03:56:09.269791+00:00"
     },
     {
       "id": "036573eb4f92",
@@ -61,7 +49,67 @@
       "image": null,
       "link": "https://exame.com/carreira/isso-e-o-que-ceos-leem-quando-nao-querem-falar-sobre-negocios/",
       "mentions": [],
-      "pubDate": "2026-09-04T22:16:38.833240+00:00"
+      "pubDate": "2026-09-05T03:56:09.269538+00:00"
+    },
+    {
+      "id": "07730db0a0a8",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Exame",
+      "title": "Dave Grohl: do Nirvana ao Foo Fighters, a trajetória do astro que volta ao Rock in Rio hoje",
+      "excerpt": "Após a morte de Kurt Cobain, músico recomeçou a carreira e transformou gravações caseiras em uma banda de alcance mundial",
+      "image": null,
+      "link": "https://exame.com/pop/dave-grohl-do-nirvana-ao-foo-fighters-a-trajetoria-do-astro-que-volta-ao-rock-in-rio-hoje/",
+      "mentions": [],
+      "pubDate": "2026-09-05T03:56:09.269319+00:00"
+    },
+    {
+      "id": "604872f9d503",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Exame",
+      "title": "Vasco está ou não no Z4? CBF tira tabela do Brasileiro do ar e levanta dúvidas",
+      "excerpt": "Divergência na interpretação do regulamento e falha técnica em site geram confusão sobre a zona de rebaixamento da Série A.",
+      "image": null,
+      "link": "https://exame.com/esporte/vasco-esta-ou-nao-no-z4-cbf-tira-tabela-do-brasileiro-do-ar-e-levanta-duvidas/",
+      "mentions": [],
+      "pubDate": "2026-09-05T03:56:09.269106+00:00"
+    },
+    {
+      "id": "839f9d495879",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Exame",
+      "title": "Ela liderou vendas na Microsoft e criou um método contra o burnout depois de pedalar até o Everest",
+      "excerpt": "Após passar por GPA, Google e Microsoft, ela fez o ABP-W da Saint Paul e hoje pesquisa o tema do descanso estratégico",
+      "image": null,
+      "link": "https://exame.com/carreira/ela-liderou-vendas-na-microsoft-e-criou-um-metodo-contra-o-burnout-depois-de-pedalar-ate-o-everest/",
+      "mentions": [],
+      "pubDate": "2026-09-05T03:56:09.268531+00:00"
+    },
+    {
+      "id": "84dda7fc1162",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Exame",
+      "title": "Rock in Rio: relembre 5 shows que deram errado no festival",
+      "excerpt": "Alguns artistas encontraram um público completamente diferente daquele que esperavam e acabaram protagonizando episódios que entraram para a história do festival",
+      "image": null,
+      "link": "https://exame.com/pop/rock-in-rio-relembre-5-shows-que-deram-errado-no-festival/",
+      "mentions": [],
+      "pubDate": "2026-09-05T03:56:09.268226+00:00"
+    },
+    {
+      "id": "06adc47ad410",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Exame",
+      "title": "'A Odisseia' ultrapassa US$ 1 bilhão nas bilheterias e alcança feito inédito desde 'Avatar'",
+      "excerpt": "Filme já soma mais de US$ 457 milhões apenas nas salas Imax e registra recordes em 75 mercados",
+      "image": null,
+      "link": "https://exame.com/pop/a-odisseia-ultrapassa-us-1-bilhao-nas-bilheterias-e-alcanca-feito-inedito-desde-avatar/",
+      "mentions": [],
+      "pubDate": "2026-09-05T03:56:09.267655+00:00"
     },
     {
       "id": "8597d6e29ecd",
@@ -73,7 +121,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/os-tipos-de-olheiras-e-o-que-pode-agravar-o-escurecimento",
       "mentions": [],
-      "pubDate": "2026-09-04T22:16:32.711545+00:00"
+      "pubDate": "2026-09-05T03:56:04.471143+00:00"
     },
     {
       "id": "11851eb28794",
@@ -85,7 +133,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/glutationa-o-que-e-e-quais-os-beneficios-para-a-pele",
       "mentions": [],
-      "pubDate": "2026-09-04T22:16:32.711415+00:00"
+      "pubDate": "2026-09-05T03:56:04.470995+00:00"
     },
     {
       "id": "e486a6d380c4",
@@ -97,7 +145,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/peptideo-antiolheiras-o-que-e-e-quais-os-beneficios-falta-foto",
       "mentions": [],
-      "pubDate": "2026-09-04T22:16:32.711178+00:00"
+      "pubDate": "2026-09-05T03:56:04.470756+00:00"
     },
     {
       "id": "3c4346b2f749",
@@ -109,7 +157,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/serum-antiolheiras-reducao-de-olheiras-em-30-dias-e-outros-4-beneficios-para-regiao-dos-olhos",
       "mentions": [],
-      "pubDate": "2026-09-04T22:16:32.711029+00:00"
+      "pubDate": "2026-09-05T03:56:04.470602+00:00"
     },
     {
       "id": "b11322bbde3c",
@@ -121,7 +169,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/quais-tipos-de-olheiras-o-serum-antiolheiras-ajuda-a-tratar",
       "mentions": [],
-      "pubDate": "2026-09-04T22:16:32.710672+00:00"
+      "pubDate": "2026-09-05T03:56:04.470251+00:00"
     },
     {
       "id": "3153b4a4d606",
@@ -133,7 +181,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/como-usar-o-serum-antiolheiras",
       "mentions": [],
-      "pubDate": "2026-09-04T22:16:32.710518+00:00"
+      "pubDate": "2026-09-05T03:56:04.470088+00:00"
     },
     {
       "id": "bcec3ba36171",
@@ -145,7 +193,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/serum-antiolheiras-por-dentro-da-formula",
       "mentions": [],
-      "pubDate": "2026-09-04T22:16:32.710413+00:00"
+      "pubDate": "2026-09-05T03:56:04.469964+00:00"
     },
     {
       "id": "f1b9f678cbb7",
@@ -157,7 +205,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/sallve-recebe-ikesaki-para-dia-de-cocriacao-e-treinamento",
       "mentions": [],
-      "pubDate": "2026-09-04T22:16:32.710219+00:00"
+      "pubDate": "2026-09-05T03:56:04.469757+00:00"
     },
     {
       "id": "f93ddaff12a6",
@@ -169,7 +217,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/protetor-solar-antioleosidade-por-dentro-da-formula",
       "mentions": [],
-      "pubDate": "2026-09-04T22:16:32.709984+00:00"
+      "pubDate": "2026-09-05T03:56:04.469426+00:00"
     },
     {
       "id": "283ce354bb7c",
@@ -181,7 +229,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/como-usar-o-protetor-solar-antioleosidade",
       "mentions": [],
-      "pubDate": "2026-09-04T22:16:32.709758+00:00"
+      "pubDate": "2026-09-05T03:56:04.469139+00:00"
     },
     {
       "id": "094937fcc542",
@@ -193,7 +241,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/fashion/article/70881/1/body-movements-2026-street-style-queer-festival-rave?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=meet-me-at-the-strap-body-movements-came-in-hot-for-2026",
       "mentions": [],
-      "pubDate": "2026-09-04T22:16:24.079298+00:00"
+      "pubDate": "2026-09-05T03:55:56.441031+00:00"
     },
     {
       "id": "9dbeb1ce07a2",
@@ -205,7 +253,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/music/article/70861/1/dazed-club-sziget-festival?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=what-went-down-when-dazed-club-was-let-loose-at-sziget-festival",
       "mentions": [],
-      "pubDate": "2026-09-04T22:16:24.079147+00:00"
+      "pubDate": "2026-09-05T03:55:56.440876+00:00"
     },
     {
       "id": "1c980326387c",
@@ -217,7 +265,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/art-photography/article/70857/1/rhiannon-adam-rhi-entry-spacex-elon-musk-moon-exhibition-space-travel?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-story-behind-this-artist-s-aborted-trip-to-the-moon",
       "mentions": [],
-      "pubDate": "2026-09-04T22:16:24.078294+00:00"
+      "pubDate": "2026-09-05T03:55:56.440016+00:00"
     },
     {
       "id": "206be54d118e",
@@ -229,7 +277,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/film-tv/article/70872/1/get-tickets-for-a-dazed-x-mubi-cinema-club-s-preview-of-her-private-hell?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=get-tickets-for-a-preview-of-her-private-hell-with-nicolas-winding-refn",
       "mentions": [],
-      "pubDate": "2026-09-04T22:16:24.077947+00:00"
+      "pubDate": "2026-09-05T03:55:56.439668+00:00"
     },
     {
       "id": "392c04f511db",
@@ -241,7 +289,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/music/article/70904/1/the-5-best-tracks-from-adela-s-debut-album-prima?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-5-best-tracks-from-adela-s-debut-album-prima",
       "mentions": [],
-      "pubDate": "2026-09-04T22:16:24.077783+00:00"
+      "pubDate": "2026-09-05T03:55:56.439501+00:00"
     },
     {
       "id": "78ce5c53ca9a",
@@ -253,7 +301,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/art-photography/article/70847/1/dazed-club-spotlight-august?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=new-art-music-and-photographic-encounters-from-dazed-club-members",
       "mentions": [],
-      "pubDate": "2026-09-04T22:16:24.077243+00:00"
+      "pubDate": "2026-09-05T03:55:56.438956+00:00"
     },
     {
       "id": "d794e1bac8d2",
@@ -265,7 +313,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/music/article/70903/1/these-are-the-standout-sets-from-reading-festival-2026?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=these-are-the-standout-sets-from-reading-festival-2026",
       "mentions": [],
-      "pubDate": "2026-09-04T22:16:24.077106+00:00"
+      "pubDate": "2026-09-05T03:55:56.438817+00:00"
     },
     {
       "id": "72261ddaa0ea",
@@ -277,7 +325,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/music/article/70905/1/ranking-beyonce-s-unreleased-b-day-tracks?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=ranking-beyonce-s-unreleased-b-day-tracks",
       "mentions": [],
-      "pubDate": "2026-09-04T22:16:24.076988+00:00"
+      "pubDate": "2026-09-05T03:55:56.438700+00:00"
     },
     {
       "id": "4f9e042d1676",
@@ -289,7 +337,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/fashion/article/70886/1/ami-paris-fw26-campaign-fashion-news-highlights-september-2026?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=ami-paris-enlists-its-amis-for-its-latest-campaign",
       "mentions": [],
-      "pubDate": "2026-09-04T22:16:24.076782+00:00"
+      "pubDate": "2026-09-05T03:55:56.438493+00:00"
     },
     {
       "id": "e11b8befa24f",
@@ -301,7 +349,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/art-photography/article/70907/1/way-out-west-festival-gothenburg-cobrah-oklou-lorde-zara-larsson?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=a-scandinavian-pixie-dream-photos-from-way-out-west-fest",
       "mentions": [],
-      "pubDate": "2026-09-04T22:16:24.076502+00:00"
+      "pubDate": "2026-09-05T03:55:56.438228+00:00"
     },
     {
       "id": "d6f2496e32d9",
@@ -313,7 +361,7 @@
       "image": "https://assets.vogue.com/photos/6a983828bf07f08c5879def5/master/pass/1460906506",
       "link": "https://www.vogue.com/fashion-shows/fall-1994-ready-to-wear/isaac-mizrahi",
       "mentions": [],
-      "pubDate": "2026-09-04T22:15:28+00:00"
+      "pubDate": "2026-09-05T03:50:28+00:00"
     },
     {
       "id": "0d7ab5040a74",
@@ -325,7 +373,141 @@
       "image": "https://assets.vogue.com/photos/6a9aad90f2f72e76a18314a1/master/pass/00001-khoki-spring-2027-ready-to-wear-tokyo-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/khoki",
       "mentions": [],
-      "pubDate": "2026-09-04T22:15:28+00:00"
+      "pubDate": "2026-09-05T03:50:28+00:00"
+    },
+    {
+      "id": "8e536cf87442",
+      "editorial": "moda",
+      "scope": "nacional",
+      "source": "Elle Brasil",
+      "title": "Carnan, verão 2027",
+      "excerpt": "Em seu primeiro desfile, Carnan evolui seu repertório baseado no streetwear com referências às formas curvas de Oscar Niemeyer.",
+      "image": "https://images.elle.com.br/2026/09/verao-2027_carnan_lb_035-620x840.jpg",
+      "link": "https://elle.com.br/desfiles/carnan-verao-2027",
+      "mentions": [],
+      "pubDate": "2026-09-05T02:51:30+00:00"
+    },
+    {
+      "id": "79fe44b95780",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Who What Wear",
+      "title": "If You Know You Know: These 9 Specific Labor Day Sales Are The Only Ones Worth Shopping",
+      "excerpt": "Chinazor \"Chichi\" Offor is a Georgia-born, Los Angeles–based Shopping editor who relocated from Brooklyn, New York, in 2022 and joined Who What Wear's West Coast offices. At WWW, she utilizes over 10…",
+      "image": "https://cdn.mos.cms.futurecdn.net/dTULoKMmWwaNjuYJs6oA7-1280-80.png",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-labor-day-sales-2026",
+      "mentions": [],
+      "pubDate": "2026-09-05T02:00:00+00:00"
+    },
+    {
+      "id": "c0772652292b",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "WWD",
+      "title": "Serena Williams’ Custom Nike Jacket Reminds Fans About Her Decades of U.S. Open Dominance",
+      "excerpt": "The tennis legend reunited with sister Venus to play doubles on Friday night.",
+      "image": null,
+      "link": "https://wwd.com/footwear-news/sneaker-news/serena-williams-nike-jacket-venus-williams-us-open-1239199293/",
+      "mentions": [],
+      "pubDate": "2026-09-05T00:39:42+00:00"
+    },
+    {
+      "id": "c055472d86de",
+      "editorial": "cultura",
+      "scope": "internacional",
+      "source": "Who What Wear",
+      "title": "Hilary Duff Wore the Exact Shoes That Make Capri Pants Look Polished, Not Twee",
+      "excerpt": "Erin got her start as a Who What Wear intern in 2011—back when the site only published a single story per day. (We have since increased that number twentyfold.) She graduated magna cum laude from USC…",
+      "image": "https://cdn.mos.cms.futurecdn.net/fMhCkaufdJcjJxpGBggEL6-1280-80.jpg",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/hilary-duff-capri-pants-outfit",
+      "mentions": [],
+      "pubDate": "2026-09-05T00:11:10+00:00"
+    },
+    {
+      "id": "f09724386e3e",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Monocle",
+      "title": "Ten life lessons from finding the fun in fashion to footing a clean bill of health",
+      "excerpt": "Ah, Saturday morning. Looks like we made it – and in some style. As you read this, the 2026 edition of the Monocle Quality of Life Conference is in its final stages, wrapping up with a host of…",
+      "image": "https://monocle.com/wp-content/uploads/2026/09/Newsletter_05092025_Column-2.png?w=730&#038;resize=730%2C730",
+      "link": "https://monocle.com/affairs/urbanism/qol/quality-of-life-conference-2026-review/",
+      "mentions": [],
+      "pubDate": "2026-09-04T23:02:00+00:00"
+    },
+    {
+      "id": "eb58bc8de274",
+      "editorial": "lifestyle",
+      "scope": "internacional",
+      "source": "Monocle",
+      "title": "How ecotourism is making sure the grass is always greener at national parks",
+      "excerpt": "From shuttles and walkways to the importance of making a reservation, former US National Park Service director Jonathan Jarvis knows a few ways to make national parks greener – and more profitable –…",
+      "image": "https://monocle.com/wp-content/uploads/2026/09/2T984NB_CROP_fb6e15.jpg?resize=973%2C730",
+      "link": "https://monocle.com/travel/ecotourism-national-parks-canada-strong-pass/",
+      "mentions": [],
+      "pubDate": "2026-09-04T23:01:00+00:00"
+    },
+    {
+      "id": "a589ea388f25",
+      "editorial": "cultura",
+      "scope": "internacional",
+      "source": "The Cut",
+      "title": "The New Dad Getting Laid While the Baby Sleeps",
+      "excerpt": "In this week’s story, a 42-year-old married guy calls the sitter and wonders how other parents of newborns do it.",
+      "image": "https://pyxis.nymag.com/v1/imgs/075/e36/908549d5dfe1fb0276f6e9be1e79a4870f-Diaries-Round11-016.1x.rsocial.w1200.jpg",
+      "link": "http://www.thecut.com/article/new-sex-diaries-story-the-new-dad-getting-laid-as-the-baby-sleeps.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "mentions": [],
+      "pubDate": "2026-09-04T23:00:38+00:00"
+    },
+    {
+      "id": "af5efe964f01",
+      "editorial": "lifestyle",
+      "scope": "nacional",
+      "source": "Glamour Brasil",
+      "title": "Horóscopo do dia: a previsão para os signos de hoje, sábado (05/09/2026)",
+      "excerpt": "Confira o que os astros reservaram para o sábado",
+      "image": "https://s2-glamour.glbimg.com/h3sjCC5pZbkqHv1edyKT8nd1ELk=/i.s3.glbimg.com/v1/AUTH_ba3db981e6d14e54bb84be31c923b00c/internal_photos/bs/2025/7/B/y1NjuiSKAvzcy8nPfrug/pexels-paoko-1009225-10562552.jpg",
+      "link": "https://glamour.globo.com/bem-estar/horoscopo/horoscopo-do-dia/noticia/2026/09/horoscopo-do-dia-a-previsao-para-os-signos-de-hoje-sabado-05-09-2026.ghtml",
+      "mentions": [],
+      "pubDate": "2026-09-04T23:00:00+00:00"
+    },
+    {
+      "id": "d2c35e296e41",
+      "editorial": "cultura",
+      "scope": "internacional",
+      "source": "Who What Wear",
+      "title": "Better Than Jeans—This Pretty Skirt Trend Will Instantly Increase the Value of Your White T-Shirts",
+      "excerpt": "Nikki Chwatt is an associate fashion editor based in New York City. She joined Who What Wear in 2024 after writing fashion, beauty, and lifestyle content for WWD, Well+Good, Editorialist, and more…",
+      "image": "https://cdn.mos.cms.futurecdn.net/fk4dZ5bidsDsjc5Zn6VtXK-1280-80.jpg",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/white-t-shirt-satin-midi-skirt-outfit-karlie-kloss",
+      "mentions": [],
+      "pubDate": "2026-09-04T22:30:00+00:00"
+    },
+    {
+      "id": "3ff265495131",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Vogue Brasil",
+      "title": "Miss V: jantar da Artesol celebra mulheres artesãs brasileiras em São Paulo",
+      "excerpt": "Evento no shopping JK Iguatemi arrecadou fundos para projetos de valorização do artesanato tradicional brasileiro",
+      "image": "https://s2-vogue.glbimg.com/Acb7BJzNjx-2ZjVIi5DWuMuS-C8=/i.s3.glbimg.com/v1/AUTH_5dfbcf92c1a84b20a5da5024d398ff2f/internal_photos/bs/2026/w/V/BXLnTITjyNHBggq4Otdg/assucena782-1.jpg",
+      "link": "https://vogue.globo.com/lifestyle/miss-v/noticia/2026/09/miss-v-jantar-da-artesol-celebra-mulheres-artesas-brasileiras-em-sao-paulo.ghtml",
+      "mentions": [],
+      "pubDate": "2026-09-04T22:26:24+00:00"
+    },
+    {
+      "id": "11c7688814cf",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "WWD",
+      "title": "From Coach to Gucci: The Best Designer Bag Deals to Shop Before Labor Day Sales End",
+      "excerpt": "The season’s most covetable carryalls just got considerably easier on the wallet, with savings of up to 60 percent off.",
+      "image": null,
+      "link": "https://wwd.com/shop/shop-fashion/official-labor-day-designer-bag-deals-september-2026-prices-1239197172/",
+      "mentions": [
+        "Gucci"
+      ],
+      "pubDate": "2026-09-04T22:19:37+00:00"
     },
     {
       "id": "cb2747f3a733",
@@ -398,18 +580,6 @@
       "link": "https://wwd.com/sourcing-journal/sj-denim/gap-gapbag-collection-accessories-reed-krakoff-nyfw-1239196695/",
       "mentions": [],
       "pubDate": "2026-09-04T21:30:00+00:00"
-    },
-    {
-      "id": "9402e20c8ec4",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Highsnobiety",
-      "title": "Clarks Gave an Old-School Shoe a Lowkey Crazy Upgrade",
-      "excerpt": "Clarks Desert Trek is a classic but tricked out with GORE-TEX lining & Vibram soles, the classic walking shoe looks downright beastly. And beautiful.",
-      "image": null,
-      "link": "https://www.highsnobiety.com/p/beams-clarks-vibram/",
-      "mentions": [],
-      "pubDate": "2026-09-04T21:21:35+00:00"
     },
     {
       "id": "ed3a5d5f2f60",
@@ -498,18 +668,6 @@
       "pubDate": "2026-09-04T20:41:38+00:00"
     },
     {
-      "id": "5004199ae238",
-      "editorial": "moda",
-      "scope": "nacional",
-      "source": "Steal the Look",
-      "title": "10 looks estilosos e confortáveis para você se inspirar nas produções da semana",
-      "excerpt": "Looks que você estava precisando para ter uma dose de criatividade na semana.",
-      "image": "https://static.stealthelook.com.br/wp-content/uploads/2026/09/10-looks-estilosos-e-confortaveis-para-voce-se-inspirar-nas-producoes-da-semana--819x1024.png",
-      "link": "https://stealthelook.com.br/10-looks-estilosos-e-confortaveis-para-voce-se-inspirar-nas-producoes-da-semana/",
-      "mentions": [],
-      "pubDate": "2026-09-04T20:33:09+00:00"
-    },
-    {
       "id": "f29bdf143e1e",
       "editorial": "cultura",
       "scope": "nacional",
@@ -570,30 +728,6 @@
         "LVMH"
       ],
       "pubDate": "2026-09-04T20:20:07+00:00"
-    },
-    {
-      "id": "1a24d935469b",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Highsnobiety",
-      "title": "Noah’s Notes: Libraries Deserve Better Merch",
-      "excerpt": "Plus: Common Projects is back, a word on asymmetry, and the omnipresence of the cargo pant.",
-      "image": null,
-      "link": "https://www.highsnobiety.com/p/noahs-notes-nypl-merch-common-projects/",
-      "mentions": [],
-      "pubDate": "2026-09-04T20:11:44+00:00"
-    },
-    {
-      "id": "7097265ee474",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Highsnobiety",
-      "title": "Jane Wade Built Her Corpcore Empire on Clothes Worth Working For",
-      "excerpt": "Fashion loves to romanticize the creative. Moodboards get all the glory, but Jane Wade knows there’s a personal finance spreadsheet somewhere in the plot, too. For \"What It Cost Me,\" presented by…",
-      "image": null,
-      "link": "https://www.highsnobiety.com/p/jane-wade-what-it-cost-me/",
-      "mentions": [],
-      "pubDate": "2026-09-04T20:05:55+00:00"
     },
     {
       "id": "4b02409aefca",
@@ -670,20 +804,6 @@
       "pubDate": "2026-09-04T19:27:07+00:00"
     },
     {
-      "id": "8174cff8f498",
-      "editorial": "cultura",
-      "scope": "internacional",
-      "source": "WWD",
-      "title": "Sydney Sweeney’s Saint Laurent Sandals Elevate Her Breezy Venice Look on an Outing With Scooter Braun",
-      "excerpt": "The couple was on the move at the 83rd Venice International Film Festival.",
-      "image": null,
-      "link": "https://wwd.com/footwear-news/shoe-trends/sydney-sweeney-sandals-venice-scooter-braun-1239198727/",
-      "mentions": [
-        "Saint Laurent"
-      ],
-      "pubDate": "2026-09-04T19:25:40+00:00"
-    },
-    {
       "id": "e3de05581845",
       "editorial": "cultura",
       "scope": "nacional",
@@ -720,16 +840,16 @@
       "pubDate": "2026-09-04T19:03:39+00:00"
     },
     {
-      "id": "84f76b3cccdf",
+      "id": "876820d6b39f",
       "editorial": "cultura",
       "scope": "internacional",
-      "source": "WWD",
-      "title": "Nicole Kidman Blooms in Erdem Florals at ‘Practical Magic 2’ Special Screening in Sydney",
-      "excerpt": "The actress' chosen ensemble was from the brand's resort 2027 collection.",
-      "image": null,
-      "link": "https://wwd.com/pop-culture/celebrity-news/nicole-kidman-erdem-practical-magic-2-screening-sydney-1239198996/",
+      "source": "Vogue US",
+      "title": "Angie Nixon Has Big Senate Dreams—But Her Feet Are Firmly on the Ground (in Hot Pink Skechers)",
+      "excerpt": "The Democratic candidate for the Florida Senate talks campaign-trail style, scoring an AOC endorsement, rising above racist criticism and more.",
+      "image": "https://assets.vogue.com/photos/6a9ad48812882ac82e1ec3e7/master/pass/gettyimages-2292601126.jpg",
+      "link": "https://www.vogue.com/article/angie-nixon-interview-2026",
       "mentions": [],
-      "pubDate": "2026-09-04T19:01:43+00:00"
+      "pubDate": "2026-09-04T19:02:00+00:00"
     },
     {
       "id": "b317e0f44bdd",
@@ -754,18 +874,6 @@
       "link": "https://www.vogue.com/slideshow/45-throwback-photos-of-a-young-beyonce",
       "mentions": [],
       "pubDate": "2026-09-04T19:00:00+00:00"
-    },
-    {
-      "id": "fb6735d3bd39",
-      "editorial": "em-pauta",
-      "scope": "internacional",
-      "source": "Highsnobiety",
-      "title": "State of the Art: Why Is Fashion Still Obsessed With Snoopy?",
-      "excerpt": "The new \"Snoopy in Style NYC\" exhibition charts the Peanuts pooch's countless fashion collabs, from Chanel and Bode to Willy Chavarria and Gucci.",
-      "image": null,
-      "link": "https://www.highsnobiety.com/p/snoopy-fashion-history/",
-      "mentions": [],
-      "pubDate": "2026-09-04T18:52:33+00:00"
     },
     {
       "id": "f10403b0b8c7",
@@ -996,18 +1104,6 @@
       "pubDate": "2026-09-04T17:34:25+00:00"
     },
     {
-      "id": "c1663be7b07e",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Vittoria Ceretti Has a Bedazzled New Take on Naked Dressing",
-      "excerpt": "Stepping out for the “Wild Horse Nine” premiere at the Venice Film Festival, Vittoria Ceretti wore a sheer, delicately embellished Armani gown.",
-      "image": "https://assets.vogue.com/photos/6a9ae930577da67ca3bbf4b8/master/pass/2292810357",
-      "link": "https://www.vogue.com/article/vittoria-ceretti-venice-film-festival-armani-dress",
-      "mentions": [],
-      "pubDate": "2026-09-04T17:14:40+00:00"
-    },
-    {
       "id": "ebc66895690a",
       "editorial": "cultura",
       "scope": "internacional",
@@ -1178,18 +1274,6 @@
       "pubDate": "2026-09-04T16:36:37+00:00"
     },
     {
-      "id": "146ed627b6fc",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Highsnobiety",
-      "title": "12 Amsterdam Brands We Love",
-      "excerpt": "Highsnobiety curates the best brands to browse, buy, and know in Amsterdam.",
-      "image": null,
-      "link": "https://www.highsnobiety.com/p/12-amsterdam-brands-we-love/",
-      "mentions": [],
-      "pubDate": "2026-09-04T16:35:09+00:00"
-    },
-    {
       "id": "141a2ab9a368",
       "editorial": "cultura",
       "scope": "internacional",
@@ -1288,18 +1372,6 @@
       "pubDate": "2026-09-04T16:12:16+00:00"
     },
     {
-      "id": "e35445a892e0",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Highsnobiety",
-      "title": "Vans Quilted Slip-On Is a (Patch) Work of Art",
-      "excerpt": "Vans just upgraded its super simple slip-on sneaker with a charming patchwork quilt.",
-      "image": null,
-      "link": "https://www.highsnobiety.com/p/vans-premium-classic-slip-on/",
-      "mentions": [],
-      "pubDate": "2026-09-04T16:11:41+00:00"
-    },
-    {
       "id": "ed50e262f2a1",
       "editorial": "beleza",
       "scope": "internacional",
@@ -1310,18 +1382,6 @@
       "link": "https://www.vogue.co.uk/beauty/gallery/best-beauty-advent-calendars-2026",
       "mentions": [],
       "pubDate": "2026-09-04T16:10:14+00:00"
-    },
-    {
-      "id": "bffd4d0abb50",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Highsnobiety",
-      "title": "One Good Dad Shoe I Have Every Intention of Ruining",
-      "excerpt": "One Good is Highsnobiety's series on the tried, tested, and trusted products we can’t stop fawning over. This one features a sneaker that gets better with wear.",
-      "image": null,
-      "link": "https://www.highsnobiety.com/p/one-good-dad-shoe-ready-to-get-ruined-new-balance/",
-      "mentions": [],
-      "pubDate": "2026-09-04T16:07:01+00:00"
     },
     {
       "id": "f1817ef67256",
@@ -1616,18 +1676,6 @@
       "pubDate": "2026-09-04T14:42:18+00:00"
     },
     {
-      "id": "51e67bde1969",
-      "editorial": "cultura",
-      "scope": "internacional",
-      "source": "The Cut",
-      "title": "Influencers Are Invading the U.S. Open",
-      "excerpt": "After selfie lights interrupted Naomi Osaka’s match, tensions between fans and creators are boiling over.",
-      "image": "https://pyxis.nymag.com/v1/imgs/69b/b1e/39a8b5ca082e372f7ed7098aa6d6c57045-us-open-influencers.1x.rsocial.w1200.jpg",
-      "link": "http://www.thecut.com/article/influencers-are-invading-the-u-s-open.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "mentions": [],
-      "pubDate": "2026-09-04T14:35:00+00:00"
-    },
-    {
       "id": "ce31aaabadc9",
       "editorial": "cultura",
       "scope": "internacional",
@@ -1638,18 +1686,6 @@
       "link": "https://www.vogue.co.uk/article/amal-clooney-polka-dot-dress-venice",
       "mentions": [],
       "pubDate": "2026-09-04T14:31:28+00:00"
-    },
-    {
-      "id": "cc37b31746fc",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Highsnobiety",
-      "title": "adidas Put One of Its Slimmest Sneakers on Double-Lace Duty",
-      "excerpt": "adidas’ slim Tokyo sneaker gets a playful update with a rich brown colorway and double-lace detailing, adding a fresh twist to the ’70s-inspired silhouette.",
-      "image": null,
-      "link": "https://www.highsnobiety.com/p/adidas-tokyo-brown-laces/",
-      "mentions": [],
-      "pubDate": "2026-09-04T14:29:00+00:00"
     },
     {
       "id": "866c8fdb2e8b",
@@ -1688,18 +1724,6 @@
       "link": "https://www.vogue.fr/article/adela-chanteuse-slovaque-pop-musique-portrait",
       "mentions": [],
       "pubDate": "2026-09-04T14:20:19+00:00"
-    },
-    {
-      "id": "7e96371a3ffb",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Highsnobiety",
-      "title": "lululemon’s Latest Collection Has Plans After Practice",
-      "excerpt": "Activewear brand lululemon launches new 2026 athletic-wear collection on Zalando.",
-      "image": null,
-      "link": "https://www.highsnobiety.com/p/lululemons-latest-collection-has-plans-after-practice/",
-      "mentions": [],
-      "pubDate": "2026-09-04T14:16:30+00:00"
     },
     {
       "id": "aca244114b70",
@@ -2162,18 +2186,6 @@
       "pubDate": "2026-09-04T11:09:03+00:00"
     },
     {
-      "id": "55d2e8fae1d3",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "Vogue Brasil",
-      "title": "Carol Sampaio: a empresária e RP do Rock in Rio ensina como curtir o festival ao máximo",
-      "excerpt": "RP responsável pela lista VIP do festival desde 2011, Carol Sampaio fala sobre a trajetória no mercado de eventos e dá cinco dicas para aproveitar o primeiro fim de semana do Rock in Rio 2026, que…",
-      "image": "https://s2-vogue.glbimg.com/NQDF4hRU4AYIQxQrXhmSA-HrfZ8=/i.s3.glbimg.com/v1/AUTH_5dfbcf92c1a84b20a5da5024d398ff2f/internal_photos/bs/2026/E/r/ZZE3hzQF2f5x1AAAHVNA/whatsapp-image-2026-09-04-at-11.30.58.jpeg",
-      "link": "https://vogue.globo.com/lifestyle/noticia/2026/09/carol-sampaio-a-rp-do-rock-in-rio-ensina-como-curtir-o-festival-ao-maximo.ghtml",
-      "mentions": [],
-      "pubDate": "2026-09-04T11:05:19+00:00"
-    },
-    {
       "id": "74667cb8e979",
       "editorial": "lifestyle",
       "scope": "nacional",
@@ -2184,18 +2196,6 @@
       "link": "https://revistacasaejardim.globo.com/webstories/stories/2026/09/04/6-plantas-que-florescem-sem-esforco-dentro-de-casa.ghtml",
       "mentions": [],
       "pubDate": "2026-09-04T11:03:16+00:00"
-    },
-    {
-      "id": "162f4ca85797",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Highsnobiety",
-      "title": "The Next Big Thing in Coffee Is Surprisingly Small",
-      "excerpt": "Meet Lavazza Tablì, a new 100% coffee tab bringing a fresh take to at-home espresso. Discover the new format debuting in the U. S. this summer.",
-      "image": null,
-      "link": "https://www.highsnobiety.com/p/lavazza-tabli-coffee-tab-at-home-espresso/",
-      "mentions": [],
-      "pubDate": "2026-09-04T10:49:08+00:00"
     },
     {
       "id": "56915a0851c2",
@@ -2244,32 +2244,6 @@
       "link": "https://revistamarieclaire.globo.com/moda/noticia/2026/09/marina-ruy-barbosa-e-a-nova-embaixadora-da-intimissimi-e-estreia-parceria-em-veneza.ghtml",
       "mentions": [],
       "pubDate": "2026-09-04T10:03:21+00:00"
-    },
-    {
-      "id": "f57f21c4610e",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Who What Wear",
-      "title": "If You Know, You Know: The One Fashion Category Katie, RHW, and Demi All Swear By",
-      "excerpt": "Nikki Chwatt is an associate fashion editor based in New York City. She joined Who What Wear in 2024 after writing fashion, beauty, and lifestyle content for WWD, Well+Good, Editorialist, and more…",
-      "image": "https://cdn.mos.cms.futurecdn.net/DCyFsUPh8HBu79EcxmrsZj-1280-80.png",
-      "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/katie-holmes-rosie-huntington-whiteley-demi-moore-falconeri-sweaters",
-      "mentions": [],
-      "pubDate": "2026-09-04T10:00:00+00:00"
-    },
-    {
-      "id": "279f362c1c39",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Who What Wear",
-      "title": "I'm Giving the Fashion People What They Want—Stylish Fall Finds From COS, Zara, J.Crew, and Reformation",
-      "excerpt": "Bobby Schuessler is a fashion editor with over 15 years of editorial experience covering shopping, style, and beauty. He's spent over a decade at Who What Wear, currently leading the market team to…",
-      "image": "https://cdn.mos.cms.futurecdn.net/zvjpBU4BEvp6i4PmjFq5GE-1280-80.png",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-fall-fashion-cos-reformation-zara-j-crew",
-      "mentions": [
-        "Zara"
-      ],
-      "pubDate": "2026-09-04T10:00:00+00:00"
     },
     {
       "id": "e283fa67a7a9",
@@ -2390,18 +2364,6 @@
       "link": "https://www.meioemensagem.com.br/marketing/camarote-favela-usa-rock-in-rio-para-acelerar-expansao",
       "mentions": [],
       "pubDate": "2026-09-04T09:07:40+00:00"
-    },
-    {
-      "id": "139e572f83db",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Who What Wear",
-      "title": "I've Cracked the Code: These 7 Pieces Are Key for an Elegant Autumn Workwear Wardrobe",
-      "excerpt": "Chloe Gallacher is a freelance fashion editor based in Essex. After graduating from university with a degree in Journalism, she worked for print publications including Hello! Fashion and You Magazine…",
-      "image": "https://cdn.mos.cms.futurecdn.net/veXp37owSH94cTNRioHmPb-1280-80.png",
-      "link": "https://www.whowhatwear.com/fashion/office/autumn-work-capsule-wardrobe-2026",
-      "mentions": [],
-      "pubDate": "2026-09-04T09:07:27+00:00"
     },
     {
       "id": "7e47408b5346",
@@ -2558,18 +2520,6 @@
       "link": "https://monocle.com/travel/hospitality/aurora-hotel-merano-italy/",
       "mentions": [],
       "pubDate": "2026-09-04T08:49:35+00:00"
-    },
-    {
-      "id": "3a5c800b5c68",
-      "editorial": "cultura",
-      "scope": "internacional",
-      "source": "Hypebeast",
-      "title": "Buffer Drags ‘Fast Times at Ridgemont High’ Into a Capsule Ruled by \"No Shirts, No Shoes, No Dice\"",
-      "excerpt": "Summary Buffer, the label helmed by creative director Tetsu Nishiyama and operated by HUMAN MADE, has teamed with the 1982 American teen movie for a graphics-led collectionThe collaboration runs to…",
-      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F04%2FBuffer-Fast-Times-at-Ridgemont-High-collaboration-collection-Release-Info-0.jpg?w=800&cbr=1&q=90&fit=max",
-      "link": "https://hypebeast.com/2026/9/buffer-fast-times-at-ridgemont-high-collaboration-collection-release-info",
-      "mentions": [],
-      "pubDate": "2026-09-04T08:35:46+00:00"
     },
     {
       "id": "57bc70c38d04",
@@ -2764,18 +2714,6 @@
       "pubDate": "2026-09-03T21:13:20+00:00"
     },
     {
-      "id": "d91d40c7714d",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "Glamour Brasil",
-      "title": "Ruby e James vivem momentos de tensão em teaser da temporada final de 'Maxton Hall'",
-      "excerpt": "Série baseada na trilogia de sucesso escrita por Mona Kasten retorna com novos episódios em dezembro",
-      "image": "https://s2-glamour.glbimg.com/vuOMIBE2tyEW-ZzaQHk7tuRejCk=/i.s3.glbimg.com/v1/AUTH_ba3db981e6d14e54bb84be31c923b00c/internal_photos/bs/2026/L/h/ibrbDMQvqSK27Gl6MoQw/maxton-hall.jpg",
-      "link": "https://glamour.globo.com/entretenimento/filmes-e-series/noticia/2026/09/ruby-e-james-vivem-momentos-de-tensao-em-teaser-da-temporada-final-de-maxton-hall.ghtml",
-      "mentions": [],
-      "pubDate": "2026-09-03T20:53:01+00:00"
-    },
-    {
       "id": "35bd555b380a",
       "editorial": "moda",
       "scope": "internacional",
@@ -2858,18 +2796,6 @@
       "link": "https://elle.com.br/moda/o-short-esportivo-e-a-tendencia",
       "mentions": [],
       "pubDate": "2026-09-03T18:50:30+00:00"
-    },
-    {
-      "id": "695c88ee1e6f",
-      "editorial": "beleza",
-      "scope": "nacional",
-      "source": "Elle Brasil",
-      "title": "Como usar o corretor lilás para disfarçar melasma e manchas amarronzadas, segundo um maquiador",
-      "excerpt": "Você sabia que o corretor lilás pode ser um aliado na hora de neutralizar as manchas e uniformizar o tom da pele? Um expert explica o passo a passo para a técnica.",
-      "image": "https://images.elle.com.br/2026/09/corretor-lilas-3-620x840.png",
-      "link": "https://elle.com.br/beleza/como-usar-o-corretor-lilas-para-disfarcar-manchas",
-      "mentions": [],
-      "pubDate": "2026-09-03T18:39:37+00:00"
     },
     {
       "id": "f9834ab4ad3a",
@@ -3232,18 +3158,6 @@
       "pubDate": "2026-09-03T09:25:15+00:00"
     },
     {
-      "id": "c955103841ec",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "ArchDaily Brasil",
-      "title": "Utopian Hours: Edição de 10 Anos - Parte 2",
-      "excerpt": "O festival internacional de produção urbana retorna para a Parte 2 de sua Edição de Dez Anos após o sucesso do evento realizado em Roterdã em maio passado. Ao longo de dois dias, o festival reunirá…",
-      "image": null,
-      "link": "https://www.archdaily.com.br/pt/1184471/utopian-hours-edicao-de-10-anos-parte-2",
-      "mentions": [],
-      "pubDate": "2026-09-03T09:05:00+00:00"
-    },
-    {
       "id": "e152bafeb9cd",
       "editorial": "lifestyle",
       "scope": "nacional",
@@ -3484,6 +3398,18 @@
       "pubDate": "2026-09-02T15:00:56+00:00"
     },
     {
+      "id": "7438c87f4186",
+      "editorial": "moda",
+      "scope": "nacional",
+      "source": "Steal the Look",
+      "title": "Smartwatch com 21 dias de bateria chega ao Brasil: conheça o HUAWEI WATCH GT 7 Pro",
+      "excerpt": "O lançamento da Huawei sairá de R$ 2.699 por R$ 1.499 no mercado livre no 09/09.",
+      "image": "https://static.stealthelook.com.br/wp-content/uploads/2026/09/EXECUTIVO_2-684x1024.jpg",
+      "link": "https://stealthelook.com.br/smartwatch-com-21-dias-de-bateria-chega-ao-brasil-conheca-o-huawei-watch-gt-7-pro/",
+      "mentions": [],
+      "pubDate": "2026-09-02T15:00:00+00:00"
+    },
+    {
       "id": "2bd52e186714",
       "editorial": "cultura",
       "scope": "nacional",
@@ -3654,6 +3580,30 @@
       "pubDate": "2026-09-01T15:18:09+00:00"
     },
     {
+      "id": "0b2adb138bd7",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Design Culture",
+      "title": "Minha Melhor Amiga: comédia sobre uma amizade dentro e fora da tela, que conversa com diversos públicos!",
+      "excerpt": "Ato 1 – O que é “Minha Melhor Amiga”? Um filme pensado para mulheres e protagonizado por mulheres, mas que dialoga com todos. Pois todo mundo tem uma melhor amiga…",
+      "image": null,
+      "link": "https://designculture.com.br/minha-melhor-amiga-comedia-sobre-uma-amizade-dentro-e-fora-da-tela-que-conversa-com-diversos-publicos/",
+      "mentions": [],
+      "pubDate": "2026-09-01T14:33:18+00:00"
+    },
+    {
+      "id": "f8581c90eb58",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Highsnobiety",
+      "title": "You're Supposed to Stumble Upon This Store the Old-Fashioned Way",
+      "excerpt": "AFACTORY, a modest menswear store tucked into a quiet Chinatown street, sells some of New York City's most exciting clothes in New York City. Here's why.",
+      "image": null,
+      "link": "https://www.highsnobiety.com/p/afactory-nyc-store/",
+      "mentions": [],
+      "pubDate": "2026-09-01T12:52:45+00:00"
+    },
+    {
       "id": "cc0588f2ab58",
       "editorial": "cultura",
       "scope": "nacional",
@@ -3664,6 +3614,42 @@
       "link": "https://blog.archtrends.com/nuance/",
       "mentions": [],
       "pubDate": "2026-09-01T10:56:33+00:00"
+    },
+    {
+      "id": "0a9111422984",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Highsnobiety",
+      "title": "Nike's Favorite Dad Shoe Gets Its Shine On",
+      "excerpt": "The Nike Zoom Vomero 5 Gridiron delivers a metallic, slate-toned spin on the retro runner.",
+      "image": null,
+      "link": "https://www.highsnobiety.com/p/nike-zoom-vomero-5-gridiron/",
+      "mentions": [],
+      "pubDate": "2026-09-01T08:29:25+00:00"
+    },
+    {
+      "id": "cfb6bf6a5a91",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Highsnobiety",
+      "title": "This Nike Noughties Revival Is an Optical Illusion",
+      "excerpt": "The Nike Air Jordan 8 Chrome revives Tinker Hatfield’s strap-laden 1993 silhouette for a new generation.",
+      "image": null,
+      "link": "https://www.highsnobiety.com/p/nike-air-jordan-8-chrome/",
+      "mentions": [],
+      "pubDate": "2026-09-01T08:26:29+00:00"
+    },
+    {
+      "id": "16df4ea81c76",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Highsnobiety",
+      "title": "Nike's Weirdest Design Now Glows In the Dark",
+      "excerpt": "The Nike Air Foamposite One Phantom/Barely Volt writes an even more eye-catching new chapter in a liquid-metal legacy",
+      "image": null,
+      "link": "https://www.highsnobiety.com/p/nike-air-foamposite-one-phantom-barel-volt/",
+      "mentions": [],
+      "pubDate": "2026-09-01T08:24:41+00:00"
     },
     {
       "id": "5fd3b9991aeb",
@@ -3702,6 +3688,66 @@
       "link": "https://forbes.com.br/forbes-life/forbes-sport/2026/09/federer-o-cavalheiro-do-tenis-desperta-onda-de-nostalgia/",
       "mentions": [],
       "pubDate": "2026-09-01T08:00:00+00:00"
+    },
+    {
+      "id": "0a2df8d24658",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Highsnobiety",
+      "title": "Sole Food: Saucony Quietly Became the Reseller’s Favorite Sneaker",
+      "excerpt": "StockX names Saucony its fastest-growing sneaker brand in the August 2026 Big Facts report. Here, we unpack the secrets to the label's resale success.",
+      "image": null,
+      "link": "https://www.highsnobiety.com/p/saucony-stockx-report/",
+      "mentions": [],
+      "pubDate": "2026-08-31T23:26:16+00:00"
+    },
+    {
+      "id": "da50f9d07737",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Highsnobiety",
+      "title": "Isabel Marant’s Bekett Sneaker Drives a Wedge in the Flat Sneaker Conversation",
+      "excerpt": "Isabel Marant's Bekett Reedition sneaker is a remake of one of the best wedge sneakers in the game.",
+      "image": null,
+      "link": "https://www.highsnobiety.com/p/isabel-marant-bekett-reedition-sneaker/",
+      "mentions": [],
+      "pubDate": "2026-08-31T22:48:41+00:00"
+    },
+    {
+      "id": "f92df92eee65",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Highsnobiety",
+      "title": "The Only Logical Fall Fit Is a Long-Sleeve Polo",
+      "excerpt": "From J. Press and Ralph Lauren to UMBRO and Supreme, fashion brands understand that the perfect fall fit is locked in with the long-sleeve polo shirt.",
+      "image": null,
+      "link": "https://www.highsnobiety.com/p/only-logical-fall-fit-long-sleeve-polo/",
+      "mentions": [],
+      "pubDate": "2026-08-31T18:49:51+00:00"
+    },
+    {
+      "id": "615fe3b70694",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Highsnobiety",
+      "title": "From Table to Foot, Gohar World Does Ballet Sneakers Now",
+      "excerpt": "Translating a theatrical lens into footwear, the Gohar World x ASICS GEL-DS Trainer SP Ballet is a head-turning ballet sneaker.",
+      "image": null,
+      "link": "https://www.highsnobiety.com/p/gohar-world-asics-gel-ds-trainer/",
+      "mentions": [],
+      "pubDate": "2026-08-31T17:03:00+00:00"
+    },
+    {
+      "id": "1dafa23f7a2f",
+      "editorial": "em-pauta",
+      "scope": "nacional",
+      "source": "Follow The Colours",
+      "title": "Quais tons, formas e temáticas devem marcar a decoração nos próximos meses?",
+      "excerpt": "Conheça as principais tendências de decoração reveladas na ABUP SHOW para o fim de 2026 e início de 2027. Cerca de 200 expositores apresentaram suas principais novidades na ABUP SHOW, em São Paulo…",
+      "image": "https://followthecolours.com.br/wp-content/uploads/2026/08/unnamed-1.jpg",
+      "link": "https://followthecolours.com.br/abup-show-2026/",
+      "mentions": [],
+      "pubDate": "2026-08-31T15:13:22+00:00"
     },
     {
       "id": "9cc86cce7014",
