@@ -1,66 +1,6 @@
 {
-  "generatedAt": "2026-09-08T20:59:20.509012+00:00",
+  "generatedAt": "2026-09-08T23:58:57.861453+00:00",
   "articles": [
-    {
-      "id": "7988ebbee373",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "Exame",
-      "title": "'Stuart Não Consegue Salvar o Universo': veja data e horário do 8º episódio da série",
-      "excerpt": "Spin-off de \"The Big Bang Theory\" se tornou o segundo maior lançamento de comédia da história da plataforma",
-      "image": null,
-      "link": "https://exame.com/pop/stuart-nao-consegue-salvar-o-universo-veja-data-e-horario-do-8o-episodio-da-serie/",
-      "mentions": [],
-      "pubDate": "2026-09-08T20:59:15.688102+00:00"
-    },
-    {
-      "id": "062bc778cd7f",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "Exame",
-      "title": "Brasileiros ganham prêmio internacional após 40 mil 'pisadas' em jararaca",
-      "excerpt": "Estudo analisou o comportamento das serpentes após mais de 40 mil contatos feitos com uma bota de proteção em diferentes condições",
-      "image": null,
-      "link": "https://exame.com/ciencia/brasileiros-ganham-premio-internacional-apos-pisarem-40-mil-vezes-em-jararaca/",
-      "mentions": [],
-      "pubDate": "2026-09-08T20:59:15.686904+00:00"
-    },
-    {
-      "id": "5419405e64b5",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "Exame",
-      "title": "Ter todos os streamings ficou mais caro que a TV por assinatura? Veja a conta",
-      "excerpt": "Nos EUA, a TV a cabo está tendo aumentos de preços menores que o streaming, enquanto no Brasil a alternativa mais econômica é a mais tradicional",
-      "image": null,
-      "link": "https://exame.com/pop/ter-todos-os-streamings-ficou-mais-caro-que-a-tv-por-assinatura-veja-a-conta/",
-      "mentions": [],
-      "pubDate": "2026-09-08T20:59:15.686364+00:00"
-    },
-    {
-      "id": "15d7b2491225",
-      "editorial": "em-pauta",
-      "scope": "nacional",
-      "source": "Exame",
-      "title": "Da criatividade à decisão de mídia: por que Organic to Paid está mudando o planejamento das marcas",
-      "excerpt": "No Organic to Paid, o comportamento da audiência ajuda a definir quais conteúdos merecem investimento, transformando criatividade em aprendizado e dados em decisões de mídia.",
-      "image": null,
-      "link": "https://exame.com/marketing/criatividade-midia-organic-to-paid-planejamento-marcas/",
-      "mentions": [],
-      "pubDate": "2026-09-08T20:59:15.684679+00:00"
-    },
-    {
-      "id": "7e8eb5861532",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "Exame",
-      "title": "Produtores de 'The Walking Dead' vão receber US$ 120 milhões após processo de 9 anos",
-      "excerpt": "O acordo encerra uma batalha que começou em 2017 e envolveu uma discussão sobre quanto os responsáveis pela série tinham direito a receber dos lucros gerados pela franquia",
-      "image": null,
-      "link": "https://exame.com/pop/produtores-de-the-walking-dead-vao-receber-us-120-milhoes-apos-processo-de-9-anos/",
-      "mentions": [],
-      "pubDate": "2026-09-08T20:59:15.683576+00:00"
-    },
     {
       "id": "ec0b4fa6292a",
       "editorial": "cultura",
@@ -71,7 +11,103 @@
       "image": null,
       "link": "https://exame.com/carreira/92-das-empresas-ja-escolhem-uma-elite-de-ia-e-a-maioria-fica-de-fora-dela/",
       "mentions": [],
-      "pubDate": "2026-09-08T20:59:15.681613+00:00"
+      "pubDate": "2026-09-08T23:58:44.335543+00:00"
+    },
+    {
+      "id": "8557793d1217",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Exame",
+      "title": "IA virou copiloto do C-Level, mas decisão ainda trava no conselho",
+      "excerpt": "Estudo do BCG mostra CEOs assumindo decisões de IA, mas governança coletiva ainda patina",
+      "image": null,
+      "link": "https://exame.com/carreira/ia-virou-copiloto-do-c-level-mas-decisao-ainda-trava-no-conselho-2/",
+      "mentions": [],
+      "pubDate": "2026-09-08T23:58:44.334836+00:00"
+    },
+    {
+      "id": "2027db8b5749",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Exame",
+      "title": "'Bunker': filme com Penélope Cruz e Javier Bardem conquista Veneza",
+      "excerpt": "O novo filme de Florian Zeller recebeu uma ovação de impressionantes 15 minutos e 30 segundos durante sua estreia no festival italiano",
+      "image": null,
+      "link": "https://exame.com/pop/bunker-filme-com-penelope-cruz-e-javier-bardem-conquista-veneza/",
+      "mentions": [],
+      "pubDate": "2026-09-08T23:58:44.333530+00:00"
+    },
+    {
+      "id": "b4d4e08b878f",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Exame",
+      "title": "O que faz o Muse, novo agente de IA lançado pela Meta",
+      "excerpt": "Assistente executa tarefas sozinho, roda em um computador virtual dedicado e chega primeiro aos Estados Unidos, com acesso via app, WhatsApp e futuros óculos com IA",
+      "image": null,
+      "link": "https://exame.com/inteligencia-artificial/o-que-faz-o-muse-novo-agente-de-ia-lancado-pela-meta/",
+      "mentions": [],
+      "pubDate": "2026-09-08T23:58:44.332969+00:00"
+    },
+    {
+      "id": "68da140eccd6",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Exame",
+      "title": "Novo documentário sobre Niki Lauda está em produção; veja detalhes",
+      "excerpt": "O documentário dará atenção especial ao acidente de 1976 e ao retorno de Lauda às pistas",
+      "image": null,
+      "link": "https://exame.com/esporte/novo-documentario-sobre-niki-lauda-esta-em-producao-veja-detalhes/",
+      "mentions": [],
+      "pubDate": "2026-09-08T23:58:44.332811+00:00"
+    },
+    {
+      "id": "42c31995a749",
+      "editorial": "moda",
+      "scope": "nacional",
+      "source": "Exame",
+      "title": "Human Made, marca de Pharrell Williams e NIGO, chega ao Brasil pela Metro",
+      "excerpt": "Primeira grife do segmento a abrir capital na Bolsa de Tóquio desembarca na América do Sul no dia 12 de setembro, no novo espaço conceitual da Metro, em Pinheiros (São Paulo)",
+      "image": null,
+      "link": "https://exame.com/casual/human-made-marca-de-pharrell-williams-e-nigo-chega-ao-brasil-pela-metro/",
+      "mentions": [],
+      "pubDate": "2026-09-08T23:58:44.330479+00:00"
+    },
+    {
+      "id": "df739e9d38d4",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Exame",
+      "title": "'Água Fresca Para As Flores' ganha 1º trailer de adaptação do best seller para o cinema",
+      "excerpt": "Adaptação do romance francês acompanha a história de Violette, zeladora de cemitério que acolhe pessoas durante o luto",
+      "image": null,
+      "link": "https://exame.com/pop/agua-fresca-para-as-flores-ganha-1o-trailer-de-adaptacao-do-best-seller-para-o-cinema/",
+      "mentions": [],
+      "pubDate": "2026-09-08T23:58:44.330049+00:00"
+    },
+    {
+      "id": "34fc45b90c44",
+      "editorial": "em-pauta",
+      "scope": "nacional",
+      "source": "Exame",
+      "title": "'Da Magia à Sedução 2': por que um fracasso de 1998 voltou aos cinemas?",
+      "excerpt": "Estrelado por Sandra Bullock e Nicole Kidman, filme teve recepção morna em 1998 e encontrou uma nova geração de fãs ao longo dos anos",
+      "image": null,
+      "link": "https://exame.com/pop/da-magia-a-seducao-2-por-que-um-fracasso-de-1998-voltou-aos-cinemas/",
+      "mentions": [],
+      "pubDate": "2026-09-08T23:58:44.329124+00:00"
+    },
+    {
+      "id": "f47e6f6e74b1",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Exame",
+      "title": "Filme sobre a OpenAI, dona do ChatGPT, ganha teaser com Andrew Garfield como Sam Altman; veja",
+      "excerpt": "Drama acompanha a crise que levou à saída e ao retorno de Altman ao comando da empresa responsável pelo chatbot de inteligência artificial",
+      "image": null,
+      "link": "https://exame.com/pop/filme-sobre-a-openai-dona-do-chatgpt-ganha-teaser-com-andrew-garfield-como-sam-altman-veja/",
+      "mentions": [],
+      "pubDate": "2026-09-08T23:58:44.328912+00:00"
     },
     {
       "id": "8597d6e29ecd",
@@ -83,7 +119,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/os-tipos-de-olheiras-e-o-que-pode-agravar-o-escurecimento",
       "mentions": [],
-      "pubDate": "2026-09-08T20:59:11.606464+00:00"
+      "pubDate": "2026-09-08T23:58:37.760776+00:00"
     },
     {
       "id": "11851eb28794",
@@ -95,7 +131,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/glutationa-o-que-e-e-quais-os-beneficios-para-a-pele",
       "mentions": [],
-      "pubDate": "2026-09-08T20:59:11.606282+00:00"
+      "pubDate": "2026-09-08T23:58:37.760606+00:00"
     },
     {
       "id": "e486a6d380c4",
@@ -107,7 +143,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/peptideo-antiolheiras-o-que-e-e-quais-os-beneficios-falta-foto",
       "mentions": [],
-      "pubDate": "2026-09-08T20:59:11.605977+00:00"
+      "pubDate": "2026-09-08T23:58:37.760285+00:00"
     },
     {
       "id": "3c4346b2f749",
@@ -119,7 +155,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/serum-antiolheiras-reducao-de-olheiras-em-30-dias-e-outros-4-beneficios-para-regiao-dos-olhos",
       "mentions": [],
-      "pubDate": "2026-09-08T20:59:11.605776+00:00"
+      "pubDate": "2026-09-08T23:58:37.760092+00:00"
     },
     {
       "id": "b11322bbde3c",
@@ -131,7 +167,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/quais-tipos-de-olheiras-o-serum-antiolheiras-ajuda-a-tratar",
       "mentions": [],
-      "pubDate": "2026-09-08T20:59:11.605305+00:00"
+      "pubDate": "2026-09-08T23:58:37.759642+00:00"
     },
     {
       "id": "3153b4a4d606",
@@ -143,7 +179,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/como-usar-o-serum-antiolheiras",
       "mentions": [],
-      "pubDate": "2026-09-08T20:59:11.605108+00:00"
+      "pubDate": "2026-09-08T23:58:37.759429+00:00"
     },
     {
       "id": "bcec3ba36171",
@@ -155,7 +191,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/serum-antiolheiras-por-dentro-da-formula",
       "mentions": [],
-      "pubDate": "2026-09-08T20:59:11.604968+00:00"
+      "pubDate": "2026-09-08T23:58:37.759295+00:00"
     },
     {
       "id": "f1b9f678cbb7",
@@ -167,7 +203,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/sallve-recebe-ikesaki-para-dia-de-cocriacao-e-treinamento",
       "mentions": [],
-      "pubDate": "2026-09-08T20:59:11.604717+00:00"
+      "pubDate": "2026-09-08T23:58:37.759046+00:00"
     },
     {
       "id": "f93ddaff12a6",
@@ -179,7 +215,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/protetor-solar-antioleosidade-por-dentro-da-formula",
       "mentions": [],
-      "pubDate": "2026-09-08T20:59:11.604401+00:00"
+      "pubDate": "2026-09-08T23:58:37.758742+00:00"
     },
     {
       "id": "283ce354bb7c",
@@ -191,7 +227,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/como-usar-o-protetor-solar-antioleosidade",
       "mentions": [],
-      "pubDate": "2026-09-08T20:59:11.604108+00:00"
+      "pubDate": "2026-09-08T23:58:37.758439+00:00"
     },
     {
       "id": "72261ddaa0ea",
@@ -203,7 +239,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/music/article/70905/1/ranking-beyonce-s-unreleased-b-day-tracks?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=ranking-beyonce-s-unreleased-b-day-tracks",
       "mentions": [],
-      "pubDate": "2026-09-08T20:59:04.580690+00:00"
+      "pubDate": "2026-09-08T23:58:21.349204+00:00"
     },
     {
       "id": "4f9e042d1676",
@@ -215,7 +251,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/fashion/article/70886/1/ami-paris-fw26-campaign-fashion-news-highlights-september-2026?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=ami-paris-enlists-its-amis-for-its-latest-campaign",
       "mentions": [],
-      "pubDate": "2026-09-08T20:59:04.580424+00:00"
+      "pubDate": "2026-09-08T23:58:21.348948+00:00"
     },
     {
       "id": "e11b8befa24f",
@@ -227,7 +263,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/art-photography/article/70907/1/way-out-west-festival-gothenburg-cobrah-oklou-lorde-zara-larsson?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=a-scandinavian-pixie-dream-photos-from-way-out-west-fest",
       "mentions": [],
-      "pubDate": "2026-09-08T20:59:04.580058+00:00"
+      "pubDate": "2026-09-08T23:58:21.348617+00:00"
     },
     {
       "id": "b23bc1a867d2",
@@ -239,7 +275,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/fashion/article/70906/1/beyonce-bday-20th-anniversary-freakum-dress-best-looks?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-top-10-freakum-dresses-from-beyonce-s-hyper-glam-b-day-era",
       "mentions": [],
-      "pubDate": "2026-09-08T20:59:04.579805+00:00"
+      "pubDate": "2026-09-08T23:58:21.348359+00:00"
     },
     {
       "id": "6f05366bbcbb",
@@ -251,7 +287,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/beauty/article/70788/1/fantasy-notes-perfume-weirdest-obsession-fragrance-nostos-vacation?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=what-are-fantasy-notes-inside-perfume-s-weirdest-new-obsession",
       "mentions": [],
-      "pubDate": "2026-09-08T20:59:04.578822+00:00"
+      "pubDate": "2026-09-08T23:58:21.347383+00:00"
     },
     {
       "id": "6232308a4869",
@@ -263,7 +299,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/music/article/70900/1/lexie-liu-meets-yves-china-k-pop-korea-interview-2026-bts-grammys?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=asian-artists-are-now-influencing-the-west-lexie-liu-meets-yves",
       "mentions": [],
-      "pubDate": "2026-09-08T20:59:04.578488+00:00"
+      "pubDate": "2026-09-08T23:58:21.347057+00:00"
     },
     {
       "id": "ed7cc4e8728c",
@@ -275,7 +311,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/beauty/article/70911/1/cult-fragrance-brand-escentric-molecules-opens-first-store-in-berlin?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=cult-fragrance-brand-escentric-molecules-opens-first-store-in-berlin",
       "mentions": [],
-      "pubDate": "2026-09-08T20:59:04.577633+00:00"
+      "pubDate": "2026-09-08T23:58:21.346210+00:00"
     },
     {
       "id": "ac4998a083b9",
@@ -287,7 +323,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/beauty/article/70919/1/possible-decentre-physical-sexual-attraction-dating-appearance-sex-love?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=is-it-possible-to-decentre-sexual-attraction-in-dating",
       "mentions": [],
-      "pubDate": "2026-09-08T20:59:04.576968+00:00"
+      "pubDate": "2026-09-08T23:58:21.345547+00:00"
     },
     {
       "id": "9bbad6bac11a",
@@ -299,7 +335,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/music/article/70918/1/dekmantels-intergenerational-djs-compare-notes?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=dekmantel-s-intergenerational-djs-compare-notes",
       "mentions": [],
-      "pubDate": "2026-09-08T20:59:04.576360+00:00"
+      "pubDate": "2026-09-08T23:58:21.344940+00:00"
     },
     {
       "id": "2ccb510332a2",
@@ -311,7 +347,19 @@
       "image": null,
       "link": "https://www.dazeddigital.com/beauty/article/70920/1/what-went-down-at-the-venice-film-festival-armani-beauty?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=armani-beauty-celebrates-cinema-at-the-venice-film-festival",
       "mentions": [],
-      "pubDate": "2026-09-08T20:59:04.575680+00:00"
+      "pubDate": "2026-09-08T23:58:21.344191+00:00"
+    },
+    {
+      "id": "4dbc7226300f",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Rag & Bone Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6aa03ff7531592ad9d27aa94/master/pass/00001-rag-and-bone-spring-2027-ready-to-wear-credit-brand.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/rag-bone",
+      "mentions": [],
+      "pubDate": "2026-09-08T23:55:09+00:00"
     },
     {
       "id": "2140730092a5",
@@ -323,7 +371,393 @@
       "image": "https://assets.vogue.com/photos/6a97ef9c0a29a037a58f119b/master/pass/00001-donna-karan-spring-2027-ready-to-wear-credit-brand.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/donna-karan",
       "mentions": [],
-      "pubDate": "2026-09-08T20:56:59+00:00"
+      "pubDate": "2026-09-08T23:55:09+00:00"
+    },
+    {
+      "id": "d2b2be64c261",
+      "editorial": "cultura",
+      "scope": "internacional",
+      "source": "Wallpaper*",
+      "title": "Inside the new Lego Ninjago collaboration, with New York artist Futura",
+      "excerpt": "Shawn Adams is an architect, writer, and lecturer who currently teaches at Central St Martins, UAL and the Architectural Association. Shawn trained as an architect at The Royal College of Art…",
+      "image": "https://cdn.mos.cms.futurecdn.net/vdo4UjgLDzDFxYziu8tCh4-1280-80.jpg",
+      "link": "https://www.wallpaper.com/architecture/lego-futura-collaboration-ninjago-anniversary",
+      "mentions": [],
+      "pubDate": "2026-09-08T23:30:00+00:00"
+    },
+    {
+      "id": "6d029f1a59ac",
+      "editorial": "cultura",
+      "scope": "internacional",
+      "source": "Harper's Bazaar US",
+      "title": "All the Celebrity Looks From the 2026 Venice Film Festival",
+      "excerpt": "The stars are rolling in for the annual international festival",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2fb1f9c5-bf91-4efb-b61b-2422ec6db7cf.jpg",
+      "link": "https://www.harpersbazaar.com/celebrity/red-carpet-dresses/a73591721/all-the-red-carpet-looks-venice-film-festival-2026-photos/",
+      "mentions": [],
+      "pubDate": "2026-09-08T23:24:00+00:00"
+    },
+    {
+      "id": "0ba66e913ffe",
+      "editorial": "moda",
+      "scope": "nacional",
+      "source": "Harper's Bazaar Brasil",
+      "title": "The Shards: como a moda dos anos 80 ganha protagonismo na nova série de Ryan Murphy",
+      "excerpt": "Em 1981, Los Angeles vivia o começo de uma nova década. É nesse cenário que se passa “The Shards”, nova série de Ryan Murphy e Bret Easton Ellis, baseada no romance semiautobiográfico do escritor. A…",
+      "image": "https://harpersbazaar.uol.com.br/wp-content/uploads/2026/09/kaia-768x483.png",
+      "link": "https://harpersbazaar.uol.com.br/moda/the-shards-como-a-moda-dos-anos-80-ganha-protagonismo-na-nova-serie-de-ryan-murphy/",
+      "mentions": [],
+      "pubDate": "2026-09-08T23:08:13+00:00"
+    },
+    {
+      "id": "df7f9b7ad3fd",
+      "editorial": "beleza",
+      "scope": "nacional",
+      "source": "Capricho",
+      "title": "Descubra os segredos de beleza de Ella Rubin, estrela de ‘Sterling Point’",
+      "excerpt": "Entre skincare, maquiagem e cuidados com os cachos, a atriz aposta em uma rotina simples e prática",
+      "image": "https://capricho.abril.com.br/wp-content/uploads/2026/09/ella-rubin-1.jpg",
+      "link": "https://capricho.abril.com.br/beleza/descubra-os-segredos-de-beleza-de-ella-rubin-estrela-de-sterling-point/",
+      "mentions": [],
+      "pubDate": "2026-09-08T23:00:16+00:00"
+    },
+    {
+      "id": "f587692831a3",
+      "editorial": "lifestyle",
+      "scope": "nacional",
+      "source": "Glamour Brasil",
+      "title": "Horóscopo do dia: a previsão para os signos de hoje, quarta (09/09/2026)",
+      "excerpt": "Confira o que os astros reservaram para a quarta",
+      "image": "https://s2-glamour.glbimg.com/NliAwp8KWHo8cVkrhL-dkm61tk0=/i.s3.glbimg.com/v1/AUTH_ba3db981e6d14e54bb84be31c923b00c/internal_photos/bs/2022/N/T/ohHSTSQJq9zmNhOaAemA/horoscopo-diario-1.jpg",
+      "link": "https://glamour.globo.com/bem-estar/horoscopo/horoscopo-do-dia/noticia/2026/09/horoscopo-do-dia-a-previsao-para-os-signos-de-hoje-quarta-09-09-2026.ghtml",
+      "mentions": [],
+      "pubDate": "2026-09-08T23:00:00+00:00"
+    },
+    {
+      "id": "ab03de6c71cd",
+      "editorial": "cultura",
+      "scope": "internacional",
+      "source": "Elle US",
+      "title": "Justin Bieber Shares Rare New Photos With His 2-Year-Old Son, Jack",
+      "excerpt": "",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/1e62dd96-b5cd-4b5d-b11f-d9726a8e6abb.jpg",
+      "link": "https://www.elle.com/culture/celebrities/a73645596/justin-bieber-jack-relationship-photos-september-2026/",
+      "mentions": [],
+      "pubDate": "2026-09-08T22:20:16+00:00"
+    },
+    {
+      "id": "3106dd485bf7",
+      "editorial": "em-pauta",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Who Is Katie Holmes’s Artist Boyfriend?",
+      "excerpt": "Once I put in my contacts this morning and learned that Holmes’s new man’s name was Jason Bard—not “Jason Brad” as I had feared—I fell in love with the pairing.",
+      "image": "https://assets.vogue.com/photos/6aa04f5fc51a3f532c3e41d1/master/pass/BGUS_3675565_001.jpg",
+      "link": "https://www.vogue.com/article/i-want-what-they-have-katie-holmes-and-jason-bard-yarmosky",
+      "mentions": [],
+      "pubDate": "2026-09-08T22:13:53+00:00"
+    },
+    {
+      "id": "bcdffb38dc20",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Fashion Forecast: A Psychic, Astrologer, and Tarot Reader Predict Fall Trends",
+      "excerpt": "We're gazing in our crystal ball to see what we'll be wearing in the months ahead.",
+      "image": "https://assets.vogue.com/photos/6aa072b4005a7e7eb5452289/master/pass/A%20Psychic,%20Astrologer,%20and%20Tarot%20Reader%20Predict%20Fall%20Trends%20_9x16_Printed.jpg",
+      "link": "https://www.vogue.com/article/fashion-forecast-a-psychic-astrologer-and-tarot-reader-predict-fall-trends",
+      "mentions": [],
+      "pubDate": "2026-09-08T22:10:44+00:00"
+    },
+    {
+      "id": "d7793355d4ed",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Meio & Mensagem",
+      "title": "Meta cria Muse, agente de IA pessoal",
+      "excerpt": "A Meta lançou, nos Estados Unidos, o Muse, um agente de inteligência artificial gratuito que executa tarefas de forma autônoma e conectado a demais plataformas e aplicativos. Diferente das IAs…",
+      "image": "https://www.meioemensagem.com.br/wp-content/uploads/2026/09/muse-meta-ia-cred-reproducao-adobe-stock-1280x668.jpg",
+      "link": "https://www.meioemensagem.com.br/midia/meta-cria-muse-agente-de-ia-pessoal",
+      "mentions": [],
+      "pubDate": "2026-09-08T22:08:28+00:00"
+    },
+    {
+      "id": "8a0572c3f0d6",
+      "editorial": "lifestyle",
+      "scope": "internacional",
+      "source": "Highsnobiety",
+      "title": "Model's Own: The Sandy Liang Stylist Who's Obsessed With Gym Shorts",
+      "excerpt": "Dean DiCriscio shares his serendipitous grail finds, his mom's favorite pantsuit, and the ultimate air travel get-up.",
+      "image": null,
+      "link": "https://www.highsnobiety.com/p/dean-dicriscio-models-own-sandy-liang-madhappy/",
+      "mentions": [],
+      "pubDate": "2026-09-08T22:02:30+00:00"
+    },
+    {
+      "id": "5f28f5393027",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Who What Wear",
+      "title": "Don’t Waste Your Money—These Are the 28 Zara New Arrivals That You’ll Wear On Repeat",
+      "excerpt": "Chinazor \"Chichi\" Offor is a Georgia-born, Los Angeles–based Shopping editor who relocated from Brooklyn, New York, in 2022 and joined Who What Wear's West Coast offices. At WWW, she utilizes over 10…",
+      "image": "https://cdn.mos.cms.futurecdn.net/sWvgUPNnSENT94QV8dGZbV-1280-80.jpg",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-zara-new-arrivals-september-2026",
+      "mentions": [
+        "Zara"
+      ],
+      "pubDate": "2026-09-08T22:00:03+00:00"
+    },
+    {
+      "id": "c8f1faaf73f2",
+      "editorial": "lifestyle",
+      "scope": "nacional",
+      "source": "GQ Brasil",
+      "title": "Comprada durante noivado, mansão do casal Taylor Swift e Travis Kelce tem 11 banheiros e custou mais de R$ 27 milhões",
+      "excerpt": "Poucos meses após o anúncio do noivado em agosto de 2025, a diva pop Taylor Swift e o atleta Travis Kelce aumentaram seu patrimônio conjunto. Kelce adquiriu em março uma propriedade em Bratenahl…",
+      "image": "https://s2-gq.glbimg.com/21txs1HhDLXD_YKGIfdtnSDq3WM=/i.s3.glbimg.com/v1/AUTH_71a8fe14ac6d40bd993eb59f7203fe6f/internal_photos/bs/2026/W/7/6lCRWRTpS7rIw3wi7knA/mansao-travis-kelce-taylor-swift-gq.jpg",
+      "link": "https://gq.globo.com/lifestyle/noticia/2026/09/comprada-durante-noivado-mansao-do-casal-taylor-swift-e-travis-kelce-tem-11-banheiros-e-custou-mais-de-r-27-milhoes.ghtml",
+      "mentions": [],
+      "pubDate": "2026-09-08T21:56:39+00:00"
+    },
+    {
+      "id": "503177f828be",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Highsnobiety",
+      "title": "This Is adidas' Ballet Flat at Its Suavest",
+      "excerpt": "adidas reveals new Stan Smith Lo Ballet flats in brown nubuck leather ahead of the fall season.",
+      "image": null,
+      "link": "https://www.highsnobiety.com/p/adidas-stan-smith-lo-ballet-wild-brown/",
+      "mentions": [],
+      "pubDate": "2026-09-08T21:54:44+00:00"
+    },
+    {
+      "id": "9ff0591f48ea",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Highsnobiety",
+      "title": "Nike’s Wagyu Air Max Is a Full-Flavored Stepper",
+      "excerpt": "Harlem's Wagyu brand serves up a beef-flavored Air Max 90 sneaker with deliciously luxe details. Here's everything on the grade-A collab.",
+      "image": null,
+      "link": "https://www.highsnobiety.com/p/wagyu-nike-air-max-90/",
+      "mentions": [],
+      "pubDate": "2026-09-08T21:53:02+00:00"
+    },
+    {
+      "id": "6625fe7d6563",
+      "editorial": "cultura",
+      "scope": "internacional",
+      "source": "Harper's Bazaar US",
+      "title": "Taylor Swift Gives a Subtle Nod to Her Debut Era on a Date With Travis Kelce",
+      "excerpt": "It was a blink-and-you’ll-miss-it detail",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/a42a2650-7a72-4a98-aae4-273bff443bef.jpeg",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73645497/taylor-swift-striped-stella-mccartney-dress-green-nails-debut-album-easter-egg-date-with-travis-kelce/",
+      "mentions": [],
+      "pubDate": "2026-09-08T21:51:39+00:00"
+    },
+    {
+      "id": "2fbff9e75f65",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Highsnobiety",
+      "title": "Nike’s Winter-Ready Air Jordans Are Extra Swaggy The Second Time Around",
+      "excerpt": "The Air Jordan 1 Element Low returns with its signature trail-ready GORE-TEX construction plus fresh colorways like \"Black/Dark Concord.\"",
+      "image": null,
+      "link": "https://www.highsnobiety.com/p/jordan-1-element-low-sneakers-2026/",
+      "mentions": [],
+      "pubDate": "2026-09-08T21:51:18+00:00"
+    },
+    {
+      "id": "1c650344dde0",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Highsnobiety",
+      "title": "An OG Reebok Fitness Shoe Becomes a Buttery Celine Sneaker",
+      "excerpt": "Celine's Reebok Freestyle Lo sneaker is finally here, revealed in eight buttery colorways including the distressed versions from the runway.",
+      "image": null,
+      "link": "https://www.highsnobiety.com/p/celine-reebok-freestyle-lo/",
+      "mentions": [],
+      "pubDate": "2026-09-08T21:49:25+00:00"
+    },
+    {
+      "id": "7cf58e3bab20",
+      "editorial": "beleza",
+      "scope": "internacional",
+      "source": "Highsnobiety",
+      "title": "Thank Simone Rocha for This Pretty Pony-Hair adidas Slipper",
+      "excerpt": "Simone Rocha's adidas era kicks off with a hairy Japan slip-on, as well as other ballet-style shoes & ruffled sportswear.",
+      "image": null,
+      "link": "https://www.highsnobiety.com/p/simone-rocha-adidas-japan-slip-on/",
+      "mentions": [],
+      "pubDate": "2026-09-08T21:46:48+00:00"
+    },
+    {
+      "id": "a45831518712",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Taylor Swift and Travis Kelce Step Out for Their First Newlywed Date Night",
+      "excerpt": "Two months after their mega-wedding at Madison Square Garden, Taylor Swift and Travis Kelce stepped out for dinner in New York wearing coordinating shimmers.",
+      "image": "https://assets.vogue.com/photos/6aa02ffb8fc74dfc1adff172/master/pass/BGUS_3675678_010.jpg",
+      "link": "https://www.vogue.com/article/taylor-swift-and-travis-kelce-first-newlywed-date-night-new-york",
+      "mentions": [],
+      "pubDate": "2026-09-08T21:45:00+00:00"
+    },
+    {
+      "id": "1eae985efefd",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Elle US",
+      "title": "How Taylor Swift and Travis Kelce Spent Their First Public Date in Months",
+      "excerpt": "",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/f3d0533f-82e0-4bc7-882d-b13a537c557b.jpg",
+      "link": "https://www.elle.com/culture/celebrities/a73643968/how-taylor-swift-travis-kelce-spent-first-public-fall-nyc-date-photo/",
+      "mentions": [],
+      "pubDate": "2026-09-08T21:45:00+00:00"
+    },
+    {
+      "id": "6d5216b19a36",
+      "editorial": "beleza",
+      "scope": "internacional",
+      "source": "Refinery29",
+      "title": "How Amy Liu Built Her Sensitive Skin Brand Tower28 at 40",
+      "excerpt": "Before Amy Liu built Tower28 , the company that currently sells products every 10 seconds in Sephora, she was working in the beauty industry and struggling with sensitive skin. With encouragement and…",
+      "image": null,
+      "link": "https://www.refinery29.com/en-us/how-amy-liu-built-her-sensitive-skin-brand-tower28?utm_source=feed&utm_medium=rss",
+      "mentions": [],
+      "pubDate": "2026-09-08T21:43:30+00:00"
+    },
+    {
+      "id": "a3d45e7c30cd",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Harper's Bazaar US",
+      "title": "The Evolution of Fashion Week in Photos",
+      "excerpt": "From intimate designer ateliers to global livestreams, here's how the runways have transformed through the years",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ac6cb221-0912-4e2f-b9a6-b1d87aee8fdc.jpg",
+      "link": "https://www.harpersbazaar.com/fashion/fashion-week/g73643375/fashion-week-vintage-photos/",
+      "mentions": [],
+      "pubDate": "2026-09-08T21:33:01+00:00"
+    },
+    {
+      "id": "7f5d2f2552e3",
+      "editorial": "cultura",
+      "scope": "internacional",
+      "source": "The Cut",
+      "title": "The Best Bike Shorts That Get Me Through Every Type of Workout",
+      "excerpt": "From brands including Aritzia, Abercrombie, and Gymshark.",
+      "image": "https://pyxis.nymag.com/v1/imgs/e33/478/e339800ccf18c50013be94443b2681afdd-bike-shorts-lede.1x.rsocial.w1200.jpg",
+      "link": "http://www.thecut.com/article/best-bike-shorts.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "mentions": [],
+      "pubDate": "2026-09-08T21:22:39+00:00"
+    },
+    {
+      "id": "6d62d89d75be",
+      "editorial": "cultura",
+      "scope": "internacional",
+      "source": "Elle US",
+      "title": "Everything We Know About Ariana Grande’s 8th Album, Petal",
+      "excerpt": "",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/4e6f04ea-794b-4381-a9da-501d8a8642a6.jpg",
+      "link": "https://www.elle.com/culture/music/a70973717/ariana-grande-eighth-album-news-release-date-details/",
+      "mentions": [],
+      "pubDate": "2026-09-08T21:20:47+00:00"
+    },
+    {
+      "id": "6f5ab5feb62e",
+      "editorial": "beleza",
+      "scope": "internacional",
+      "source": "Elle US",
+      "title": "Calling Gen X: These Are the Makeup Products Pro Artists Recommend",
+      "excerpt": "The beauty advice worth stealing from the pros.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/3dc38a45-9fe4-41a1-ba94-466aa4eb1b61.jpeg",
+      "link": "https://www.elle.com/beauty/makeup-skin-care/a73606943/best-makeup-for-mature-skin/",
+      "mentions": [],
+      "pubDate": "2026-09-08T21:20:17+00:00"
+    },
+    {
+      "id": "b07645b17130",
+      "editorial": "moda",
+      "scope": "nacional",
+      "source": "Glamour Brasil",
+      "title": "5 collabs de moda para deixar no radar",
+      "excerpt": "Uma seleção de colaborações que chegam nos próximos meses nas vitrines e merecem um espaço no guarda-roupa",
+      "image": "https://s2-glamour.glbimg.com/2A6fxmAmA8p3YE_T3chuAMUhaIQ=/i.s3.glbimg.com/v1/AUTH_ba3db981e6d14e54bb84be31c923b00c/internal_photos/bs/2026/U/N/1a2BXYQRKFVyj0pJt7yw/whatsapp-image-2026-09-08-at-18.08.53.jpeg",
+      "link": "https://glamour.globo.com/moda/noticia/2026/09/5-collabs-de-moda-para-deixar-no-radar.ghtml",
+      "mentions": [],
+      "pubDate": "2026-09-08T21:17:21+00:00"
+    },
+    {
+      "id": "6784a88b0b8e",
+      "editorial": "em-pauta",
+      "scope": "internacional",
+      "source": "Harper's Bazaar US",
+      "title": "Is Cuticle Removal Even Necessary?",
+      "excerpt": "We asked celebrity manicurists to weigh in",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/close-up-of-emilia-de-poret-manicure-blue-and-green-nails-news-photo-1668177953.jpg",
+      "link": "https://www.harpersbazaar.com/beauty/nails/a73643042/cuticle-care-guide/",
+      "mentions": [],
+      "pubDate": "2026-09-08T21:16:57+00:00"
+    },
+    {
+      "id": "010cc35b4d2a",
+      "editorial": "cultura",
+      "scope": "internacional",
+      "source": "Nylon",
+      "title": "Lucy Dacus Announces Release of “No Thank You, I Love You, Goodbye”",
+      "excerpt": "Lucy Dacus is finally releasing her famous unreleased song after 9 years, joining a tradition of artists letting fans know songs before they’re official.",
+      "image": "https://imgix.bustle.com/uploads/image/2026/9/8/f74e7c9d/gettyimages-2289708547.jpg?w=1200&fit=max",
+      "link": "https://www.nylon.com/entertainment/lucy-dacus-new-single-no-thank-you-i-love-you-goodbye",
+      "mentions": [],
+      "pubDate": "2026-09-08T21:16:32+00:00"
+    },
+    {
+      "id": "783b3b8a325e",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "WWD",
+      "title": "EXCLUSIVE: Gabriella Karefa-Johnson Teams With Depop on a Curated Shop",
+      "excerpt": "Depop’s 2026 official trends spokesperson unveils her size-inclusive shop during NYFW.",
+      "image": null,
+      "link": "https://wwd.com/fashion-news/fashion-scoops/gabriella-karefa-johnson-depop-for-the-girls-shop-1239202541/",
+      "mentions": [],
+      "pubDate": "2026-09-08T21:11:09+00:00"
+    },
+    {
+      "id": "ba37fc1dc71e",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "WWD",
+      "title": "Aneta Pokucinska Named Managing Director and General Manager, U.S. of H&M",
+      "excerpt": "H&M also said that Elie Saab will be its next designer collaboration.",
+      "image": null,
+      "link": "https://wwd.com/fashion-news/fashion-features/aneta-pokucinska-managing-director-general-manager-u-s-of-hm-1239202470/",
+      "mentions": [],
+      "pubDate": "2026-09-08T21:07:21+00:00"
+    },
+    {
+      "id": "c64c547c3718",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "The Bride Mirrored Her Mother’s Wedding Day Looks at Her Backyard Wedding in Santa Barbara",
+      "excerpt": "Sarah Hancock married Matthew Conaghan in a Danielle Frankel gown that she says “made me feel like Grace Kelly,” with a celebration at the bride’s family home that combined California nostalgia and…",
+      "image": "https://assets.vogue.com/photos/6a95f100bbbb37768d69601e/master/pass/sarah-mattie_062.jpg",
+      "link": "https://www.vogue.com/slideshow/sarah-hancock-and-mattie-conaghan-wedding",
+      "mentions": [],
+      "pubDate": "2026-09-08T21:00:58+00:00"
+    },
+    {
+      "id": "43b22927e9a2",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Capricho",
+      "title": "Artificial, filme com Andrew Garfield sobre Sam Altman, ganha trailer",
+      "excerpt": "Depois de meses de incerteza, a NEON marcou a estreia para dezembro e planeja uma passagem por festivais e possível campanha ao Oscar.",
+      "image": "https://capricho.abril.com.br/wp-content/uploads/2026/09/Copia-de-THUMB-MATERIAS-99.png",
+      "link": "https://capricho.abril.com.br/entretenimento/artificial-filme-com-andrew-garfield-sobre-sam-altman-ganha-trailer/",
+      "mentions": [],
+      "pubDate": "2026-09-08T21:00:02+00:00"
     },
     {
       "id": "83039ee798b4",
@@ -585,6 +1019,18 @@
       "pubDate": "2026-09-08T19:27:00+00:00"
     },
     {
+      "id": "cf333871cac7",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Highsnobiety",
+      "title": "Fashion's New Favorite Accessory? Literal Rocks",
+      "excerpt": "Rocks have become a consistent new status symbol for being unplugged, appearing in fashion campaigns at On, HOKA, BEAMS, HAVEN and Barbour.",
+      "image": null,
+      "link": "https://www.highsnobiety.com/p/on-hoka-rocks/",
+      "mentions": [],
+      "pubDate": "2026-09-08T19:22:03+00:00"
+    },
+    {
       "id": "1d1f66f1c647",
       "editorial": "cultura",
       "scope": "internacional",
@@ -595,18 +1041,6 @@
       "link": "https://wwd.com/fashion-news/fashion-scoops/longchamp-art-festival-sophie-delafontaine-designer-1239201755/",
       "mentions": [],
       "pubDate": "2026-09-08T19:21:50+00:00"
-    },
-    {
-      "id": "6a625a54f92f",
-      "editorial": "beleza",
-      "scope": "internacional",
-      "source": "WWD",
-      "title": "Maison Crivelli Opens First Boutique, CEO Talks Strategy",
-      "excerpt": "The French niche fragrance brand is on a steep growth trajectory.",
-      "image": null,
-      "link": "https://wwd.com/beauty-industry-news/fragrance/maison-crivelli-opens-first-boutique-ceo-discusses-strategy-1239201297/",
-      "mentions": [],
-      "pubDate": "2026-09-08T19:13:40+00:00"
     },
     {
       "id": "1086718c3e70",
@@ -693,18 +1127,6 @@
       "link": "https://www.meioemensagem.com.br/gente/school-of-rock-unifica-lideranca-de-marketing-e-vendas",
       "mentions": [],
       "pubDate": "2026-09-08T18:51:49+00:00"
-    },
-    {
-      "id": "33bd045ca8e4",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "WWD",
-      "title": "Deadly Amazon Air Runway Overrun Under Federal Investigation",
-      "excerpt": "The NTSB is probing how an Amazon Air cargo plane crashed at Miami International Airport, striking two vehicles and killing five people.",
-      "image": null,
-      "link": "https://wwd.com/sourcing-journal/logistics/amazon-air-crash-runway-overrun-deadly-ntsb-cargo-miami-airport-1239201200/",
-      "mentions": [],
-      "pubDate": "2026-09-08T18:44:36+00:00"
     },
     {
       "id": "6ca3f115c380",
@@ -831,18 +1253,6 @@
       "pubDate": "2026-09-08T17:50:54+00:00"
     },
     {
-      "id": "1f0f25d06f60",
-      "editorial": "cultura",
-      "scope": "internacional",
-      "source": "Harper's Bazaar US",
-      "title": "Laura Dern Debuts a “Lowkey Bombshell” Hairstyle at the Venice Film Festival",
-      "excerpt": "The style is ideal for making mature hair look effortlessly voluminous and full",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/be37bcac-9dba-48e6-a683-4234efcd8e15.jpg",
-      "link": "https://www.harpersbazaar.com/beauty/hair/a73642136/laura-dern-lowkey-bombshell-hairstyle-for-mature-hair/",
-      "mentions": [],
-      "pubDate": "2026-09-08T17:31:58+00:00"
-    },
-    {
       "id": "36a61fe59a20",
       "editorial": "cultura",
       "scope": "nacional",
@@ -853,20 +1263,6 @@
       "link": "https://www.meioemensagem.com.br/gente/bradesco-consorcios-anuncia-chegada-de-jose-marcelo-rossi",
       "mentions": [],
       "pubDate": "2026-09-08T17:30:53+00:00"
-    },
-    {
-      "id": "d99ba6187e54",
-      "editorial": "cultura",
-      "scope": "internacional",
-      "source": "Harper's Bazaar US",
-      "title": "Connor Storrie Makes His Emmy Awards Debut in Head-to-Toe Saint Laurent",
-      "excerpt": "The Heated Rivalry actor also debuted his brand-new buzzcut",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/70964c28-772d-40f8-89a2-a6b22672a530.jpeg",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73642877/connor-storrie-new-hair-buzzcut-2026-emmy-awards-red-carpet-photos/",
-      "mentions": [
-        "Saint Laurent"
-      ],
-      "pubDate": "2026-09-08T17:30:32+00:00"
     },
     {
       "id": "5097806dab75",
@@ -955,6 +1351,18 @@
       "pubDate": "2026-09-08T16:49:53+00:00"
     },
     {
+      "id": "1350b78be5b2",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Highsnobiety",
+      "title": "Marcus Allen Invests in Himself, and Ally Bank Approves",
+      "excerpt": "How do you turn creative vision into a lasting business while still spending and saving for what brings you joy? Marcus Allen, founder of The Society Archive, has the answer.",
+      "image": null,
+      "link": "https://www.highsnobiety.com/p/marcus-allen-what-it-cost-me/",
+      "mentions": [],
+      "pubDate": "2026-09-08T16:43:41+00:00"
+    },
+    {
       "id": "a4139377af81",
       "editorial": "moda",
       "scope": "nacional",
@@ -1027,28 +1435,16 @@
       "pubDate": "2026-09-08T16:26:03+00:00"
     },
     {
-      "id": "1c28b0e4c28d",
+      "id": "b7cd52176576",
       "editorial": "moda",
       "scope": "internacional",
-      "source": "Elle US",
-      "title": "Culture Watch: What to See and Where to Go in September",
-      "excerpt": "",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/2bebe7a0-afb8-464b-ac1e-4dee9f1badb5.jpg",
-      "link": "https://www.elle.com/culture/art-design/a73619245/best-fashion-exhibitions-september-2026/",
+      "source": "Highsnobiety",
+      "title": "This Shirt Started Patagonia. Now, It's Back",
+      "excerpt": "With the return of Patagonia's Long-Sleeved Rugby Shirt for fall, the outdoor apparel brand revived the shirt that literally launched the brand decades ago.",
+      "image": null,
+      "link": "https://www.highsnobiety.com/p/patagonia-rugby-polo/",
       "mentions": [],
-      "pubDate": "2026-09-08T16:24:39+00:00"
-    },
-    {
-      "id": "1ae6629249f5",
-      "editorial": "cultura",
-      "scope": "internacional",
-      "source": "Harper's Bazaar US",
-      "title": "Pamela Anderson Is a Vision in an Orange Gown at the 2026 amfAR Gala Venezia",
-      "excerpt": "She was honored with the Award of Courage",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/88d6d5a0-31c6-4dff-b9d7-6b1916b6a57d.jpeg",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73641297/pamela-anderson-orange-gown-2026-amfar-gala-venezia-photos/",
-      "mentions": [],
-      "pubDate": "2026-09-08T16:21:13+00:00"
+      "pubDate": "2026-09-08T16:25:42+00:00"
     },
     {
       "id": "74d2082c3964",
@@ -1073,6 +1469,18 @@
       "link": "https://www.meioemensagem.com.br/marketing/wellhub-entra-no-segmento-de-corridas-de-rua-com-duas-provas",
       "mentions": [],
       "pubDate": "2026-09-08T16:09:13+00:00"
+    },
+    {
+      "id": "218b40cdc4f3",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Highsnobiety",
+      "title": "This Leather adidas Staple Went From the Terraces to the Skate Park",
+      "excerpt": "The adidas Originals Glenburn Auburn/Gum seamlessly blends terrace culture with modern skateboarding.",
+      "image": null,
+      "link": "https://www.highsnobiety.com/p/adidas-glenburn-auburn/",
+      "mentions": [],
+      "pubDate": "2026-09-08T16:05:48+00:00"
     },
     {
       "id": "dff91bf8110f",
@@ -1113,30 +1521,6 @@
       "link": "https://hypebeast.com/2026/9/behind-the-design-luar-lunazul-tequilas-moonlit-capsule",
       "mentions": [],
       "pubDate": "2026-09-08T16:00:10+00:00"
-    },
-    {
-      "id": "5fa2b4ef701e",
-      "editorial": "beleza",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Carlos Sainz Shares the “Fundamental” Grooming Tip Every “Gentleman” Should Know",
-      "excerpt": "The Formula 1 driver shares his favorite fragrances to spritz, some thoughts on the stigma surrounding male beauty, and a new skin treatment.",
-      "image": "https://assets.vogue.com/photos/6a99b22f7d26c35f24822e42/master/pass/vogue_beauty-secrets-carlos-sainz.jpg",
-      "link": "https://www.vogue.com/article/beauty-secrets-carlos-sainz",
-      "mentions": [],
-      "pubDate": "2026-09-08T16:00:00+00:00"
-    },
-    {
-      "id": "43bf2fe1f72c",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Elle US",
-      "title": "How Kallmeyer Reimagined an Iconic Nike Tennis Sneaker",
-      "excerpt": "From center court to city streets.",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/c2722804-0c1d-4794-a8a2-da98bf2f640f.jpeg",
-      "link": "https://www.elle.com/fashion/shopping/a73635206/nike-kallmeyer-sneaker-collaboration-interview/",
-      "mentions": [],
-      "pubDate": "2026-09-08T16:00:00+00:00"
     },
     {
       "id": "ad4c5ee0c9c6",
@@ -1213,78 +1597,6 @@
       "pubDate": "2026-09-08T15:45:00+00:00"
     },
     {
-      "id": "1434f3eee902",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Harper's Bazaar US",
-      "title": "Furious Is a Feminist Manifesto of Rage",
-      "excerpt": "The Emmy Rossum–led crime series is righteously vengeful—and the best television drama of the year so far",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/8f2ee393-7fa7-41a4-811d-cf9728374a06.jpg",
-      "link": "https://www.harpersbazaar.com/culture/film-tv/a73641445/furious-tv-show-ending-explained/",
-      "mentions": [],
-      "pubDate": "2026-09-08T15:41:46+00:00"
-    },
-    {
-      "id": "718cfa04db4b",
-      "editorial": "cultura",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Inside the Most Glittering Parties of Venice Film Festival 2026 (So Far)",
-      "excerpt": "From fashion dinners to charity galas, here, find Vogue’s roundup of the best and most star-studded parties at the 2026 Venice Film Festival.",
-      "image": "https://assets.vogue.com/photos/6a9ee96f6526f962e463556d/master/pass/GettyImages-2293392832.jpg",
-      "link": "https://www.vogue.com/article/venice-film-festival-2026-best-parties",
-      "mentions": [],
-      "pubDate": "2026-09-08T15:40:33+00:00"
-    },
-    {
-      "id": "1cc46d704cd0",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Elle US",
-      "title": "Meghan Markle and Prince Harry’s Rep Reveals Their Reaction to King Charles’s Letter",
-      "excerpt": "",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/db619173-f42a-4137-8402-bd5159abf62d.jpeg",
-      "link": "https://www.elle.com/culture/celebrities/a73641599/meghan-markle-prince-harry-rep-king-charles-letter-reaction/",
-      "mentions": [],
-      "pubDate": "2026-09-08T15:36:36+00:00"
-    },
-    {
-      "id": "c5dc6d6af200",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "The Fashion Insider’s Guide to Dining and Drinking During NYFW",
-      "excerpt": "18 fashion insiders share their favorite places to eat, drink, and snack during NYFW.",
-      "image": "https://assets.vogue.com/photos/6aa0237c6760566ca2cfd247/master/pass/Restaurant-Guidefout.jpg",
-      "link": "https://www.vogue.com/article/nyfw-dining-fashion-insiders-guide",
-      "mentions": [],
-      "pubDate": "2026-09-08T15:29:14+00:00"
-    },
-    {
-      "id": "d3fb0b84c06c",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "All the Celebrity Sightings at the 2026 U.S. Open",
-      "excerpt": "The annual tennis event has turned into an opportunity for stars to step out in their best courtside looks.",
-      "image": "https://assets.vogue.com/photos/6aa0297f330e1cab8fdd0d47/master/pass/GettyImages-2293382676%20(1).jpg",
-      "link": "https://www.vogue.com/slideshow/celebrity-sightings-at-the-2026-us-open",
-      "mentions": [],
-      "pubDate": "2026-09-08T15:28:13+00:00"
-    },
-    {
-      "id": "a1cf00aa56b5",
-      "editorial": "beleza",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Hair Growth vs. Anti-Shed Serums—And Why You Need Both",
-      "excerpt": "Experts weigh in on the difference between both serums—and how, when combined, the duo can improve hair density, reduce shed, and boost growth",
-      "image": "https://assets.vogue.com/photos/6a99d3cd9fd69b9ec2acdc46/master/pass/090326_Hair%20Growth%20serum_polaroidbeautyholding16x9.jpg",
-      "link": "https://www.vogue.com/article/anti-shed-vs-hair-growth-serums",
-      "mentions": [],
-      "pubDate": "2026-09-08T15:27:02+00:00"
-    },
-    {
       "id": "f3bf86f90c22",
       "editorial": "cultura",
       "scope": "nacional",
@@ -1307,18 +1619,6 @@
       "link": "https://www.wallpaper.com/design-interiors/scp-clerkenwell-opening",
       "mentions": [],
       "pubDate": "2026-09-08T15:16:32+00:00"
-    },
-    {
-      "id": "99d389a55941",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Elle US",
-      "title": "The 7 Exhibitions Worth Skipping a Fashion Week Show For",
-      "excerpt": "From New York to Paris, these exhibitions offer plenty to see off the runways.",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/9b4f06c2-78f7-4fc5-8a0b-206aba2a8a95.jpg",
-      "link": "https://www.elle.com/culture/art-design/a73609330/best-fashion-month-exhibitions-spring-2027/",
-      "mentions": [],
-      "pubDate": "2026-09-08T15:12:36+00:00"
     },
     {
       "id": "cf84903b0570",
@@ -1451,18 +1751,6 @@
       "link": "http://www.thecut.com/article/harry-meghan-surprised-king-charles-letter.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
       "mentions": [],
       "pubDate": "2026-09-08T14:26:29+00:00"
-    },
-    {
-      "id": "0faf3503d448",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "Meio & Mensagem",
-      "title": "Méqui resgata receita de McFish na mitológica Atlântida",
-      "excerpt": "O McFish está de volta ao cardápio do McDonald’s nas unidades de todo o Brasil a partir desta terça-feira, 8, após uma jornada épica pela cidade mitológica de Atlântida. O filme “McFish e a Receita…",
-      "image": "https://www.meioemensagem.com.br/wp-content/uploads/2026/09/campanha-mequi_mcfish-1280x668.jpg",
-      "link": "https://www.meioemensagem.com.br/comunicacao/mequi-resgata-receita-de-mcfish-na-mitogica-atlantida",
-      "mentions": [],
-      "pubDate": "2026-09-08T14:24:22+00:00"
     },
     {
       "id": "b0cd4fd7157c",
@@ -1745,18 +2033,6 @@
       "pubDate": "2026-09-08T12:20:11+00:00"
     },
     {
-      "id": "a5ebbe72d113",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Who What Wear",
-      "title": "If the Closet Goal Is Cool, Chic, and Current—These On-Trend New Items From Shopbop Will Matter",
-      "excerpt": "Bobby Schuessler is a fashion editor with over 15 years of editorial experience covering shopping, style, and beauty. He's spent over a decade at Who What Wear, currently leading the market team to…",
-      "image": "https://cdn.mos.cms.futurecdn.net/YSET7gQKfM2VuVeFMm9Si-1280-80.jpg",
-      "link": "https://www.whowhatwear.com/fashion/shopping/fall-shopping-shopbop-2026",
-      "mentions": [],
-      "pubDate": "2026-09-08T12:17:34+00:00"
-    },
-    {
       "id": "b87e348a3d28",
       "editorial": "moda",
       "scope": "internacional",
@@ -1973,18 +2249,6 @@
       "excerpt": "We dispatched a photographer to the city’s raves, roller discos, and bingo halls.",
       "image": "https://pyxis.nymag.com/v1/imgs/4c1/370/822812c8432b35b3f5791228b291e9abac-moncler-book.1x.rsocial.w1200.gif",
       "link": "http://www.thecut.com/article/new-yorkers-going-out-this-summer.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "mentions": [],
-      "pubDate": "2026-09-08T11:00:42+00:00"
-    },
-    {
-      "id": "bfbe42036e98",
-      "editorial": "cultura",
-      "scope": "internacional",
-      "source": "The Cut",
-      "title": "Raising a Daughter Who Will Never Grow Up",
-      "excerpt": "My toddler isn’t expected to live past age 5. How can I give her a good life while she’s still here?",
-      "image": "https://pyxis.nymag.com/v1/imgs/db0/f05/64b69816f5ba029025d648ef5b8e7fe1ac-HannahandJune--1-.1x.rsocial.w1200.jpg",
-      "link": "http://www.thecut.com/article/parenting-child-metachromatic-leukodystrophy-mld.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
       "mentions": [],
       "pubDate": "2026-09-08T11:00:42+00:00"
     },
@@ -2265,18 +2529,6 @@
       "pubDate": "2026-09-08T06:00:00+00:00"
     },
     {
-      "id": "36e3cc1c1285",
-      "editorial": "lifestyle",
-      "scope": "internacional",
-      "source": "Wallpaper*",
-      "title": "An Italian retreat balances contrast and colour to blissfully harmonious results",
-      "excerpt": "An eye-catching grid pattern and an earthy colour palette provide the creative framework for this countryside retreat in Emilia-Romagna",
-      "image": "https://cdn.mos.cms.futurecdn.net/square-feat-PWbaZqfSJfFXBzX9HqK2Vg-1280-80.jpg",
-      "link": "https://www.wallpaper.com/architecture/residential/italian-retreat-calvi-brambilla",
-      "mentions": [],
-      "pubDate": "2026-09-08T05:00:00+00:00"
-    },
-    {
       "id": "320edd8c403a",
       "editorial": "moda",
       "scope": "nacional",
@@ -2483,18 +2735,6 @@
       "pubDate": "2026-09-07T16:05:22+00:00"
     },
     {
-      "id": "5091f76cff84",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "Capricho",
-      "title": "Madonna e Charli XCX dão indício de feat e fãs teorizam qual será a música",
-      "excerpt": "Após interação entre as duas cantoras nas redes ao som de L. E. S. Girl, fãs acreditam que a faixa de Confessions II será a escolhida para a parceria",
-      "image": "https://capricho.abril.com.br/wp-content/uploads/2026/05/THUMB-2026-05-20T135322.300.png",
-      "link": "https://capricho.abril.com.br/entretenimento/madonna-e-charli-xcx-dao-indicio-de-feat-e-fas-teorizam-qual-sera-a-musica/",
-      "mentions": [],
-      "pubDate": "2026-09-07T15:33:33+00:00"
-    },
-    {
       "id": "9f34b250f9c5",
       "editorial": "cultura",
       "scope": "nacional",
@@ -2553,18 +2793,6 @@
       "link": "https://revistamarieclaire.globo.com/noticias/noticia/2026/09/estrela-de-reality-show-britanico-revela-morte-de-filhos-gemeos-nao-ha-dor-maior.ghtml",
       "mentions": [],
       "pubDate": "2026-09-07T14:06:12+00:00"
-    },
-    {
-      "id": "1c2ea424c763",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "Capricho",
-      "title": "O estilo do elenco de ‘Adultos’ tem ousadia, atitude e referências vintage",
-      "excerpt": "Deciframos os looks dos atores Amita Rao, Lucy Freyer, Jack Innanen, Owen Thiele e Malik Elassal fora da série",
-      "image": "https://capricho.abril.com.br/wp-content/uploads/2026/09/elenco-serie-adultos-premiere.jpg",
-      "link": "https://capricho.abril.com.br/moda/o-estilo-do-elenco-de-adultos-tem-ousadia-atitude-e-referencias-vintage/",
-      "mentions": [],
-      "pubDate": "2026-09-07T14:00:44+00:00"
     },
     {
       "id": "4832c82caabc",
@@ -2651,30 +2879,6 @@
       "link": "https://revistacasaejardim.globo.com/webstories/stories/2026/09/07/8-animais-que-parecem-inofensivos-mas-sao-mortais-e-podem-estar-no-seu-jardim.ghtml",
       "mentions": [],
       "pubDate": "2026-09-07T11:57:38+00:00"
-    },
-    {
-      "id": "a16078efba61",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "Glamour Brasil",
-      "title": "Lesliana Pereira fala sobre “A Nobreza do Amor”, representatividade e carreira no Brasil",
-      "excerpt": "Apaixonada pelo país, a atriz angolana quer continuar por aqui: \"Existe uma energia muito parecida entre os dois povos e, por isso, sinto-me muito em casa\"",
-      "image": "https://s2-glamour.glbimg.com/cC1r_YF8sd6l2sm4NUigKw5s3RU=/i.s3.glbimg.com/v1/AUTH_ba3db981e6d14e54bb84be31c923b00c/internal_photos/bs/2026/7/R/1SeI9SSMakIeHMEbAW5g/lesliana-pereira.jpeg",
-      "link": "https://glamour.globo.com/lifestyle/noticia/2026/09/lesliana-pereira-fala-sobre-a-nobreza-do-amor-representatividade-e-carreira-no-brasil.ghtml",
-      "mentions": [],
-      "pubDate": "2026-09-07T11:15:37+00:00"
-    },
-    {
-      "id": "82dd71eb2746",
-      "editorial": "lifestyle",
-      "scope": "nacional",
-      "source": "Glamour Brasil",
-      "title": "Está se sentindo mal depois de fazer uma massagem? Pode ser a 'gripe da massagem'",
-      "excerpt": "Veja o que está realmente acontecendo e como se sentir melhor",
-      "image": "https://s2-glamour.glbimg.com/BFYNozGmCkzE0GQDRYcOvsJfZKw=/i.s3.glbimg.com/v1/AUTH_ba3db981e6d14e54bb84be31c923b00c/internal_photos/bs/2026/s/G/JEaJBwQT6cQTDQswqUrg/pexels.jpg",
-      "link": "https://glamour.globo.com/lifestyle/noticia/2026/09/esta-se-sentindo-mal-depois-de-fazer-uma-massagem-pode-ser-a-gripe-da-massagem.ghtml",
-      "mentions": [],
-      "pubDate": "2026-09-07T11:15:16+00:00"
     },
     {
       "id": "1d162a33b60d",
@@ -2977,18 +3181,6 @@
       "pubDate": "2026-09-05T21:12:24+00:00"
     },
     {
-      "id": "921920de47d1",
-      "editorial": "lifestyle",
-      "scope": "nacional",
-      "source": "GQ Brasil",
-      "title": "Os 10 melhores exercícios para crescer e definir os ombros",
-      "excerpt": "Se você quer trabalhar estes grupos musculares, fortalecê-los e ganhar tamanho, deve adicionar esses movimentos à sua rotina",
-      "image": "https://s2-gq.glbimg.com/KwBGF0gn-e5zM45yGOpvK3NDc5Q=/i.s3.glbimg.com/v1/AUTH_71a8fe14ac6d40bd993eb59f7203fe6f/internal_photos/bs/2026/J/1/TcKFwxRZ2jZkzTu3wb7A/exercicios-ombros-gq.jpg",
-      "link": "https://gq.globo.com/bem-estar/fitness/noticia/2026/09/10-melhores-exercicios-para-ombros.ghtml",
-      "mentions": [],
-      "pubDate": "2026-09-05T19:20:56+00:00"
-    },
-    {
       "id": "76f09cf42378",
       "editorial": "moda",
       "scope": "nacional",
@@ -3183,20 +3375,6 @@
       "pubDate": "2026-09-04T20:43:56+00:00"
     },
     {
-      "id": "aa852953572d",
-      "editorial": "moda",
-      "scope": "nacional",
-      "source": "Harper's Bazaar Brasil",
-      "title": "Quem é Julie Kegels, vencedora do LVMH Prize 2026",
-      "excerpt": "Aos 27 anos, Julie Kegels acaba de conquistar um dos reconhecimentos mais importantes para uma nova geração da moda. A designer belga foi anunciada como vencedora do LVMH Prize 2026, premiação criada…",
-      "image": "https://harpersbazaar.uol.com.br/wp-content/uploads/2026/09/Julie-3-768x768.webp",
-      "link": "https://harpersbazaar.uol.com.br/moda/quem-e-julie-kegels-vencedora-do-lvmh-prize-2026/",
-      "mentions": [
-        "LVMH"
-      ],
-      "pubDate": "2026-09-04T20:20:07+00:00"
-    },
-    {
       "id": "9e8789228f84",
       "editorial": "beleza",
       "scope": "internacional",
@@ -3333,18 +3511,6 @@
       "pubDate": "2026-09-04T12:30:00+00:00"
     },
     {
-      "id": "93d9de289ee9",
-      "editorial": "lifestyle",
-      "scope": "internacional",
-      "source": "Refinery29",
-      "title": "17 Revamped Haircut Trends Dominating Fall, According To Top Stylists",
-      "excerpt": "Okay, we aren’t exactly lacking in haircut trends . Recently, we fell for the “curve” cut — a strategically layered style that adds major volume to fine strands — and then we spotted the J-shape…",
-      "image": "https://www.refinery29.com/images/11948912.jpg?width=819&amp;height=1024&amp;fit=bounds&amp;crop=819%3A1024",
-      "link": "https://www.refinery29.com/en-us/fall-haircut-trends-2026?utm_source=feed&utm_medium=rss",
-      "mentions": [],
-      "pubDate": "2026-09-04T08:55:44+00:00"
-    },
-    {
       "id": "a1a4a2bc3520",
       "editorial": "cultura",
       "scope": "internacional",
@@ -3463,18 +3629,6 @@
       "link": "https://i-d.co/article/your-august-2026-in-photos/",
       "mentions": [],
       "pubDate": "2026-09-03T09:00:00+00:00"
-    },
-    {
-      "id": "5e6045e3c9c2",
-      "editorial": "cultura",
-      "scope": "internacional",
-      "source": "Nylon",
-      "title": "Lisa’s New Documentary 'Always Lalisa' Is Headed To The Big Screen",
-      "excerpt": "Lisa's new documentary, 'Always Lalisa,' is set to premiere at TIFF on Sept. 11 ahead of its theatrical release on Oct. 12.",
-      "image": "https://imgix.bustle.com/uploads/getty/2026/9/2/2799522b/indio-california-april-18.jpg?w=1200&fit=max",
-      "link": "https://www.nylon.com/entertainment/lisa-always-lalisa-documentary-tiff-premiere-release-date",
-      "mentions": [],
-      "pubDate": "2026-09-02T21:00:50+00:00"
     }
   ]
 }
