@@ -1,17 +1,43 @@
 {
-  "generatedAt": "2026-09-14T23:02:50.877743+00:00",
+  "generatedAt": "2026-09-15T04:25:07.401807+00:00",
   "items": [
     {
-      "id": "17875c2488df",
-      "editorial": "cultura",
+      "id": "204cf84d770b",
+      "editorial": "moda",
       "scope": "internacional",
-      "source": "Harper's Bazaar US",
-      "title": "Mariska Hargitay Is Striking in Red at the 2026 Emmys",
-      "excerpt": "The host has arrived!",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/34ea899a-3d0f-4449-962c-daa5bcfc4c2e.jpeg",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73686931/mariska-hargitay-red-carpet-photos-emmys-2026/",
+      "source": "Vogue US",
+      "title": "Maria McManus Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6aa83ef88e731464b917643f/master/pass/00001-maria-mcmanus-spring-2027-ready-to-wear-credit-brand.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/maria-mcmanus",
       "mentions": [],
-      "pubDate": "2026-09-14T23:00:16+00:00",
+      "pubDate": "2026-09-15T04:20:20+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "c555db1d32aa",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "LaQuan Smith Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6aa8a31f14f9c5a1f3ddeb54/master/pass/UMB00019.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/laquan-smith",
+      "mentions": [],
+      "pubDate": "2026-09-15T04:20:20+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "2f94bb0efc63",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Luar Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6aa894c01a6aa79202cbc912/master/pass/OBY01085.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/luar",
+      "mentions": [],
+      "pubDate": "2026-09-15T04:20:20+00:00",
       "trendingReason": null
     },
     {
@@ -21,10 +47,10 @@
       "source": "Vogue US",
       "title": "Carolina Herrera Spring 2027 Ready-to-Wear",
       "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6aa8710b583a35aed88c3be7/master/pass/FIO00036.jpg",
+      "image": "https://assets.vogue.com/photos/6aa898d3583a35aed88c4040/master/pass/00001-carolina-herrera-spring-2027-ready-to-wear-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/carolina-herrera",
       "mentions": [],
-      "pubDate": "2026-09-14T23:00:03+00:00",
+      "pubDate": "2026-09-15T04:20:20+00:00",
       "trendingReason": null
     },
     {
@@ -34,10 +60,10 @@
       "source": "Vogue US",
       "title": "Bibhu Mohapatra Spring 2027 Ready-to-Wear",
       "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6aa8678e677112612d6ff45d/master/pass/UMB00003.jpg",
+      "image": "https://assets.vogue.com/photos/6aa88ba914f9c5a1f3dde8f1/master/pass/00001-bibhu-mohapatra-spring-2027-ready-to-wear-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/bibhu-mohapatra",
       "mentions": [],
-      "pubDate": "2026-09-14T23:00:03+00:00",
+      "pubDate": "2026-09-15T04:20:20+00:00",
       "trendingReason": null
     },
     {
@@ -50,7 +76,7 @@
       "image": "https://assets.vogue.com/photos/6aa81f6436b01e862453c3f2/master/pass/00001-tanner-fletcher-spring-2027-ready-to-wear-credit-brand.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/tanner-fletcher",
       "mentions": [],
-      "pubDate": "2026-09-14T23:00:03+00:00",
+      "pubDate": "2026-09-15T04:20:20+00:00",
       "trendingReason": null
     },
     {
@@ -63,49 +89,23 @@
       "image": "https://assets.vogue.com/photos/6aa872d00671ed916e05ebcb/master/pass/00001-diotima-spring-2027-ready-to-wear-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/diotima",
       "mentions": [],
-      "pubDate": "2026-09-14T23:00:03+00:00",
+      "pubDate": "2026-09-15T04:20:20+00:00",
       "trendingReason": null
     },
     {
-      "id": "a609e2601199",
-      "editorial": "moda",
+      "id": "7c135f64281c",
+      "editorial": "cultura",
       "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Private Policy Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6aa8622da7b8779de31a88bc/master/pass/00001-private-policy-spring-2027-ready-to-wear-credit-gorunway.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/private-policy",
-      "mentions": [],
-      "pubDate": "2026-09-14T23:00:03+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "eb8fcb484b6a",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Zankov Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6aa85829583a35aed88c38ff/master/pass/00001-zankov-spring-2027-ready-to-wear-credit-gorunway.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/zankov",
-      "mentions": [],
-      "pubDate": "2026-09-14T23:00:03+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "4f330824cf37",
-      "editorial": "beleza",
-      "scope": "nacional",
-      "source": "Vogue Brasil",
-      "title": "Zendaya aposta em corte pixie e inaugura nova fase do visual em Nova York",
-      "excerpt": "Atriz apareceu com os fios ainda mais curtos durante evento da Prada Beauty e chamou atenção ao apostar em transformação assinada por Coree Moreno",
-      "image": "https://s2-vogue.glbimg.com/PZ4-YuiiLiok1AV_h-Q5ldTwkUM=/i.s3.glbimg.com/v1/AUTH_5dfbcf92c1a84b20a5da5024d398ff2f/internal_photos/bs/2026/k/7/3MKNBMTVqQl33dfmKZBQ/whatsapp-image-2026-09-14-at-16.00.53.jpeg",
-      "link": "https://vogue.globo.com/beleza/noticia/2026/09/zendaya-aposta-em-corte-pixie-e-inaugura-nova-fase-do-visual-em-nova-york.ghtml",
+      "source": "Harper's Bazaar US",
+      "title": "Zendaya Is Resplendent in a Crystal-Covered Gown at the 2026 Emmy Awards",
+      "excerpt": "She’s up for her third prize tonight, thanks to her performance on Euphoria",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/e5821252-6df7-4cef-b251-82fe82cc858f.jpeg",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73656557/zendaya-red-carpet-photos-emmys-2026/",
       "mentions": [
         "Zendaya"
       ],
-      "pubDate": "2026-09-14T18:59:41+00:00",
-      "trendingReason": "Repercutindo em 3 veículos"
+      "pubDate": "2026-09-15T02:14:00+00:00",
+      "trendingReason": "Repercutindo em 6 veículos"
     }
   ]
 }
