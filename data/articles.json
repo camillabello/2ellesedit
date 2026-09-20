@@ -1,30 +1,6 @@
 {
-  "generatedAt": "2026-09-20T15:50:11.701171+00:00",
+  "generatedAt": "2026-09-20T18:37:28.900921+00:00",
   "articles": [
-    {
-      "id": "c0e14828ffc5",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "Exame",
-      "title": "SP Open amplia patrocínios e mira salto para WTA 500 nos próximos cinco anos",
-      "excerpt": "Com ingressos esgotados e 48 marcas parceiras, torneio aposta em experiências e relacionamento para expandir receitas",
-      "image": null,
-      "link": "https://exame.com/esporte/sp-open-amplia-patrocinios-e-mira-salto-para-wta-500-nos-proximos-cinco-anos/",
-      "mentions": [],
-      "pubDate": "2026-09-20T15:50:06.442891+00:00"
-    },
-    {
-      "id": "83f23ee41bb2",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "Exame",
-      "title": "Câncer de pulmão: exame de sangue pode indicar quem responde melhor à imunoterapia",
-      "excerpt": "Pesquisa brasileira identifica biomarcadores capazes de estimar a eficácia do tratamento antes do início da terapia, com potencial para ampliar o acesso no SUS",
-      "image": null,
-      "link": "https://exame.com/ciencia/cancer-de-pulmao-exame-de-sangue-pode-indicar-quem-responde-melhor-a-imunoterapia/",
-      "mentions": [],
-      "pubDate": "2026-09-20T15:50:06.442284+00:00"
-    },
     {
       "id": "ba6fe38e672a",
       "editorial": "cultura",
@@ -35,7 +11,55 @@
       "image": null,
       "link": "https://exame.com/marketing/como-a-hellmanns-transformou-16-toneladas-de-molho-em-um-recorde-no-rock-in-rio/",
       "mentions": [],
-      "pubDate": "2026-09-20T15:50:06.435465+00:00"
+      "pubDate": "2026-09-20T18:37:23.293650+00:00"
+    },
+    {
+      "id": "3bbd6d869520",
+      "editorial": "lifestyle",
+      "scope": "nacional",
+      "source": "Exame",
+      "title": "Porsche, China e tarifas: o que levou a Volkswagen a cortar projeções para 2026",
+      "excerpt": "A montadora alemã agora projeta receita de cerca de 315 bilhões de euros neste ano, abaixo dos 321,9 bilhões registrados em 2025",
+      "image": null,
+      "link": "https://exame.com/invest/mercados/porsche-china-e-tarifas-o-que-levou-a-volkswagen-a-cortar-projecoes-para-2026/",
+      "mentions": [],
+      "pubDate": "2026-09-20T18:37:23.293030+00:00"
+    },
+    {
+      "id": "1f687d01ef21",
+      "editorial": "beleza",
+      "scope": "nacional",
+      "source": "Exame",
+      "title": "Opinião: O mercado de beleza não acompanha as mudanças do consumidor",
+      "excerpt": "Dados mostram que renda regional é apenas uma das variáveis que influenciam a formação de preços no setor de beleza",
+      "image": null,
+      "link": "https://exame.com/bussola/opiniao-o-mercado-de-beleza-nao-acompanha-as-mudancas-do-consumidor/",
+      "mentions": [],
+      "pubDate": "2026-09-20T18:37:23.292670+00:00"
+    },
+    {
+      "id": "3ab7a9728175",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Exame",
+      "title": "Manda Brasa: de festa para amigos a festival com 1,5 tonelada de churrasco em antiga fábrica gaúcha",
+      "excerpt": "Em sua terceira edição, evento criado pelo grupo dono de marcas como 20BARRA9 e 1835 Carne e Brasa ganhou escala e reuniu 1.700 pessoas",
+      "image": null,
+      "link": "https://exame.com/negocios/manda-brasa-de-festa-para-amigos-a-festival-com-15-tonelada-de-churrasco-em-antiga-fabrica-gaucha/",
+      "mentions": [],
+      "pubDate": "2026-09-20T18:37:23.291602+00:00"
+    },
+    {
+      "id": "049a8f3312db",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Exame",
+      "title": "Fim do comprimido diário? Dose única pode controlar colesterol por um ano",
+      "excerpt": "Terapia genética desativou um gene no fígado e reduziu em cerca de 50% o LDL e os triglicerídeos nos pacientes",
+      "image": null,
+      "link": "https://exame.com/ciencia/fim-do-comprimido-diario-dose-unica-pode-controlar-colesterol-por-um-ano/",
+      "mentions": [],
+      "pubDate": "2026-09-20T18:37:23.289481+00:00"
     },
     {
       "id": "11851eb28794",
@@ -47,7 +71,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/glutationa-o-que-e-e-quais-os-beneficios-para-a-pele",
       "mentions": [],
-      "pubDate": "2026-09-20T15:50:00.492395+00:00"
+      "pubDate": "2026-09-20T18:37:18.368852+00:00"
     },
     {
       "id": "e486a6d380c4",
@@ -59,7 +83,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/peptideo-antiolheiras-o-que-e-e-quais-os-beneficios-falta-foto",
       "mentions": [],
-      "pubDate": "2026-09-20T15:50:00.492090+00:00"
+      "pubDate": "2026-09-20T18:37:18.368546+00:00"
     },
     {
       "id": "3c4346b2f749",
@@ -71,7 +95,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/serum-antiolheiras-reducao-de-olheiras-em-30-dias-e-outros-4-beneficios-para-regiao-dos-olhos",
       "mentions": [],
-      "pubDate": "2026-09-20T15:50:00.491881+00:00"
+      "pubDate": "2026-09-20T18:37:18.368339+00:00"
     },
     {
       "id": "b11322bbde3c",
@@ -83,7 +107,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/quais-tipos-de-olheiras-o-serum-antiolheiras-ajuda-a-tratar",
       "mentions": [],
-      "pubDate": "2026-09-20T15:50:00.491393+00:00"
+      "pubDate": "2026-09-20T18:37:18.367847+00:00"
     },
     {
       "id": "3153b4a4d606",
@@ -95,7 +119,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/como-usar-o-serum-antiolheiras",
       "mentions": [],
-      "pubDate": "2026-09-20T15:50:00.491193+00:00"
+      "pubDate": "2026-09-20T18:37:18.367641+00:00"
     },
     {
       "id": "bcec3ba36171",
@@ -107,7 +131,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/serum-antiolheiras-por-dentro-da-formula",
       "mentions": [],
-      "pubDate": "2026-09-20T15:50:00.491054+00:00"
+      "pubDate": "2026-09-20T18:37:18.367503+00:00"
     },
     {
       "id": "f1b9f678cbb7",
@@ -119,7 +143,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/sallve-recebe-ikesaki-para-dia-de-cocriacao-e-treinamento",
       "mentions": [],
-      "pubDate": "2026-09-20T15:50:00.490802+00:00"
+      "pubDate": "2026-09-20T18:37:18.367251+00:00"
     },
     {
       "id": "f93ddaff12a6",
@@ -131,7 +155,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/protetor-solar-antioleosidade-por-dentro-da-formula",
       "mentions": [],
-      "pubDate": "2026-09-20T15:50:00.490486+00:00"
+      "pubDate": "2026-09-20T18:37:18.366936+00:00"
     },
     {
       "id": "283ce354bb7c",
@@ -143,7 +167,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/como-usar-o-protetor-solar-antioleosidade",
       "mentions": [],
-      "pubDate": "2026-09-20T15:50:00.490198+00:00"
+      "pubDate": "2026-09-20T18:37:18.366647+00:00"
     },
     {
       "id": "9e9202d28a54",
@@ -155,19 +179,7 @@
       "image": null,
       "link": "https://www.sallve.com.br/blogs/sallve/protetor-solar-antioleosidade-conheca-5-beneficios-para-pele-oleosa",
       "mentions": [],
-      "pubDate": "2026-09-20T15:50:00.490056+00:00"
-    },
-    {
-      "id": "a668b324098e",
-      "editorial": "beleza",
-      "scope": "internacional",
-      "source": "Dazed",
-      "title": "Meet the creatives bringing Escentric Molecules’ disruptive new era to life",
-      "excerpt": "Model and actress Soap Collins, Kiss Facility musician Mayah Alkhateri, and performance artist Official XXIX give their unique take on the cult fragrance house’s iconic Molecule 01 and Escentric 01…",
-      "image": null,
-      "link": "https://www.dazeddigital.com/beauty/article/70931/1/escentric-molecules-soap-collins-kiss-facility-mayah-alkhateri-ratty-johnny?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=meet-the-creatives-bringing-escentric-molecules-disruptive-new-era-to-life",
-      "mentions": [],
-      "pubDate": "2026-09-20T15:49:48.765768+00:00"
+      "pubDate": "2026-09-20T18:37:18.366505+00:00"
     },
     {
       "id": "605260cc62b3",
@@ -179,7 +191,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/fashion/article/70981/1/collina-strada-whimsy-maxxes-for-ss27-detour-new-york-fashion-week?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=collina-strada-ss27-brings-whimsymaxxing-to-new-york-fashion-week",
       "mentions": [],
-      "pubDate": "2026-09-20T15:49:48.765367+00:00"
+      "pubDate": "2026-09-20T18:37:10.832081+00:00"
     },
     {
       "id": "17c19bd6a07e",
@@ -191,7 +203,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/beauty/article/70977/1/whitechapel-new-language-east-london-new-school-tattoo-collective?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=get-to-know-new-language-east-london-s-new-school-tattoo-collective",
       "mentions": [],
-      "pubDate": "2026-09-20T15:49:48.764966+00:00"
+      "pubDate": "2026-09-20T18:37:10.831692+00:00"
     },
     {
       "id": "681d1070c1e4",
@@ -203,7 +215,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/fashion/article/70962/1/zalando-bread-and-butter-festival-berlin?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=inside-the-2010s-berlin-festival-that-merged-fashion-music-youth-culture",
       "mentions": [],
-      "pubDate": "2026-09-20T15:49:48.764584+00:00"
+      "pubDate": "2026-09-20T18:37:10.831329+00:00"
     },
     {
       "id": "6c516a30e467",
@@ -215,7 +227,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/fashion/article/70982/1/new-york-fashion-week-ss27-nyfw-proenza-schouler-calvin-klein-ella-mae-rio?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-standout-shows-from-new-york-fashion-week-ss27",
       "mentions": [],
-      "pubDate": "2026-09-20T15:49:48.763923+00:00"
+      "pubDate": "2026-09-20T18:37:10.830630+00:00"
     },
     {
       "id": "09ff1d769e6a",
@@ -227,7 +239,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/fashion/article/70991/1/hm-show-nick-knight-showstudio-alex-consani-london-fashion-week-kim-petras?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=hm-and-showstudio-search-for-romance-and-human-connection-for-aw26",
       "mentions": [],
-      "pubDate": "2026-09-20T15:49:48.762768+00:00"
+      "pubDate": "2026-09-20T18:37:10.829467+00:00"
     },
     {
       "id": "ad09eb53359c",
@@ -239,7 +251,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/fashion/article/70989/1/kai-ghattaura-fin-forsyth-london-fashion-week-best-shows-off-schedule-ss27?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=kai-ghattaura-and-fin-forsyth-ss27-inside-lfw-s-wildest-off-schedule-show",
       "mentions": [],
-      "pubDate": "2026-09-20T15:49:48.762334+00:00"
+      "pubDate": "2026-09-20T18:37:10.829035+00:00"
     },
     {
       "id": "ceff171d88ee",
@@ -251,7 +263,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/fashion/article/70995/1/petra-fagerstrom-ss27-london-fashion-week-lfw-ai-trad-wives?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=petra-fagerstrom-takes-on-trad-wives-and-ai-for-ss27",
       "mentions": [],
-      "pubDate": "2026-09-20T15:49:48.761882+00:00"
+      "pubDate": "2026-09-20T18:37:10.828603+00:00"
     },
     {
       "id": "6ffabe42be60",
@@ -263,7 +275,7 @@
       "image": null,
       "link": "https://www.dazeddigital.com/fashion/article/70998/1/cigarettes-central-cee-fashion-east-ss27-lfw-london-fashion-week?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=from-cigarettes-to-central-cee-this-was-fashion-east-ss27",
       "mentions": [],
-      "pubDate": "2026-09-20T15:49:48.761523+00:00"
+      "pubDate": "2026-09-20T18:37:10.828269+00:00"
     },
     {
       "id": "bfbd2483fa8d",
@@ -275,7 +287,55 @@
       "image": null,
       "link": "https://www.dazeddigital.com/fashion/article/70997/1/aaron-esh-ss27-london-fashion-week-lfw?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=aaron-esh-ss27-finally-sees-life-in-technicolour",
       "mentions": [],
-      "pubDate": "2026-09-20T15:49:48.761183+00:00"
+      "pubDate": "2026-09-20T18:37:10.827917+00:00"
+    },
+    {
+      "id": "19f7fa09f045",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Dazed",
+      "title": "OnlyFans, Katie Price and The Sopranos: Inside a fever dream fashion show",
+      "excerpt": "At London Fashion Week, the Ukrainian designer Natasha Zinko staged a blockbuster show inside a panopticon, with chaotic clothes and unhinged guest appearances",
+      "image": null,
+      "link": "https://www.dazeddigital.com/fashion/article/70996/1/natasha-zinko-ss27-london-fashion-week-lfw-katie-price-onlyfans-the-sopranos?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=onlyfans-katie-price-and-the-sopranos-inside-a-fever-dream-fashion-show",
+      "mentions": [],
+      "pubDate": "2026-09-20T18:37:10.827579+00:00"
+    },
+    {
+      "id": "a5bcb2099d48",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Elle US",
+      "title": "Katy Perry and Justin Trudeau Had an Affectionate Date Night at the Lucas Museum Opening Gala",
+      "excerpt": "",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/9ab116fc-ba4c-44ad-ba30-c19412fb0831.jpeg",
+      "link": "https://www.elle.com/culture/celebrities/a73810915/katy-perry-justin-trudeau-date-night-lucas-museum-photos/",
+      "mentions": [],
+      "pubDate": "2026-09-20T18:31:45+00:00"
+    },
+    {
+      "id": "21d115fb826e",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Emilia Wickstead Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6aafbeb09705b01c9168aa78/master/pass/00001-emilia-wickstead-spring-2027-ready-to-wear-credit-brand.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/emilia-wickstead",
+      "mentions": [],
+      "pubDate": "2026-09-20T18:31:43+00:00"
+    },
+    {
+      "id": "6383576b4004",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Roksanda Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6ab02637cd554fcf6fc3a387/master/pass/00001-roksanda-spring-2027-ready-to-wear-credit-gorunway.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/roksanda",
+      "mentions": [],
+      "pubDate": "2026-09-20T18:31:43+00:00"
     },
     {
       "id": "7b42980d4b67",
@@ -284,10 +344,10 @@
       "source": "Vogue US",
       "title": "Charlie Constantinou Spring 2027 Ready-to-Wear",
       "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6aaffa8bd329c6a2062c73e5/master/pass/UMB00018.jpg",
+      "image": "https://assets.vogue.com/photos/6ab0155c2585d4a0243da720/master/pass/00001-charlie-constantinou-spring-2027-ready-to-wear-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/charlie-constantinou",
       "mentions": [],
-      "pubDate": "2026-09-20T15:44:43+00:00"
+      "pubDate": "2026-09-20T18:31:43+00:00"
     },
     {
       "id": "4adc92b651f0",
@@ -296,10 +356,10 @@
       "source": "Vogue US",
       "title": "Mulberry Spring 2027 Ready-to-Wear",
       "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6aafeed0d935136ae6382734/master/pass/OBY00011.jpg",
+      "image": "https://assets.vogue.com/photos/6ab00d7b775f1585813db6e7/master/pass/00001-mulberry-spring-2027-ready-to-wear-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/mulberry",
       "mentions": [],
-      "pubDate": "2026-09-20T15:44:43+00:00"
+      "pubDate": "2026-09-20T18:31:43+00:00"
     },
     {
       "id": "4aa07595c845",
@@ -311,7 +371,7 @@
       "image": "https://assets.vogue.com/photos/6aaff98e732bef9fc6906a2c/master/pass/00001-labrum-london-spring-2027-ready-to-wear-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/labrum-london",
       "mentions": [],
-      "pubDate": "2026-09-20T15:44:43+00:00"
+      "pubDate": "2026-09-20T18:31:43+00:00"
     },
     {
       "id": "ff6119c1035d",
@@ -323,7 +383,7 @@
       "image": "https://assets.vogue.com/photos/6aac27f07f4be58c79773cd8/master/pass/00001-blauer-spring-2027-ready-to-wear-credit-brand.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/blauer",
       "mentions": [],
-      "pubDate": "2026-09-20T15:44:43+00:00"
+      "pubDate": "2026-09-20T18:31:43+00:00"
     },
     {
       "id": "e6afc6ca38ae",
@@ -335,7 +395,7 @@
       "image": "https://assets.vogue.com/photos/6aafefc5a0bd64002059b9cb/master/pass/00001-erdem-spring-2027-ready-to-wear-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/erdem",
       "mentions": [],
-      "pubDate": "2026-09-20T15:44:43+00:00"
+      "pubDate": "2026-09-20T18:31:43+00:00"
     },
     {
       "id": "95c70ad0aad5",
@@ -347,7 +407,7 @@
       "image": "https://assets.vogue.com/photos/6aafd893a14e44b3abf28290/master/pass/00001-edeline-lee-spring-2027-ready-to-wear-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/edeline-lee",
       "mentions": [],
-      "pubDate": "2026-09-20T15:44:43+00:00"
+      "pubDate": "2026-09-20T18:31:43+00:00"
     },
     {
       "id": "a459df3cdcff",
@@ -359,7 +419,7 @@
       "image": "https://assets.vogue.com/photos/6aafcaaf2cf33a965f5ed9b7/master/pass/00001-yaku-spring-2027-ready-to-wear-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/yaku",
       "mentions": [],
-      "pubDate": "2026-09-20T15:44:43+00:00"
+      "pubDate": "2026-09-20T18:31:43+00:00"
     },
     {
       "id": "9ac6a8508dee",
@@ -371,31 +431,201 @@
       "image": "https://assets.vogue.com/photos/6aafcf259169accca6524ef0/master/pass/00001-simone-rocha-spring-2027-ready-to-wear-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/simone-rocha",
       "mentions": [],
-      "pubDate": "2026-09-20T15:44:43+00:00"
+      "pubDate": "2026-09-20T18:31:43+00:00"
     },
     {
-      "id": "bcc39edff512",
+      "id": "7e06a1df6627",
       "editorial": "moda",
       "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Steve O Smith Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6aae79b6394d6cc4fe120ce6/master/pass/00001-steve-o-smith-spring-2027-ready-to-wear-credit-brand.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/steve-o-smith",
+      "source": "Elle US",
+      "title": "Christopher Kane Takes an Axe to Mulberry for His Debut Show",
+      "excerpt": "The designer reimagined British heritage with sharp cutouts, cool grays, and off-kilter bags.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/a919d252-db78-4a5c-b51e-6ab9bd1497c3.jpg",
+      "link": "https://www.elle.com/runway/a73808024/mulberry-spring-2027-review/",
       "mentions": [],
-      "pubDate": "2026-09-20T15:44:43+00:00"
+      "pubDate": "2026-09-20T18:24:16+00:00"
     },
     {
-      "id": "4e9bafad0bb0",
+      "id": "3731d15237f7",
       "editorial": "moda",
       "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Chopova Lowena Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6aaf004f994247fc8ca754b7/master/pass/00001-chopova-lowena-spring-2027-ready-to-wear-credit-gorunway.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/chopova-lowena",
+      "source": "Who What Wear",
+      "title": "Christopher Kane's Mulberry Debut Gives the Heritage Brand a Sharp New Direction",
+      "excerpt": "Natalie Munro is Who What Wear UK’s news writer. Having worked in the fashion industry since her time at university—where she obtained a BA in Journalism from University of the Arts London, Natalie's…",
+      "image": "https://cdn.mos.cms.futurecdn.net/JX8R3ZAzminKVtZkoWnd98-1920-80.jpg",
+      "link": "https://www.whowhatwear.com/fashion/runway/mulberry-spring-summer-27-review",
       "mentions": [],
-      "pubDate": "2026-09-20T15:44:43+00:00"
+      "pubDate": "2026-09-20T18:11:25+00:00"
+    },
+    {
+      "id": "511ec6c5568a",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "WWD",
+      "title": "Toga Spring 2026: Breathing in Summer Air",
+      "excerpt": "Designer Yasuko Furuta showed how to layer for summer when even clothes feel like too much.",
+      "image": null,
+      "link": "https://wwd.com/runway/spring-2027/london/toga/review/",
+      "mentions": [],
+      "pubDate": "2026-09-20T18:11:17+00:00"
+    },
+    {
+      "id": "f7d168d67819",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Harper's Bazaar Brasil",
+      "title": "“O cavalo transformou a minha vida”, diz Doda Miranda",
+      "excerpt": "A trajetória de Doda Miranda se confunde com alguns dos momentos mais importantes do hipismo brasileiro. Cavaleiro olímpico e nome de projeção internacional, ele construiu grande parte da carreira…",
+      "image": "https://harpersbazaar.uol.com.br/wp-content/uploads/2026/09/IMG_1454-768x1152.jpg",
+      "link": "https://harpersbazaar.uol.com.br/estilo-de-vida/o-cavalo-transformou-a-minha-vida-diz-doda-miranda/",
+      "mentions": [],
+      "pubDate": "2026-09-20T17:52:01+00:00"
+    },
+    {
+      "id": "37f9d091accc",
+      "editorial": "cultura",
+      "scope": "internacional",
+      "source": "Harper's Bazaar US",
+      "title": "Céline Dion Has the Best Reaction to Her Cheering Fans",
+      "excerpt": "See all the photos",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/21c603cd-9422-4b68-a55b-b00549ab2437.jpg",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73810311/celine-dion-reacts-to-cheering-fans-paris-photos/",
+      "mentions": [],
+      "pubDate": "2026-09-20T17:50:09+00:00"
+    },
+    {
+      "id": "5170e23dd0e8",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "WWD",
+      "title": "First Look: Nike’s Futuristic Foamposite Is Getting a New ‘Mummy Duck’ Colorway in Black",
+      "excerpt": "The University of Oregon's exclusive style will be released to the public.",
+      "image": null,
+      "link": "https://wwd.com/footwear-news/sneaker-news/nike-air-foamposite-pro-mummy-duck-black-barely-volt-iz7806-001-1239249051/",
+      "mentions": [],
+      "pubDate": "2026-09-20T17:43:05+00:00"
+    },
+    {
+      "id": "8e1247372caf",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue UK",
+      "title": "Onalaja Didn’t Let A Studio Fire Stop Her Staging A Joyful LFW Debut",
+      "excerpt": "Onalaja gives British Vogue an exclusive preview and studio tour ahead of London Fashion Week spring/summer 2027.",
+      "image": "https://media.vogue.co.uk/photos/6aaabfc0b727e1bffc7d3aa3/master/pass/AN-160926-000000220002.jpg",
+      "link": "https://www.vogue.co.uk/article/onalaja-ss27",
+      "mentions": [],
+      "pubDate": "2026-09-20T17:30:00+00:00"
+    },
+    {
+      "id": "25e804a27487",
+      "editorial": "moda",
+      "scope": "nacional",
+      "source": "Harper's Bazaar Brasil",
+      "title": "Simone Rocha e um romance de verão à la Caravaggio",
+      "excerpt": "Neste domingo, Simone Rocha apresentou sua Primavera/Verão 2027 na Semana de Moda de Londres mantendo bem vivos os códigos que já fazem parte da sua assinatura: flores, laços, transparências, babados…",
+      "image": "https://harpersbazaar.uol.com.br/wp-content/uploads/2026/09/simone-rocha-768x1021.jpg",
+      "link": "https://harpersbazaar.uol.com.br/moda/simone-rocha-e-um-romance-de-verao-a-la-caravaggio/",
+      "mentions": [],
+      "pubDate": "2026-09-20T17:26:42+00:00"
+    },
+    {
+      "id": "977fc7908b1a",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Elle US",
+      "title": "Taylor Swift Chose a Timeless Little Black Dress for a Dinner Date With Travis Kelce",
+      "excerpt": "",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ab3ec5a1-c47d-46d4-9956-125dc26f7f2c.jpeg",
+      "link": "https://www.elle.com/culture/celebrities/a73809229/taylor-swift-black-dress-travis-kelce-dinner-date-september-2026/",
+      "mentions": [],
+      "pubDate": "2026-09-20T17:25:56+00:00"
+    },
+    {
+      "id": "6239e603493f",
+      "editorial": "cultura",
+      "scope": "internacional",
+      "source": "The Cut",
+      "title": "Ed Sheeran Finally Spoke Out on Gaza",
+      "excerpt": "“My heart has been broken by the scale of devastation.”",
+      "image": "https://pyxis.nymag.com/v1/imgs/7d8/fc3/4dbf8ca9d0c6f9a9b0ea4a36e87d29a8ec-GettyImages-2254867524.1x.rsocial.w1200.jpg",
+      "link": "http://www.thecut.com/article/ed-sheeran-finally-spoke-gaza.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "mentions": [],
+      "pubDate": "2026-09-20T16:53:27+00:00"
+    },
+    {
+      "id": "f12f893150c4",
+      "editorial": "cultura",
+      "scope": "internacional",
+      "source": "WWD",
+      "title": "Tracee Ellis Ross Cozies Up in Faux-Fur Bottega Veneta Look Pulled Straight Off the Runway at Lucas Museum of Narrative Art Opening Night Gala",
+      "excerpt": "The gala was well-attended by a slew of stars, from actors to musicians.",
+      "image": null,
+      "link": "https://wwd.com/pop-culture/celebrity-news/tracee-ellis-ross-bottega-veneta-lucas-museum-opening-gala-1239248570/",
+      "mentions": [],
+      "pubDate": "2026-09-20T16:12:02+00:00"
+    },
+    {
+      "id": "fb668542c9a2",
+      "editorial": "cultura",
+      "scope": "internacional",
+      "source": "WWD",
+      "title": "Zara Larsson Shines on Stage in Custom PC Footwear Metallic Pink Booties at 2026 iHeartRadio Music Festival",
+      "excerpt": "Larsson constantly taps the brand for custom knee-high styles both on and off stage.",
+      "image": null,
+      "link": "https://wwd.com/footwear-news/shoe-trends/zara-larsson-pc-footwear-2026-iheartradio-music-festival-1239248426/",
+      "mentions": [
+        "Zara"
+      ],
+      "pubDate": "2026-09-20T16:11:43+00:00"
+    },
+    {
+      "id": "6b4b8aa90c5d",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "WWD",
+      "title": "Stephen Jones Plants a Garden, With Blooms Inspired by Australia’s Multicultural Landscape",
+      "excerpt": "The milliner took inspiration from the different cultures in his beloved Australia, transforming national and traditional flowers into hats and headpieces.",
+      "image": null,
+      "link": "https://wwd.com/fashion-news/fashion-features/stephen-jones-plants-garden-blooms-australia-multi-cultural-1239247809/",
+      "mentions": [],
+      "pubDate": "2026-09-20T16:07:21+00:00"
+    },
+    {
+      "id": "fd84fd3a2640",
+      "editorial": "cultura",
+      "scope": "nacional",
+      "source": "Capricho",
+      "title": "5 erros que você pode estar cometendo ao tentar esquecer alguém",
+      "excerpt": "Enfrentar um término na adolescência pode ser doloroso. Confira alguns erros comuns que, sem perceber, podem te atrapalhar a encerrar um ciclo.",
+      "image": "https://capricho.abril.com.br/wp-content/uploads/2020/05/gettyimages-909590092-1.jpg",
+      "link": "https://capricho.abril.com.br/comportamento/5-erros-que-voce-pode-estar-cometendo-ao-tentar-esquecer-alguem/",
+      "mentions": [],
+      "pubDate": "2026-09-20T16:00:16+00:00"
+    },
+    {
+      "id": "2cff0c994152",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "WWD",
+      "title": "Timberland’s 6-inch Boot Gets a Special-edition Stud-embellished Release That’s Available Now",
+      "excerpt": "The women's Stud Collection includes the Stone Street Platform 6-Inch Boot and Stone Street Platform Boat Shoe.",
+      "image": null,
+      "link": "https://wwd.com/footwear-news/sneaker-news/timberland-stone-street-platform-6-inch-boot-stud-collection-1239248444/",
+      "mentions": [],
+      "pubDate": "2026-09-20T15:53:32+00:00"
+    },
+    {
+      "id": "7716983c1435",
+      "editorial": "cultura",
+      "scope": "internacional",
+      "source": "Harper's Bazaar US",
+      "title": "Anne Hathaway and Dakota Johnson Offer Two Takes on This Cozy Fall Silhouette",
+      "excerpt": "They coordinated for Verity press in NYC",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/63fde8e8-616b-445b-8d49-d851a00410ff.jpg",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a73809731/anne-hathaway-dakota-johnson-coordinate-cozy-fall-looks-verity-press-tour-photos/",
+      "mentions": [],
+      "pubDate": "2026-09-20T15:49:12+00:00"
     },
     {
       "id": "acdff9e836fe",
@@ -530,18 +760,6 @@
       "pubDate": "2026-09-20T14:00:00+00:00"
     },
     {
-      "id": "edbd97a10676",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "WWD",
-      "title": "Yuhan Wang Spring 2027: Sweet Dreams, Beautiful Nightmare",
-      "excerpt": "The designer dialed up her trademark fragility into something more sensual, blurring lingerie and daywear in a slow, voyeuristic march.",
-      "image": null,
-      "link": "https://wwd.com/runway/spring-2027/london/yuhan-wang/review/",
-      "mentions": [],
-      "pubDate": "2026-09-20T13:38:33+00:00"
-    },
-    {
       "id": "2e7a6928fc54",
       "editorial": "lifestyle",
       "scope": "nacional",
@@ -602,18 +820,6 @@
       "pubDate": "2026-09-20T13:05:51+00:00"
     },
     {
-      "id": "6f0a4a2b0bb9",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "WWD",
-      "title": "Pauline Dujancourt Spring 2027: Out of the Shadows",
-      "excerpt": "The London-based French designer, who won the 2026 ANDAM Special Prize, explored new woven textiles beyond knitwear and bridal designs.",
-      "image": null,
-      "link": "https://wwd.com/runway/spring-2027/london/pauline-dujancourt/review/",
-      "mentions": [],
-      "pubDate": "2026-09-20T13:02:11+00:00"
-    },
-    {
       "id": "e92e7f19b0b3",
       "editorial": "cultura",
       "scope": "nacional",
@@ -636,18 +842,6 @@
       "link": "https://elle.com.br/lifestyle/lugares-para-comprar-bons-ingredientes",
       "mentions": [],
       "pubDate": "2026-09-20T13:00:03+00:00"
-    },
-    {
-      "id": "59bf52ff29c0",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "WWD",
-      "title": "Knwls Spring 2027: Time to Grow Up",
-      "excerpt": "Crushed roses and phantom tulle brought a sharper polish and a surprisingly bourgeois swagger to the brand's 10th anniversary warm-up.",
-      "image": null,
-      "link": "https://wwd.com/runway/spring-2027/london/knwls/review/",
-      "mentions": [],
-      "pubDate": "2026-09-20T12:59:15+00:00"
     },
     {
       "id": "0c249efda785",
@@ -720,18 +914,6 @@
       "link": "https://www.elle.com/culture/movies-tv/a73792510/lioness-season-4-news-cast-plot-release-date/",
       "mentions": [],
       "pubDate": "2026-09-20T12:00:00+00:00"
-    },
-    {
-      "id": "48c54c3d85c3",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "WWD",
-      "title": "Paolo Carzana Spring 2027: Mysteries of the Cloth",
-      "excerpt": "There was lots of handcraft and textures making for beautiful sculptural imagery but the commercial viability was unclear.",
-      "image": null,
-      "link": "https://wwd.com/runway/spring-2027/london/paolo-carzana/review/",
-      "mentions": [],
-      "pubDate": "2026-09-20T11:47:28+00:00"
     },
     {
       "id": "782736acc1ea",
@@ -1046,18 +1228,6 @@
       "pubDate": "2026-09-20T07:58:12+00:00"
     },
     {
-      "id": "506f669dc174",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "WWD",
-      "title": "Chopova Lowena Spring 2027: On Pins and Needles",
-      "excerpt": "The London duo imagined a Slavic fever dream where female figures of pagan folklore meet 1950s league-night chic.",
-      "image": null,
-      "link": "https://wwd.com/runway/spring-2027/london/chopova-lowena/review/",
-      "mentions": [],
-      "pubDate": "2026-09-20T07:30:13+00:00"
-    },
-    {
       "id": "9862892ec7b0",
       "editorial": "em-pauta",
       "scope": "nacional",
@@ -1068,18 +1238,6 @@
       "link": "https://revistamarieclaire.globo.com/retratos/noticia/2026/09/paola-carosella-explica-por-que-passou-a-proteger-mais-a-filha-da-exposicao-apos-polemica-nao-e-um-lugar-seguro.ghtml",
       "mentions": [],
       "pubDate": "2026-09-20T07:29:00+00:00"
-    },
-    {
-      "id": "ef27d396cb74",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "WWD",
-      "title": "Ahluwalia Spring 2027: Ode to Joy in Resistance",
-      "excerpt": "The designer turned out a sensual, elegant collection based on the notion that public activism doesn’t require personal ascetism and that joy as much as human connections are acts of resistance.",
-      "image": null,
-      "link": "https://wwd.com/runway/spring-2027/london/ahluwalia/review/",
-      "mentions": [],
-      "pubDate": "2026-09-20T07:14:17+00:00"
     },
     {
       "id": "3c608de21aeb",
@@ -1238,18 +1396,6 @@
       "pubDate": "2026-09-20T06:00:00+00:00"
     },
     {
-      "id": "6628bb35fae9",
-      "editorial": "beleza",
-      "scope": "internacional",
-      "source": "Who What Wear",
-      "title": "Confirmed: Professional Makeup Artists Swear By These Products for Mature Skin",
-      "excerpt": "As WWW UK’s junior writer, Brittany focuses on creating compelling fashion, shopping and beauty content for site, and works closely with the Managing Editor on recurring columns and franchises. She…",
-      "image": "https://cdn.mos.cms.futurecdn.net/mkRidUr2cZ9mn7TQtDcoLg-1920-80.jpg",
-      "link": "https://www.whowhatwear.com/beauty/makeup/best-makeup-for-mature-skin",
-      "mentions": [],
-      "pubDate": "2026-09-20T06:00:00+00:00"
-    },
-    {
       "id": "da55f605dc95",
       "editorial": "lifestyle",
       "scope": "internacional",
@@ -1344,18 +1490,6 @@
       "link": "https://hypebeast.com/2026/9/new-arrivals-from-hbx-human-made-10",
       "mentions": [],
       "pubDate": "2026-09-20T01:30:36+00:00"
-    },
-    {
-      "id": "6f3498710a68",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "WWD",
-      "title": "Naomi Campbell, Lady Gaga: Why a Reproduction of ‘Plato’s Atlantis’ Look One Broke McQueen’s Auction Record",
-      "excerpt": "The skirt set complete with Armadillo shoes sold for $1.586 million three days ahead of the British label’s return to London Fashion Week.",
-      "image": null,
-      "link": "https://wwd.com/fashion-news/fashion-scoops/platos-atlantis-look-one-breaks-mcqueens-auction-record-1239247547/",
-      "mentions": [],
-      "pubDate": "2026-09-20T00:20:29+00:00"
     },
     {
       "id": "c8f986700c32",
@@ -1494,18 +1628,6 @@
       "pubDate": "2026-09-19T20:13:07+00:00"
     },
     {
-      "id": "c26de1ba96ee",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "Capricho",
-      "title": "Trechos do novo álbum da Miley Cyrus para usar na legenda do Instagram",
-      "excerpt": "‘Bass Persuades’ foi lançado nesta sexta-feira (18), e as letras das músicas podem ser a inspiração perfeita para legendar seus posts nas redes sociais.",
-      "image": "https://capricho.abril.com.br/wp-content/uploads/2026/09/Copia-de-THUMB-MATERIAS-97.png",
-      "link": "https://capricho.abril.com.br/comportamento/trechos-do-novo-album-da-miley-cyrus-para-usar-na-legenda-do-instagram/",
-      "mentions": [],
-      "pubDate": "2026-09-19T20:00:32+00:00"
-    },
-    {
       "id": "389b0a0aeff8",
       "editorial": "moda",
       "scope": "nacional",
@@ -1566,18 +1688,6 @@
       "link": "https://www.harpersbazaar.com/celebrity/latest/a73800777/zoe-kravitz-ballet-flat-update-street-style-photos/",
       "mentions": [],
       "pubDate": "2026-09-19T18:10:00+00:00"
-    },
-    {
-      "id": "331303cd2a12",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue UK",
-      "title": "Talia Byre Teases A Topshop Collaboration At London Fashion Week",
-      "excerpt": "Talia Byre previewed her collaboration with Topshop at London Fashion Week, via brogues and boots.",
-      "image": "https://media.vogue.co.uk/photos/6aaecb5205459f315f765e21/master/pass/260919%20Talia%20Byre%20SS27%200139.jpg",
-      "link": "https://www.vogue.co.uk/article/talia-byre-topshop-collaboration",
-      "mentions": [],
-      "pubDate": "2026-09-19T17:54:42+00:00"
     },
     {
       "id": "a2811f6deccd",
@@ -2161,42 +2271,6 @@
       "pubDate": "2026-09-19T02:00:00+00:00"
     },
     {
-      "id": "a8e864519648",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Elle US",
-      "title": "Who Is Miley Cyrus’s Fiancé? All About Maxx Morando and Their ‘Low-Key’ Romance",
-      "excerpt": "",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/128d2488-5ac9-45d8-bacb-1bdb76cd64be.jpeg",
-      "link": "https://www.elle.com/culture/celebrities/a38701583/miley-cyrus-new-boyfriend-maxx-morando/",
-      "mentions": [],
-      "pubDate": "2026-09-19T01:23:55+00:00"
-    },
-    {
-      "id": "70b05e2feb0f",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Elle US",
-      "title": "How to Watch Every Episode of Outlander: Blood of My Blood Season 2",
-      "excerpt": "",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/bmb1-107-050724-0240-a-f-68c471d166434.jpg",
-      "link": "https://www.elle.com/culture/movies-tv/a73795030/outlander-blood-of-my-blood-season-2-release-schedule/",
-      "mentions": [],
-      "pubDate": "2026-09-19T01:19:31+00:00"
-    },
-    {
-      "id": "c16484026818",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Elle US",
-      "title": "How to Watch Jay-Z’s Jaÿ-Z in 8 Docuseries",
-      "excerpt": "",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/006f08dd-04ce-47af-bd6c-45a1844cda87.jpeg",
-      "link": "https://www.elle.com/culture/movies-tv/a73793917/jay-z-in-8-release-schedule/",
-      "mentions": [],
-      "pubDate": "2026-09-19T00:53:51+00:00"
-    },
-    {
       "id": "646c867c2770",
       "editorial": "cultura",
       "scope": "internacional",
@@ -2401,18 +2475,6 @@
       "pubDate": "2026-09-18T18:35:04+00:00"
     },
     {
-      "id": "b1921ce5eea2",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Harper's Bazaar US",
-      "title": "Naomi Campbell’s “Plato’s Atlantis” McQueen Ensemble Sold for $1.6 Million",
-      "excerpt": "Fair Warning’s couture auction broke records for McQueen, Saint Laurent, and Alaïa sales",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/858e4cef-12f9-4614-9903-e487fc795a39.jpg",
-      "link": "https://www.harpersbazaar.com/fashion/a73790209/fair-warning-impossible-couture-collection-auction-record-mcqueen-platos-atlantis/",
-      "mentions": [],
-      "pubDate": "2026-09-18T18:27:02+00:00"
-    },
-    {
       "id": "1147e9cc28b4",
       "editorial": "cultura",
       "scope": "nacional",
@@ -2447,18 +2509,6 @@
       "link": "http://www.thecut.com/article/sale-rag-and-bone-charlotte-tilbury-graco.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
       "mentions": [],
       "pubDate": "2026-09-18T18:15:45+00:00"
-    },
-    {
-      "id": "e3c53b147bd2",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Harper's Bazaar US",
-      "title": "Glenn Martens Is Leaving Diesel",
-      "excerpt": "The Belgian designer will now focus solely on his role at Maison Margiela",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/6bd27dff-b6c1-4bb0-bcd0-7e4968c0dc28.jpg",
-      "link": "https://www.harpersbazaar.com/fashion/a73792218/glenn-martens-diesel-exit-announcement/",
-      "mentions": [],
-      "pubDate": "2026-09-18T18:09:54+00:00"
     },
     {
       "id": "d4692e04ac5d",
@@ -2557,30 +2607,6 @@
       "link": "https://harpersbazaar.uol.com.br/moda/glenn-martens-deixa-a-direcao-criativa-da-diesel/",
       "mentions": [],
       "pubDate": "2026-09-18T17:17:50+00:00"
-    },
-    {
-      "id": "5328e1fc4ce6",
-      "editorial": "moda",
-      "scope": "nacional",
-      "source": "Harper's Bazaar Brasil",
-      "title": "London Fashion Week 2026: os destaques do primeiro dia",
-      "excerpt": "A London Fashion Week 2026 começou na quinta-feira (17) e apresenta as coleções de primavera/verão 2027 até segunda-feira (21). Esta é a primeira edição da semana de moda londrina sob o comando de…",
-      "image": "https://harpersbazaar.uol.com.br/wp-content/uploads/2025/09/pauline-768x1152.jpg",
-      "link": "https://harpersbazaar.uol.com.br/moda/london-fashion-week-2026-primeiro-dia-desfiles/",
-      "mentions": [],
-      "pubDate": "2026-09-18T17:11:57+00:00"
-    },
-    {
-      "id": "eb897e488357",
-      "editorial": "cultura",
-      "scope": "internacional",
-      "source": "The Cut",
-      "title": "Daisy Davenport Is No Molly McIntire",
-      "excerpt": "The new Girl of the Year 2027 can’t fix what American Girl has broken.",
-      "image": "https://pyxis.nymag.com/v1/imgs/76a/20f/0c8d38d3f9a15ed2f4b7bac356aa58329a-americangirl.1x.rsocial.w1200.jpg",
-      "link": "http://www.thecut.com/article/american-girl-girl-of-the-year-2027-daisy-davenport-is-no-molly-mcintire.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "mentions": [],
-      "pubDate": "2026-09-18T17:04:27+00:00"
     },
     {
       "id": "b16e07b2c1f5",
@@ -2749,18 +2775,6 @@
       "link": "https://fashionista.com/2026/09/celebrity-styling-internship-fall-winter-2026-los-angeles",
       "mentions": [],
       "pubDate": "2026-09-18T14:57:54+00:00"
-    },
-    {
-      "id": "e0c50700b3b8",
-      "editorial": "moda",
-      "scope": "nacional",
-      "source": "Harper's Bazaar Brasil",
-      "title": "Catarina Tourinho marca presença em gala da BrazilFoundation",
-      "excerpt": "Catarina Tourinho e Alessandra Ambrosio estiveram entre os destaques do New York Gala da BrazilFoundation, realizado na noite de quinta-feira (17), no The Plaza Hotel, em Nova York. Com o conceito…",
-      "image": "https://harpersbazaar.uol.com.br/wp-content/uploads/2026/09/Untitled-design-768x483.jpeg",
-      "link": "https://harpersbazaar.uol.com.br/moda/catarina-tourinho-marca-presenca-em-gala-da-brazilfoundation/",
-      "mentions": [],
-      "pubDate": "2026-09-18T14:54:19+00:00"
     },
     {
       "id": "032ea37100b2",
@@ -3485,18 +3499,6 @@
       "pubDate": "2026-09-16T00:21:34+00:00"
     },
     {
-      "id": "1eb14ae4333b",
-      "editorial": "cultura",
-      "scope": "internacional",
-      "source": "Monocle",
-      "title": "New design festival Currents adds a fresh spark to Berlin Art Week",
-      "excerpt": "Mid-September is a vernissage-packed time in the German capital, with almost every art gallery in the city opening its autumn show during the annual Berlin Art Week. And, thanks to Currents – a new…",
-      "image": "https://monocle.com/wp-content/uploads/2026/09/1-Berlin_CROP.png?w=1094&#038;resize=1094%2C730",
-      "link": "https://monocle.com/design/new-festival-currents-fresh-spark-berlin-art-week/",
-      "mentions": [],
-      "pubDate": "2026-09-15T23:01:00+00:00"
-    },
-    {
       "id": "c501626ed65a",
       "editorial": "lifestyle",
       "scope": "internacional",
@@ -3677,18 +3679,6 @@
         "Louis Vuitton"
       ],
       "pubDate": "2026-09-15T08:00:00+00:00"
-    },
-    {
-      "id": "c709c5494ba2",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "Forbes",
-      "title": "Bob Mackie, Lendário Figurinista de Hollywood, Morre Aos 87 Anos",
-      "excerpt": "Vencedor de nove Emmys e indicado a três Oscars, Mackie ficou conhecido pelos figurinos extravagantes que criou para Cher, Carol Burnett e outras estrelas ao longo de seis décadas de carreira O post…",
-      "image": null,
-      "link": "https://forbes.com.br/forbes-life/2026/09/bob-mackie-lendario-figurinista-de-hollywood-morre-aos-87-anos/",
-      "mentions": [],
-      "pubDate": "2026-09-14T17:55:28+00:00"
     }
   ]
 }
