@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-21T12:31:03.946435+00:00",
+  "generatedAt": "2026-09-21T19:12:29.937336+00:00",
   "items": [
+    {
+      "id": "0f6d6051133b",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Burberry Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6ab1795333ff9718f05862e0/master/pass/Burberry_S27_001.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/burberry-prorsum",
+      "mentions": [
+        "Burberry"
+      ],
+      "pubDate": "2026-09-21T19:06:41+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "8d358f2e537e",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Brooks Brothers Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6aaeddd71eb29bd6b9025e94/master/pass/00001-brooks-brothers-spring-2027-ready-to-wear-credit-brand.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/brooks-brothers",
+      "mentions": [],
+      "pubDate": "2026-09-21T19:06:41+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "b27c72056748",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Huishan Zhang Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6aad5d05b336e556ffde89b2/master/pass/00001-huishan-zhang-spring-2027-ready-to-wear-credit-brand.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/huishan-zhang",
+      "mentions": [],
+      "pubDate": "2026-09-21T19:06:41+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "5910f4ccd357",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Bianca Saunders Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6ab12f826708849b508ad209/master/pass/00001-bianca-saunders-spring-2027-ready-to-wear-credit-brand.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/bianca-saunders",
+      "mentions": [],
+      "pubDate": "2026-09-21T19:06:41+00:00",
+      "trendingReason": null
+    },
     {
       "id": "fd6fcbfeea01",
       "editorial": "moda",
@@ -11,7 +65,7 @@
       "image": "https://assets.vogue.com/photos/6aaffe5b1eb29bd6b902658e/master/pass/00001-5000-spring-2027-ready-to-wear-credit-brand.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/5000",
       "mentions": [],
-      "pubDate": "2026-09-21T12:29:31+00:00",
+      "pubDate": "2026-09-21T19:06:41+00:00",
       "trendingReason": null
     },
     {
@@ -21,10 +75,10 @@
       "source": "Vogue US",
       "title": "Di Petsa Spring 2027 Ready-to-Wear",
       "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ab116c62752db4c76ba1009/master/pass/UMB00018.jpg",
+      "image": "https://assets.vogue.com/photos/6ab1304e268de95daa8d17d8/master/pass/00001-di-petsa-spring-2027-ready-to-wear-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/di-petsa",
       "mentions": [],
-      "pubDate": "2026-09-21T12:29:31+00:00",
+      "pubDate": "2026-09-21T19:06:41+00:00",
       "trendingReason": null
     },
     {
@@ -37,73 +91,23 @@
       "image": "https://assets.vogue.com/photos/6aaeab08e6b102593bfc46ab/master/pass/00001-alessandra-rich-spring-2027-ready-to-wear-credit-brand.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/alessandra-rich",
       "mentions": [],
-      "pubDate": "2026-09-21T12:29:31+00:00",
+      "pubDate": "2026-09-21T19:06:41+00:00",
       "trendingReason": null
     },
     {
-      "id": "d9e7efcb836f",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "McQueen Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ab064a624208572c94be889/master/pass/00001-mcqueen-spring-2027-ready-to-wear-credit-brand.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/alexander-mcqueen",
-      "mentions": [],
-      "pubDate": "2026-09-21T12:29:31+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "3fc6f45abdba",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Johanna Parv Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6aaec034994247fc8ca753dc/master/pass/00001-johanna-parv-spring-2027-ready-to-wear-credit-brand.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/johanna-parv",
-      "mentions": [],
-      "pubDate": "2026-09-21T12:29:31+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "21d115fb826e",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Emilia Wickstead Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6aafbeb09705b01c9168aa78/master/pass/00001-emilia-wickstead-spring-2027-ready-to-wear-credit-brand.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/emilia-wickstead",
-      "mentions": [],
-      "pubDate": "2026-09-21T12:29:31+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "6383576b4004",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Roksanda Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ab02637cd554fcf6fc3a387/master/pass/00001-roksanda-spring-2027-ready-to-wear-credit-gorunway.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/roksanda",
-      "mentions": [],
-      "pubDate": "2026-09-21T12:29:31+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "7b42980d4b67",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Charlie Constantinou Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ab0155c2585d4a0243da720/master/pass/00001-charlie-constantinou-spring-2027-ready-to-wear-credit-gorunway.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/charlie-constantinou",
-      "mentions": [],
-      "pubDate": "2026-09-21T12:29:31+00:00",
-      "trendingReason": null
+      "id": "e9609ada668a",
+      "editorial": "beleza",
+      "scope": "nacional",
+      "source": "Elle Brasil",
+      "title": "Donatella Versace anuncia nova marca",
+      "excerpt": "Depois de quase três décadas à frente da Versace, Donatella Versace prepara o lançamento de uma nova etiqueta de moda e beleza em parceria com a Revolve.",
+      "image": "https://images.elle.com.br/2026/09/donatella-versace-620x840.webp",
+      "link": "https://elle.com.br/moda/donatella-versace-nova-marca",
+      "mentions": [
+        "Versace"
+      ],
+      "pubDate": "2026-09-21T14:07:26+00:00",
+      "trendingReason": "Repercutindo em 6 veículos"
     }
   ]
 }
