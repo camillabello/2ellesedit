@@ -1,20 +1,31 @@
 {
-  "generatedAt": "2026-09-23T18:21:01.102727+00:00",
+  "generatedAt": "2026-09-23T22:52:06.643175+00:00",
   "items": [
     {
-      "id": "809f37b925ae",
+      "id": "6bf4626e1566",
       "editorial": "moda",
       "scope": "internacional",
       "source": "Vogue US",
-      "title": "Fendi Spring 2027 Ready-to-Wear",
+      "title": "Rosie Assoulin Spring 2027 Ready-to-Wear",
       "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ab3ea331da74c6253ecc5f1/master/pass/00001-fendi-spring-2027-ready-to-wear-credit-gorunway.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/fendi",
-      "mentions": [
-        "Fendi"
-      ],
-      "pubDate": "2026-09-23T18:18:22+00:00",
-      "trendingReason": "Repercutindo em 7 veículos"
+      "image": "https://assets.vogue.com/photos/6ab2ad9a145864edfc1dac15/master/pass/00001-rosie-assoulin-spring-2027-ready-to-wear-credit-brand.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/rosie-assoulin",
+      "mentions": [],
+      "pubDate": "2026-09-23T22:51:26+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "45896018a67b",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Onitsuka Tiger Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6ab439a2dbce94314f955653/master/pass/00001-onitsuka-tiger-spring-2027-ready-to-wear-credit-gorunway.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/onitsuka-tiger",
+      "mentions": [],
+      "pubDate": "2026-09-23T22:51:26+00:00",
+      "trendingReason": null
     },
     {
       "id": "71a9a00aae1a",
@@ -26,7 +37,7 @@
       "image": "https://assets.vogue.com/photos/6ab3e24503ab96cc1a767785/master/pass/00001-durazzi-spring-2027-ready-to-wear-credit-brand.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/durazzi",
       "mentions": [],
-      "pubDate": "2026-09-23T18:18:22+00:00",
+      "pubDate": "2026-09-23T22:51:26+00:00",
       "trendingReason": null
     },
     {
@@ -39,7 +50,7 @@
       "image": "https://assets.vogue.com/photos/6ab2e87b15a363a4f992301d/master/pass/00001-venerdi-pomeriggio-spring-2027-ready-to-wear-credit-brand.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/venerdi-pomeriggio",
       "mentions": [],
-      "pubDate": "2026-09-23T18:18:22+00:00",
+      "pubDate": "2026-09-23T22:51:26+00:00",
       "trendingReason": null
     },
     {
@@ -52,7 +63,7 @@
       "image": "https://assets.vogue.com/photos/6ab3a2e4cdca9880a4d5b9be/master/pass/00001-brunello-cucinelli-spring-2027-ready-to-wear-credit-brand.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/brunello-cucinelli",
       "mentions": [],
-      "pubDate": "2026-09-23T18:18:22+00:00",
+      "pubDate": "2026-09-23T22:51:26+00:00",
       "trendingReason": null
     },
     {
@@ -62,52 +73,41 @@
       "source": "Vogue US",
       "title": "Etro Spring 2027 Ready-to-Wear",
       "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ab40e634ed5add77779692c/master/pass/OBY00015.jpg",
+      "image": "https://assets.vogue.com/photos/6ab42a0b3832bec213a01cd1/master/pass/00001-etro-spring-2027-ready-to-wear-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/etro",
       "mentions": [],
-      "pubDate": "2026-09-23T18:18:22+00:00",
+      "pubDate": "2026-09-23T22:51:26+00:00",
       "trendingReason": null
     },
     {
-      "id": "9c7d90f84228",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "MM6 Maison Margiela Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ab3fcfa629dd7e86da7dbdf/master/pass/FIO00011.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/mm6-maison-martin-margiela",
-      "mentions": [],
-      "pubDate": "2026-09-23T18:18:22+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "d2c25a8e42aa",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Missoni Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ab410fe28dc51eb5f78ff98/master/pass/00001-missoni-spring-2027-ready-to-wear-credit-gorunway.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/missoni",
-      "mentions": [],
-      "pubDate": "2026-09-23T18:18:22+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "f664c7331350",
-      "editorial": "cultura",
-      "scope": "internacional",
-      "source": "Harper's Bazaar US",
-      "title": "Gigi Hadid Leans Into Autumnal Dressing With a Cozy Prada Long-Sleeve and Chocolate Trousers",
-      "excerpt": "She ushered in the new season in Milan",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/42eefb65-760a-4cd3-8be6-b25f422f6cde.jpg",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a73850019/gigi-hadid-fall-dressing-prada-striped-shirt-miu-miu-bag-photos/",
+      "id": "f52c1e7c0d48",
+      "editorial": "beleza",
+      "scope": "nacional",
+      "source": "Vogue Brasil",
+      "title": "Prada confirma: o cabelo com frizz é a maior aposta de beleza da temporada",
+      "excerpt": "No verão 2027 da casa italiana, desfilado durante a semana de moda milanesa, o hairstylist Guido Palau elevou o cabelo \"vivido\" do cotidiano ao status de tendência",
+      "image": "https://s2-vogue.glbimg.com/lLkFUzKAFZl46KEla_WO-HFH1cU=/i.s3.glbimg.com/v1/AUTH_5dfbcf92c1a84b20a5da5024d398ff2f/internal_photos/bs/2026/6/9/C35xqURjiitqiLHAQIaQ/805486103-18626985196031870-6650904789986296260-n.jpg",
+      "link": "https://vogue.globo.com/beleza/noticia/2026/09/prada-confirma-o-cabelo-com-frizz-e-a-maior-aposta-de-beleza-da-temporada.ghtml",
       "mentions": [
         "Prada"
       ],
-      "pubDate": "2026-09-23T14:34:26+00:00",
-      "trendingReason": "Repercutindo em 8 veículos"
+      "pubDate": "2026-09-23T18:45:19+00:00",
+      "trendingReason": "Repercutindo em 7 veículos"
+    },
+    {
+      "id": "b3693ee86192",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue UK",
+      "title": "Maisie Williams’s Fashion Week Essentials? Babybels, Boiled Sweets And A Fendi Baguette",
+      "excerpt": "Maisie Williams takes Vogue behind the scenes at Fendi’s spring/summer 2027 show.",
+      "image": "https://media.vogue.co.uk/photos/6ab3f1dafb3c7a2c59c61dcd/master/pass/260923_MaisieWilliams_BritishVogue_E&A_Agency_SofiAdams_0415.jpg",
+      "link": "https://www.vogue.co.uk/article/maisie-williams-fendi-milan-fashion-week-ss27",
+      "mentions": [
+        "Fendi"
+      ],
+      "pubDate": "2026-09-23T16:05:25+00:00",
+      "trendingReason": "Repercutindo em 3 veículos"
     }
   ]
 }
