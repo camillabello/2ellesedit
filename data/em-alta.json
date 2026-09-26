@@ -1,6 +1,32 @@
 {
-  "generatedAt": "2026-09-26T16:10:15.270146+00:00",
+  "generatedAt": "2026-09-26T20:55:17.615080+00:00",
   "items": [
+    {
+      "id": "6f35250ed221",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Philipp Plein Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6ab82053d21e0daa5e04d283/master/pass/UMB00018.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/philipp-plein",
+      "mentions": [],
+      "pubDate": "2026-09-26T20:54:17+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "208fffbe72d2",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Bottega Veneta Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6ab81351c66a1f81714cf34e/master/pass/FIO00009.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/bottega-veneta",
+      "mentions": [],
+      "pubDate": "2026-09-26T20:54:17+00:00",
+      "trendingReason": null
+    },
     {
       "id": "658df9b20f69",
       "editorial": "moda",
@@ -8,10 +34,10 @@
       "source": "Vogue US",
       "title": "Marco Rambaldi Spring 2027 Ready-to-Wear",
       "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ab7e65110e16cd5b98dff79/master/pass/OBY00008.jpg",
+      "image": "https://assets.vogue.com/photos/6ab7f94bb5e400704e276eb1/master/pass/00001-marco-rambaldi-spring-2027-ready-to-wear-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/marco-rambaldi",
       "mentions": [],
-      "pubDate": "2026-09-26T16:08:36+00:00",
+      "pubDate": "2026-09-26T20:54:17+00:00",
       "trendingReason": null
     },
     {
@@ -21,10 +47,10 @@
       "source": "Vogue US",
       "title": "Act No.1 Spring 2027 Ready-to-Wear",
       "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ab7daa98be8a7381f8367bb/master/pass/ISI00013.jpg",
+      "image": "https://assets.vogue.com/photos/6ab7f4d9c461b6d307654adf/master/pass/00001-act-no-1-spring-2027-ready-to-wear-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/act-no-1",
       "mentions": [],
-      "pubDate": "2026-09-26T16:08:36+00:00",
+      "pubDate": "2026-09-26T20:54:17+00:00",
       "trendingReason": null
     },
     {
@@ -37,7 +63,7 @@
       "image": "https://assets.vogue.com/photos/6ab7d8fb3c07da0e43d29284/master/pass/00001-msgm-spring-2027-ready-to-wear-credit-brand.JPG",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/msgm",
       "mentions": [],
-      "pubDate": "2026-09-26T16:08:36+00:00",
+      "pubDate": "2026-09-26T20:54:17+00:00",
       "trendingReason": null
     },
     {
@@ -50,33 +76,7 @@
       "image": "https://assets.vogue.com/photos/6ab393bb4b65c2e6d3acdaf3/master/pass/00001-avavav-spring-2027-ready-to-wear-credit-brand.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/avavav",
       "mentions": [],
-      "pubDate": "2026-09-26T16:08:36+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "1dcf111fe56a",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Dolce & Gabbana Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ab7a9cf942440ceaa35e587/master/pass/ISI00023.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/dolce-gabbana",
-      "mentions": [],
-      "pubDate": "2026-09-26T16:08:36+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "62aff884c4f1",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Ferragamo Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ab7987349073cd2faa2e332/master/pass/ALE00039.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/salvatore-ferragamo",
-      "mentions": [],
-      "pubDate": "2026-09-26T16:08:36+00:00",
+      "pubDate": "2026-09-26T20:54:17+00:00",
       "trendingReason": null
     },
     {
@@ -86,13 +86,13 @@
       "source": "Vogue Paris",
       "title": "Avec sa collection printemps-été 2027, Demna imagine de nouveaux archétypes à l’aura aristocratique",
       "excerpt": "Demna a présenté sa collection printemps-été 2027 pour Gucci au centre des congrès de Milan, transformé pour l'occasion en flagship de la maison au double G.",
-      "image": "https://media.vogue.fr/photos/6ab76aec5323300d1824433c/master/pass/Gucci%20S27%20079a.jpg",
+      "image": "https://media.vogue.fr/photos/6ab76aec6ceb7dd263dea386/master/pass/Gucci%20S27%20081a.jpg",
       "link": "https://www.vogue.fr/article/gucci-printemps-ete-2027",
       "mentions": [
         "Demna"
       ],
       "pubDate": "2026-09-26T12:07:53+00:00",
-      "trendingReason": "Repercutindo em 4 veículos"
+      "trendingReason": "Repercutindo em 5 veículos"
     },
     {
       "id": "1a2a2820844c",
@@ -107,7 +107,7 @@
         "Gucci"
       ],
       "pubDate": "2026-09-25T23:21:34+00:00",
-      "trendingReason": "Repercutindo em 6 veículos"
+      "trendingReason": "Repercutindo em 7 veículos"
     }
   ]
 }
