@@ -1,109 +1,117 @@
 {
-  "generatedAt": "2026-09-29T08:14:04.711192+00:00",
+  "generatedAt": "2026-09-29T16:26:52.918483+00:00",
   "items": [
     {
-      "id": "fd2f4f6b3ee1",
+      "id": "2595812c290d",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Christian Dior Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6abbde5e235e75f89f6a4482/master/pass/00001-christian-dior-spring-2027-ready-to-wear-credit-gorunway.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/christian-dior",
+      "mentions": [
+        "Dior"
+      ],
+      "pubDate": "2026-09-29T16:23:45+00:00",
+      "trendingReason": "Repercutindo em 5 veículos"
+    },
+    {
+      "id": "8769f147e051",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Maison Margiela Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6abbe21864df9ff0ba77e06e/master/pass/ISI00035.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/maison-martin-margiela",
+      "mentions": [],
+      "pubDate": "2026-09-29T16:23:45+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "19b40e152756",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Burc Akyol Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6abbe4ec0e8d7d04c1d533e4/master/pass/00001-burc-akyol-spring-2027-ready-to-wear-credit-gorunway.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/burc-akyol",
+      "mentions": [],
+      "pubDate": "2026-09-29T16:23:45+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "1ab9455442fe",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Petar Petrov Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6ab6c6f721483a3e0e3ad3c0/master/pass/00001-petar-petrov-spring-2027-ready-to-wear-credit-brand.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/petar-petrov",
+      "mentions": [],
+      "pubDate": "2026-09-29T16:23:45+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "f4f2abdb8d3f",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Mame Kurogouchi Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6abba152b6588cd04b063e31/master/pass/_PLA00017.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/mame-kurogouchi",
+      "mentions": [],
+      "pubDate": "2026-09-29T16:23:45+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "5c06f3fab746",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Torishéju Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6abbb5ace12b5055bc401fed/master/pass/00001-torisheju-spring-2027-ready-to-wear-credit-gorunway.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/torisheju",
+      "mentions": [],
+      "pubDate": "2026-09-29T16:23:45+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "f767901aef37",
+      "editorial": "beleza",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Fresh-Faced Silver Surfers Walk Jonathan Anderson’s Spring 2027 Dior Runway",
+      "excerpt": "Vogue goes backstage for Dior's spring show.",
+      "image": "https://assets.vogue.com/photos/6abbd9e1688f1f22a0f3f390/master/pass/IMG_0726.JPG",
+      "link": "https://www.vogue.com/article/beauty-jonathan-andersons-spring-2027-dior-runway",
+      "mentions": [
+        "Jonathan Anderson",
+        "Dior"
+      ],
+      "pubDate": "2026-09-29T15:37:53+00:00",
+      "trendingReason": "Repercutindo em 3 veículos"
+    },
+    {
+      "id": "bd4f6d2f166f",
       "editorial": "moda",
       "scope": "internacional",
       "source": "Vogue Paris",
-      "title": "Hodakova : les mannequins défilent les yeux fermés, en clin d’œil à Man Ray",
-      "excerpt": "Pour le printemps-été 2027, Hodakova plonge le quotidien dans un bain surréaliste : robes comme sorties de la mer, gants devenus broches et paupières peintes (mais qui vous ont à l’œil.)",
-      "image": "https://media.vogue.fr/photos/6abb6f68b5a81eeed27d313b/master/pass/Hodakova%20S27%20001%20(1).jpg",
-      "link": "https://www.vogue.fr/article/hodakova-printemps-ete-2027-fashion-week-paris",
-      "mentions": [],
-      "pubDate": "2026-09-29T08:12:04+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "975b7baf4a2b",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Juan Vidal Spain Spring 2027",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ab124b9b134952526dabffa/master/pass/00001-juan-vidal-spring-2027-ready-to-wear-spain-credit-brand.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spain-spring-2027/juan-vidal",
-      "mentions": [],
-      "pubDate": "2026-09-29T08:11:16+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "34ab198e53c1",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Eudon Choi Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ab37dde66edf621bf8d4a84/master/pass/00001-eudon-choi-spring-2027-ready-to-wear-credit-brand.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/eudon-choi",
-      "mentions": [],
-      "pubDate": "2026-09-29T08:11:16+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "b907afaff510",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Armarium Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6abab61570130617acfb7e45/master/pass/00001-armarium-spring-20227-ready-to-wear-credit-brand.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/armarium",
-      "mentions": [],
-      "pubDate": "2026-09-29T08:11:16+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "8686295302d4",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Matières Fécales Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6abad9f6f7f3427c8552bacb/master/pass/00001-matieres-fecales-spring-2027-ready-to-wear-credit-gorunway.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/matieres-fecales",
-      "mentions": [],
-      "pubDate": "2026-09-29T08:11:16+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "806f4ad396c0",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Maccapani Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ab6c0f5fbc1e61befcdbb14/master/pass/00001-maccapani-spring-2027-ready-to-wear-credit-brand.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/maccapani",
-      "mentions": [],
-      "pubDate": "2026-09-29T08:11:16+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "7d6ce212ff28",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Hodakova Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6abab354fac72209c37636bd/master/pass/00001-hodakova-spring-2027-ready-to-wear-credit-gorunway.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/hodakova",
-      "mentions": [],
-      "pubDate": "2026-09-29T08:11:16+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "4d1191ed77ad",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Maxhosa Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6abaad2fffc059b1b59ad07d/master/pass/00001-maxhosa-spring-2027-ready-to-wear-credit-gorunway.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/maxhosa",
-      "mentions": [],
-      "pubDate": "2026-09-29T08:11:16+00:00",
-      "trendingReason": null
+      "title": "Pour Rihanna, les diamants se portent au pied au défilé Dior",
+      "excerpt": "La silhouette monochrome de Rihanna était la toile de fond de sa parure éclatante.",
+      "image": "https://media.vogue.fr/photos/6abbceff11219a8336ccbe21/master/pass/2297173612",
+      "link": "https://www.vogue.fr/article/rihanna-bracelet-cheville-diamants-defile-dior",
+      "mentions": [
+        "Rihanna",
+        "Dior"
+      ],
+      "pubDate": "2026-09-29T14:56:59+00:00",
+      "trendingReason": "Repercutindo em 5 veículos"
     }
   ]
 }
