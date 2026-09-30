@@ -1,115 +1,116 @@
 {
-  "generatedAt": "2026-09-30T05:03:45.496637+00:00",
+  "generatedAt": "2026-09-30T19:01:17.138886+00:00",
   "items": [
     {
-      "id": "a44e93802f91",
+      "id": "5141ba076eb8",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Fashionista",
+      "title": "Unlike His Met Exhibit, John Galliano’s Zara Collab Has Come to Fruition",
+      "excerpt": "See the full lineup from their new collaboration, for which the infamous designer deconstructed the retailer's \"archives.\"",
+      "image": "https://fashionista.com/.image/NTg6MDAwMDAwMDAwODAyMTUw/copy-of-sme_26008_0120_081_v4_qc_srgb_300.jpg?profile=rss&x=48&y=27",
+      "link": "https://fashionista.com/2026/09/john-galliano-zara-collection-shop",
+      "mentions": [
+        "Zara"
+      ],
+      "pubDate": "2026-09-30T19:00:00+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "46eda17be29a",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue Paris",
+      "title": "Le défilé Acne Studios printemps-été 2027 confirme le retour de la tendance pirate",
+      "excerpt": "Tout ce qu'il faut retenir du défilé est ici.",
+      "image": "https://media.vogue.fr/photos/6abd59a9df75a55662094e53/master/pass/ISI00225.jpeg",
+      "link": "https://www.vogue.fr/article/acne-studios-printemps-ete-2027",
+      "mentions": [],
+      "pubDate": "2026-09-30T18:57:18+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "0ff696adbe51",
       "editorial": "moda",
       "scope": "internacional",
       "source": "Vogue US",
-      "title": "Saint Laurent Spring 2027 Ready-to-Wear",
+      "title": "Jenny Packham Spring 2027 Ready-to-Wear",
       "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6abc32b7b3910b83a092cf6d/master/pass/ALE00024.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/saint-laurent",
+      "image": "https://assets.vogue.com/photos/6abd4af7aeee0c2edcf0b067/master/pass/00001-jenny-packham-spring-2027-ready-to-wear-credit-brand.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/jenny-packham",
+      "mentions": [],
+      "pubDate": "2026-09-30T18:56:40+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "e633e6576469",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Ashish Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6abd4615aaf1ad1738dfa1d8/master/pass/00001-ashish-spring-2027-ready-to-wear-credit-brand.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/ashish",
+      "mentions": [],
+      "pubDate": "2026-09-30T18:56:40+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "4a2e0b143063",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Acne Studios Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6abd43ce5b0d0348a45fd618/master/pass/ISI00024.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/acne-studios",
+      "mentions": [],
+      "pubDate": "2026-09-30T18:56:40+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "0467b153ce53",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Harper's Bazaar US",
+      "title": "Everything Is Coming Up Golden at Saint Laurent",
+      "excerpt": "For Anthony Vaccarello’s alleged swan song for the brand, he made a singular statement",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/58b1b2cb-16b8-4765-9fe7-31f245b6abc7.jpg",
+      "link": "https://www.harpersbazaar.com/fashion/fashion-week/a73948498/everything-is-coming-up-golden-at-saint-laurent/",
       "mentions": [
         "Saint Laurent"
       ],
-      "pubDate": "2026-09-30T05:00:27+00:00",
+      "pubDate": "2026-09-30T16:20:33+00:00",
+      "trendingReason": "Repercutindo em 7 veículos"
+    },
+    {
+      "id": "41eb9f8756d5",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue Paris",
+      "title": "Vu sur le podium, porté par Rosalía : le look Dior dont tout le monde parle",
+      "excerpt": "Des jardins des Tuileries à la sortie de son hôtel, Rosalía s’empare de la silhouette romantique et aérienne imaginée par Jonathan Anderson pour Dior.",
+      "image": "https://media.vogue.fr/photos/6abd065f7ad872dbaeec090f/master/pass/2297788973",
+      "link": "https://www.vogue.fr/article/rosalia-look-dior-printemps-ete-2027-fashion-week-paris",
+      "mentions": [
+        "Dior"
+      ],
+      "pubDate": "2026-09-30T13:56:33+00:00",
       "trendingReason": "Repercutindo em 6 veículos"
     },
     {
-      "id": "a8d7522dcfdd",
+      "id": "db13071b69f9",
       "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Ganni Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6abb9b8e235e75f89f6a41f4/master/pass/00001-ganni-spring-2027-ready-to-wear-credit-brand.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/ganni",
-      "mentions": [],
-      "pubDate": "2026-09-30T05:00:27+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "c6a0c64bd4b1",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Tove Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6abc145dfe1c8d1c8ffe2a69/master/pass/00001-tove-spring-2027-ready-to-wear-credit-brand.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/tove",
-      "mentions": [],
-      "pubDate": "2026-09-30T05:00:27+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "d3bd730519e7",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "A. Potts Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ab53181907dfdfaaebe9b0f/master/pass/00001-a-potts-spring-2027-ready-to-wear-credit-brand.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/apotts",
-      "mentions": [],
-      "pubDate": "2026-09-30T05:00:27+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "ebad47d2ecfa",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Anrealage Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6abc1699c9a732b508d7c572/master/pass/00001-anrealage-spring-2027-ready-to-wear-credit-gorunway.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/anrealage",
-      "mentions": [],
-      "pubDate": "2026-09-30T05:00:27+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "8769f147e051",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Maison Margiela Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6abbe21864df9ff0ba77e06e/master/pass/ISI00035.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/maison-martin-margiela",
-      "mentions": [],
-      "pubDate": "2026-09-30T05:00:27+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "2b20750ddecd",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue Paris",
-      "title": "Dior réinvente la boucle d’oreille... en bouquet de fleurs",
-      "excerpt": "Retour sur cette éclosion, signée Jonathan Anderson.",
-      "image": "https://media.vogue.fr/photos/6abc39ed571d0acd6e81e5f6/master/pass/00063-christian-dior-spring-2027-ready-to-wear-credit-gorunway.png",
-      "link": "https://www.vogue.fr/article/dior-boucle-doreille-fleurs-printemps-ete-2027",
+      "scope": "nacional",
+      "source": "Harper's Bazaar Brasil",
+      "title": "Cruise 2028: Chanel anuncia Deauville como destino do desfile",
+      "excerpt": "A CHANEL anunciou o destino de sua próxima coleção Cruise, e ele tem endereço fixo na história da marca. O cruise 2028, segunda coleção do tipo assinada por Matthieu Blazy, será apresentada na…",
+      "image": "https://harpersbazaar.uol.com.br/wp-content/uploads/2026/09/IMG_0480-768x991.jpeg",
+      "link": "https://harpersbazaar.uol.com.br/moda/cruise-2028-chanel-anuncia-deauville-como-destino-do-desfile/",
       "mentions": [
-        "Dior"
+        "Chanel"
       ],
-      "pubDate": "2026-09-29T22:24:46+00:00",
-      "trendingReason": "Repercutindo em 11 veículos"
-    },
-    {
-      "id": "d4ff898e9434",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue Paris",
-      "title": "6 tendances repérées au défilé Dior printemps-été 2027 par Jonathan Anderson",
-      "excerpt": "Le créateur nord-irlandais a réinvesti le jardin des Tuileries pour dévoiler ses nouvelles silhouettes dans un décor à couper le souffle.",
-      "image": "https://media.vogue.fr/photos/6abbcce6c3727b08f3a76647/master/pass/FIO00044-1.jpeg",
-      "link": "https://www.vogue.fr/article/tendances-dior-printemps-ete-2027",
-      "mentions": [
-        "Jonathan Anderson",
-        "Dior"
-      ],
-      "pubDate": "2026-09-29T14:47:14+00:00",
+      "pubDate": "2026-09-28T19:50:16+00:00",
       "trendingReason": "Repercutindo em 3 veículos"
     }
   ]
