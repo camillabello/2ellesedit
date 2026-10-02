@@ -1,6 +1,47 @@
 {
-  "generatedAt": "2026-10-02T19:06:18.971861+00:00",
+  "generatedAt": "2026-10-02T23:39:31.410212+00:00",
   "items": [
+    {
+      "id": "c9489e03fa5a",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Givenchy Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6ac0013d2c333f1903722828/master/pass/00001-givenchy-spring-2027-ready-to-wear-credit-brand.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/givenchy",
+      "mentions": [
+        "Givenchy"
+      ],
+      "pubDate": "2026-10-02T23:36:36+00:00",
+      "trendingReason": "Repercutindo em 3 veículos"
+    },
+    {
+      "id": "65fe13234b39",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Polo Ralph Lauren Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6ac029321b5af4cf224dba6c/master/pass/00001-polo-ralph-lauren-spring-2027-ready-to-wear-credit-brand.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/polo-ralph-lauren",
+      "mentions": [],
+      "pubDate": "2026-10-02T23:36:36+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "b5e7eb6ec4d8",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Caroline Hu Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6ac01b7174b01926e81d7db1/master/pass/00001-caroline-hu-spring-2027-ready-to-wear-credit-brand.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/caroline-hu",
+      "mentions": [],
+      "pubDate": "2026-10-02T23:36:36+00:00",
+      "trendingReason": null
+    },
     {
       "id": "fefdadeb87ca",
       "editorial": "moda",
@@ -8,10 +49,10 @@
       "source": "Vogue US",
       "title": "Victoria Beckham Spring 2027 Ready-to-Wear",
       "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6abffdbc25d0ccf4d5ee7293/master/pass/ISI00037.jpg",
+      "image": "https://assets.vogue.com/photos/6ac02d1c8ee395d7d6c264fb/master/pass/00001-victoria-beckham-spring-2027-ready-to-wear-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/victoria-beckham",
       "mentions": [],
-      "pubDate": "2026-10-02T19:05:11+00:00",
+      "pubDate": "2026-10-02T23:36:36+00:00",
       "trendingReason": null
     },
     {
@@ -24,7 +65,7 @@
       "image": "https://assets.vogue.com/photos/6abbe269e6e0624b87842784/master/pass/00001-giuseppe-di-morabito-spring-2027-ready-to-wear-credit-brand.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/giuseppe-di-morabito",
       "mentions": [],
-      "pubDate": "2026-10-02T19:05:11+00:00",
+      "pubDate": "2026-10-02T23:36:36+00:00",
       "trendingReason": null
     },
     {
@@ -34,10 +75,10 @@
       "source": "Vogue US",
       "title": "Yohji Yamamoto Spring 2027 Ready-to-Wear",
       "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6abfef5a41daa3a737cecb84/master/pass/UMB00020.jpg",
+      "image": "https://assets.vogue.com/photos/6ac01dc58ae7e686ab85f3a3/master/pass/00001-yohji-yamamoto-spring-2027-ready-to-wear-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/yohji-yamamoto",
       "mentions": [],
-      "pubDate": "2026-10-02T19:05:11+00:00",
+      "pubDate": "2026-10-02T23:36:36+00:00",
       "trendingReason": null
     },
     {
@@ -50,69 +91,23 @@
       "image": "https://assets.vogue.com/photos/6abf81a73bd6d6f7cde0a2e6/master/pass/00001-ardazaei-spring-2027-ready-to-wear-credit-brand.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/ardazaei",
       "mentions": [],
-      "pubDate": "2026-10-02T19:05:11+00:00",
+      "pubDate": "2026-10-02T23:36:36+00:00",
       "trendingReason": null
     },
     {
-      "id": "c9489e03fa5a",
+      "id": "2b975e334665",
       "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Givenchy Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6abfb920d348857ed480d24b/master/pass/100226_givenchy_livestreamholding.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/givenchy",
+      "scope": "nacional",
+      "source": "Harper's Bazaar Brasil",
+      "title": "A cartela da Loewe parece ter saído diretamente do círculo cromático",
+      "excerpt": "Na nova Loewe, a cor parece seguir uma lógica quase matemática. Em vez de uma cartela construída por tons intermediários ou nuances discretas, Jack McCollough e Lazaro Hernandez partem de cores mais…",
+      "image": "https://harpersbazaar.uol.com.br/wp-content/uploads/2026/10/loewe-spring-27-rtw-pfw-r-dom-062-768x1152.webp",
+      "link": "https://harpersbazaar.uol.com.br/moda/a-cartela-da-loewe-parece-ter-saido-diretamente-do-circulo-cromatico/",
       "mentions": [
-        "Givenchy"
+        "Loewe"
       ],
-      "pubDate": "2026-10-02T19:05:11+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "481ac6df7829",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue UK",
-      "title": "Butter, Skims & Loewe: Lesley Manville Has Her PFW Priorities Down",
-      "excerpt": "Lesley Manville on her Paris Fashion Week essentials – and her review of Loewe spring/summer 2027.",
-      "image": "https://media.vogue.co.uk/photos/6abfc6527a6b7b30dbf64438/master/pass/LesleyManville_LN8A9800_3.jpg",
-      "link": "https://www.vogue.co.uk/article/lesley-manville-paris-fashion-week",
-      "mentions": [
-        "Loewe",
-        "Skims"
-      ],
-      "pubDate": "2026-10-02T15:14:18+00:00",
-      "trendingReason": "Repercutindo em 6 veículos"
-    },
-    {
-      "id": "bb6b5a32f507",
-      "editorial": "cultura",
-      "scope": "internacional",
-      "source": "Elle US",
-      "title": "Anna Van Patten Gets Ready for Balenciaga’s Paris Show",
-      "excerpt": "Here’s how the Euphoria actress took in Pierpaolo Piccioli’s latest collection.",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/7900e5c5-4f94-4f98-bc08-0b7ad7f356dc.jpg",
-      "link": "https://www.elle.com/fashion/celebrity-style/a73988770/anna-van-patten-balenciaga-spring-2027/",
-      "mentions": [
-        "Balenciaga"
-      ],
-      "pubDate": "2026-10-02T12:07:02+00:00",
-      "trendingReason": "Repercutindo em 4 veículos"
-    },
-    {
-      "id": "c2ff0c153203",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Hypebeast",
-      "title": "Zara and John Galliano Launch Debut \"Re{form}\" Vol. 1 Collection",
-      "excerpt": "Summary Zara and John Galliano have officially released their debut collaborative collection titled Re{form} Vol 1The genderless lineup uses couture techniques to dismantle and reassemble archival…",
-      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F02%2Fzara-john-galliano-launch-debut-reform-vol-1-collection-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-      "link": "https://hypebeast.com/2026/10/zara-john-galliano-launch-debut-reform-vol-1-collection-release-info",
-      "mentions": [
-        "Zara"
-      ],
-      "pubDate": "2026-10-02T09:08:51+00:00",
-      "trendingReason": "Repercutindo em 3 veículos"
+      "pubDate": "2026-10-02T19:50:41+00:00",
+      "trendingReason": "Repercutindo em 8 veículos"
     }
   ]
 }
