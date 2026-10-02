@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-10-02T05:06:14.888523+00:00",
+  "generatedAt": "2026-10-02T12:15:42.825618+00:00",
   "items": [
+    {
+      "id": "1c50bff21ef4",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Loewe Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6abf88c45710bdd87b1c413e/master/pass/UMB00019.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/loewe",
+      "mentions": [
+        "Loewe"
+      ],
+      "pubDate": "2026-10-02T12:10:53+00:00",
+      "trendingReason": "Repercutindo em 3 veículos"
+    },
+    {
+      "id": "55851b3ab292",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Issey Miyake Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6abf985abafc4fd8ce6da39d/master/pass/FIO00340.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/issey-miyake",
+      "mentions": [],
+      "pubDate": "2026-10-02T12:10:53+00:00",
+      "trendingReason": null
+    },
     {
       "id": "677bf2341eed",
       "editorial": "moda",
@@ -11,7 +39,7 @@
       "image": "https://assets.vogue.com/photos/6abed5f0e4c2be2c4c20d842/master/pass/00001-schiaparelli-spring-2027-ready-to-wear-credit-brand.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/schiaparelli",
       "mentions": [],
-      "pubDate": "2026-10-02T05:04:26+00:00",
+      "pubDate": "2026-10-02T12:10:53+00:00",
       "trendingReason": null
     },
     {
@@ -21,10 +49,10 @@
       "source": "Vogue US",
       "title": "Isabel Marant Spring 2027 Ready-to-Wear",
       "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6abeabfc7ffcbbad70974b4e/master/pass/OBY00028.jpg",
+      "image": "https://assets.vogue.com/photos/6abf4a9bac49a16ce3a02844/master/pass/00001-isabel-marant-spring-2027-ready-to-wear-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/isabel-marant",
       "mentions": [],
-      "pubDate": "2026-10-02T05:04:26+00:00",
+      "pubDate": "2026-10-02T12:10:53+00:00",
       "trendingReason": null
     },
     {
@@ -37,64 +65,38 @@
       "image": "https://assets.vogue.com/photos/6abe90144b556a0cd9f79fd0/master/pass/00001-august-barron-spring-2027-ready-to-wear-credit-brand.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/all-in",
       "mentions": [],
-      "pubDate": "2026-10-02T05:04:26+00:00",
+      "pubDate": "2026-10-02T12:10:53+00:00",
       "trendingReason": null
     },
     {
-      "id": "f3adb1afa8dc",
-      "editorial": "moda",
+      "id": "bb6b5a32f507",
+      "editorial": "cultura",
       "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Gauchere Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6abe995848f0b2d20bb186ce/master/pass/00001-gauchere-spring-2027-ready-to-wear-credit-gorunway.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/gauchere",
-      "mentions": [],
-      "pubDate": "2026-10-02T05:04:26+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "a6a3e929f83b",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Chloé Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6abe826a53efe3f692ef9f5a/master/pass/00001-chloe-spring-2027-ready-to-wear-credit-brand.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/chloe",
-      "mentions": [],
-      "pubDate": "2026-10-02T05:04:26+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "18ba1d2dcecf",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "In the Queue for John Galliano’s Zara",
-      "excerpt": "The designer’s first collection for the retailer dropped on Thursday. As pieces were snapped up online and in stores, we spoke with shoppers.",
-      "image": "https://assets.vogue.com/photos/6abecfe1daaf5bd02522cbb6/master/pass/10-01-26-ZARA-GALLIANO-vogue-business-story.jpg",
-      "link": "https://www.vogue.com/article/in-the-queue-for-john-gallianos-zara",
-      "mentions": [
-        "Zara"
-      ],
-      "pubDate": "2026-10-02T04:30:00+00:00",
-      "trendingReason": "Repercutindo em 5 veículos"
-    },
-    {
-      "id": "f3239363db90",
-      "editorial": "beleza",
-      "scope": "internacional",
-      "source": "Harper's Bazaar US",
-      "title": "Balenciaga Shows a Pragmatic Take on Beauty",
-      "excerpt": "Using the sort of color story Pierpaolo Piccioli excels at",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/06e8d432-09d4-44a3-a7d1-65088d80dda2.jpg",
-      "link": "https://www.harpersbazaar.com/fashion/a73979609/balenciaga-spring-2027-pierpaolo-piccioli-review/",
+      "source": "Elle US",
+      "title": "Anna Van Patten Gets Ready for the Balenciaga Show in Paris",
+      "excerpt": "The Euphoria actress attended Pierpaolo Piccioli’s latest Balenciaga show.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/7900e5c5-4f94-4f98-bc08-0b7ad7f356dc.jpg",
+      "link": "https://www.elle.com/fashion/celebrity-style/a73988770/anna-van-patten-balenciaga-spring-2027/",
       "mentions": [
         "Balenciaga"
       ],
-      "pubDate": "2026-10-01T19:36:53+00:00",
-      "trendingReason": "Repercutindo em 6 veículos"
+      "pubDate": "2026-10-02T12:07:02+00:00",
+      "trendingReason": "Repercutindo em 5 veículos"
+    },
+    {
+      "id": "fdc4611c90a3",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Zara’s New Arrivals Are Full of Fall 2026’s Biggest Trends",
+      "excerpt": "Shop the just-dropped Baisi Guadagnino for Zara collection—a collaboration between architect and production designer Stefano Baisi and filmmaker Luca Guadagnino.",
+      "image": "https://assets.vogue.com/photos/6aba9f56b8aed7d01f9402cf/master/pass/image2%201.09.25%E2%80%AFPM.png",
+      "link": "https://www.vogue.com/article/best-zara-finds",
+      "mentions": [
+        "Zara"
+      ],
+      "pubDate": "2026-10-02T10:00:00+00:00",
+      "trendingReason": "Repercutindo em 5 veículos"
     },
     {
       "id": "71f861ebea93",
@@ -109,7 +111,7 @@
         "Dior"
       ],
       "pubDate": "2026-10-01T18:30:10+00:00",
-      "trendingReason": "Repercutindo em 5 veículos"
+      "trendingReason": "Repercutindo em 4 veículos"
     }
   ]
 }
