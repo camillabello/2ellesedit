@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T23:49:51.580473+00:00",
+  "generatedAt": "2026-10-02T05:06:14.888523+00:00",
   "items": [
     {
       "id": "677bf2341eed",
@@ -11,7 +11,7 @@
       "image": "https://assets.vogue.com/photos/6abed5f0e4c2be2c4c20d842/master/pass/00001-schiaparelli-spring-2027-ready-to-wear-credit-brand.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/schiaparelli",
       "mentions": [],
-      "pubDate": "2026-10-01T23:45:08+00:00",
+      "pubDate": "2026-10-02T05:04:26+00:00",
       "trendingReason": null
     },
     {
@@ -24,7 +24,7 @@
       "image": "https://assets.vogue.com/photos/6abeabfc7ffcbbad70974b4e/master/pass/OBY00028.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/isabel-marant",
       "mentions": [],
-      "pubDate": "2026-10-01T23:45:08+00:00",
+      "pubDate": "2026-10-02T05:04:26+00:00",
       "trendingReason": null
     },
     {
@@ -37,7 +37,7 @@
       "image": "https://assets.vogue.com/photos/6abe90144b556a0cd9f79fd0/master/pass/00001-august-barron-spring-2027-ready-to-wear-credit-brand.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/all-in",
       "mentions": [],
-      "pubDate": "2026-10-01T23:45:08+00:00",
+      "pubDate": "2026-10-02T05:04:26+00:00",
       "trendingReason": null
     },
     {
@@ -50,24 +50,36 @@
       "image": "https://assets.vogue.com/photos/6abe995848f0b2d20bb186ce/master/pass/00001-gauchere-spring-2027-ready-to-wear-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/gauchere",
       "mentions": [],
-      "pubDate": "2026-10-01T23:45:08+00:00",
+      "pubDate": "2026-10-02T05:04:26+00:00",
       "trendingReason": null
     },
     {
-      "id": "c9b692322060",
+      "id": "a6a3e929f83b",
       "editorial": "moda",
       "scope": "internacional",
-      "source": "WWD",
-      "title": "Paris Fashion Week Runway Shoe Highlights: Saint Laurent, Dior, Rick Owens and More",
-      "excerpt": "Jewel adornments, snakeskin details and dramatic silhouettes have hit the runways.",
-      "image": null,
-      "link": "https://wwd.com/footwear-news/shoe-trends/paris-fashion-week-shoe-highlights-saint-laurent-dior-1239302256/",
+      "source": "Vogue US",
+      "title": "Chloé Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6abe826a53efe3f692ef9f5a/master/pass/00001-chloe-spring-2027-ready-to-wear-credit-brand.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/chloe",
+      "mentions": [],
+      "pubDate": "2026-10-02T05:04:26+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "18ba1d2dcecf",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "In the Queue for John Galliano’s Zara",
+      "excerpt": "The designer’s first collection for the retailer dropped on Thursday. As pieces were snapped up online and in stores, we spoke with shoppers.",
+      "image": "https://assets.vogue.com/photos/6abecfe1daaf5bd02522cbb6/master/pass/10-01-26-ZARA-GALLIANO-vogue-business-story.jpg",
+      "link": "https://www.vogue.com/article/in-the-queue-for-john-gallianos-zara",
       "mentions": [
-        "Dior",
-        "Saint Laurent"
+        "Zara"
       ],
-      "pubDate": "2026-10-01T21:11:11+00:00",
-      "trendingReason": "Repercutindo em 3 veículos"
+      "pubDate": "2026-10-02T04:30:00+00:00",
+      "trendingReason": "Repercutindo em 5 veículos"
     },
     {
       "id": "f3239363db90",
@@ -98,21 +110,6 @@
       ],
       "pubDate": "2026-10-01T18:30:10+00:00",
       "trendingReason": "Repercutindo em 5 veículos"
-    },
-    {
-      "id": "b4ec6b9bc8a9",
-      "editorial": "moda",
-      "scope": "nacional",
-      "source": "Elle Brasil",
-      "title": "Zara e John Galliano: tudo sobre a primeira coleção, lançada nesta quinta-feira",
-      "excerpt": "A collab entre Zara e John Galliano reelabora peças de temporadas passadas da varejista espanhola.",
-      "image": "https://images.elle.com.br/2026/10/zara-e-john-galliano-_-01ST-GALLIANO-ZARA-top-tvgb-superJumbo-620x840.avif",
-      "link": "https://elle.com.br/moda/zara-e-john-galliano",
-      "mentions": [
-        "Zara"
-      ],
-      "pubDate": "2026-10-01T13:40:46+00:00",
-      "trendingReason": "Repercutindo em 4 veículos"
     }
   ]
 }
