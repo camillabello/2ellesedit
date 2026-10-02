@@ -1,117 +1,118 @@
 {
-  "generatedAt": "2026-10-02T12:15:42.825618+00:00",
+  "generatedAt": "2026-10-02T19:06:18.971861+00:00",
   "items": [
     {
-      "id": "1c50bff21ef4",
+      "id": "fefdadeb87ca",
       "editorial": "moda",
       "scope": "internacional",
       "source": "Vogue US",
-      "title": "Loewe Spring 2027 Ready-to-Wear",
+      "title": "Victoria Beckham Spring 2027 Ready-to-Wear",
       "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6abf88c45710bdd87b1c413e/master/pass/UMB00019.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/loewe",
+      "image": "https://assets.vogue.com/photos/6abffdbc25d0ccf4d5ee7293/master/pass/ISI00037.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/victoria-beckham",
+      "mentions": [],
+      "pubDate": "2026-10-02T19:05:11+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "c8de8f32ced3",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Giuseppe Di Morabito Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6abbe269e6e0624b87842784/master/pass/00001-giuseppe-di-morabito-spring-2027-ready-to-wear-credit-brand.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/giuseppe-di-morabito",
+      "mentions": [],
+      "pubDate": "2026-10-02T19:05:11+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "764f998d612e",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Yohji Yamamoto Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6abfef5a41daa3a737cecb84/master/pass/UMB00020.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/yohji-yamamoto",
+      "mentions": [],
+      "pubDate": "2026-10-02T19:05:11+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "5495b8b5262b",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "ArdAzAei Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6abf81a73bd6d6f7cde0a2e6/master/pass/00001-ardazaei-spring-2027-ready-to-wear-credit-brand.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/ardazaei",
+      "mentions": [],
+      "pubDate": "2026-10-02T19:05:11+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "c9489e03fa5a",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Givenchy Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6abfb920d348857ed480d24b/master/pass/100226_givenchy_livestreamholding.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/givenchy",
       "mentions": [
-        "Loewe"
+        "Givenchy"
       ],
-      "pubDate": "2026-10-02T12:10:53+00:00",
-      "trendingReason": "Repercutindo em 3 veículos"
-    },
-    {
-      "id": "55851b3ab292",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Issey Miyake Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6abf985abafc4fd8ce6da39d/master/pass/FIO00340.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/issey-miyake",
-      "mentions": [],
-      "pubDate": "2026-10-02T12:10:53+00:00",
+      "pubDate": "2026-10-02T19:05:11+00:00",
       "trendingReason": null
     },
     {
-      "id": "677bf2341eed",
+      "id": "481ac6df7829",
       "editorial": "moda",
       "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Schiaparelli Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6abed5f0e4c2be2c4c20d842/master/pass/00001-schiaparelli-spring-2027-ready-to-wear-credit-brand.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/schiaparelli",
-      "mentions": [],
-      "pubDate": "2026-10-02T12:10:53+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "0a0443f5d216",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Isabel Marant Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6abf4a9bac49a16ce3a02844/master/pass/00001-isabel-marant-spring-2027-ready-to-wear-credit-gorunway.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/isabel-marant",
-      "mentions": [],
-      "pubDate": "2026-10-02T12:10:53+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "ecc8b166bb48",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "August Barron Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6abe90144b556a0cd9f79fd0/master/pass/00001-august-barron-spring-2027-ready-to-wear-credit-brand.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/all-in",
-      "mentions": [],
-      "pubDate": "2026-10-02T12:10:53+00:00",
-      "trendingReason": null
+      "source": "Vogue UK",
+      "title": "Butter, Skims & Loewe: Lesley Manville Has Her PFW Priorities Down",
+      "excerpt": "Lesley Manville on her Paris Fashion Week essentials – and her review of Loewe spring/summer 2027.",
+      "image": "https://media.vogue.co.uk/photos/6abfc6527a6b7b30dbf64438/master/pass/LesleyManville_LN8A9800_3.jpg",
+      "link": "https://www.vogue.co.uk/article/lesley-manville-paris-fashion-week",
+      "mentions": [
+        "Loewe",
+        "Skims"
+      ],
+      "pubDate": "2026-10-02T15:14:18+00:00",
+      "trendingReason": "Repercutindo em 6 veículos"
     },
     {
       "id": "bb6b5a32f507",
       "editorial": "cultura",
       "scope": "internacional",
       "source": "Elle US",
-      "title": "Anna Van Patten Gets Ready for the Balenciaga Show in Paris",
-      "excerpt": "The Euphoria actress attended Pierpaolo Piccioli’s latest Balenciaga show.",
+      "title": "Anna Van Patten Gets Ready for Balenciaga’s Paris Show",
+      "excerpt": "Here’s how the Euphoria actress took in Pierpaolo Piccioli’s latest collection.",
       "image": "https://hips.hearstapps.com/hmg-prod/images/7900e5c5-4f94-4f98-bc08-0b7ad7f356dc.jpg",
       "link": "https://www.elle.com/fashion/celebrity-style/a73988770/anna-van-patten-balenciaga-spring-2027/",
       "mentions": [
         "Balenciaga"
       ],
       "pubDate": "2026-10-02T12:07:02+00:00",
-      "trendingReason": "Repercutindo em 5 veículos"
+      "trendingReason": "Repercutindo em 4 veículos"
     },
     {
-      "id": "fdc4611c90a3",
+      "id": "c2ff0c153203",
       "editorial": "moda",
       "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Zara’s New Arrivals Are Full of Fall 2026’s Biggest Trends",
-      "excerpt": "Shop the just-dropped Baisi Guadagnino for Zara collection—a collaboration between architect and production designer Stefano Baisi and filmmaker Luca Guadagnino.",
-      "image": "https://assets.vogue.com/photos/6aba9f56b8aed7d01f9402cf/master/pass/image2%201.09.25%E2%80%AFPM.png",
-      "link": "https://www.vogue.com/article/best-zara-finds",
+      "source": "Hypebeast",
+      "title": "Zara and John Galliano Launch Debut \"Re{form}\" Vol. 1 Collection",
+      "excerpt": "Summary Zara and John Galliano have officially released their debut collaborative collection titled Re{form} Vol 1The genderless lineup uses couture techniques to dismantle and reassemble archival…",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F10%2F02%2Fzara-john-galliano-launch-debut-reform-vol-1-collection-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+      "link": "https://hypebeast.com/2026/10/zara-john-galliano-launch-debut-reform-vol-1-collection-release-info",
       "mentions": [
         "Zara"
       ],
-      "pubDate": "2026-10-02T10:00:00+00:00",
-      "trendingReason": "Repercutindo em 5 veículos"
-    },
-    {
-      "id": "71f861ebea93",
-      "editorial": "cultura",
-      "scope": "internacional",
-      "source": "Harper's Bazaar US",
-      "title": "Dior and Harper’s Bazaar Take Over Paris Fashion Week With a Book Party Celebrating the Legacy of Richard Avedon",
-      "excerpt": "The iconic photographer’s work at Bazaar is being commemorated with a new release",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/2a867f94-7936-4845-8aa0-3db163df59a4.jpg",
-      "link": "https://www.harpersbazaar.com/celebrity/party-pictures/a73957582/harpers-bazaar-dior-party-paris-fashion-week-richard-avedon-book-photos/",
-      "mentions": [
-        "Dior"
-      ],
-      "pubDate": "2026-10-01T18:30:10+00:00",
-      "trendingReason": "Repercutindo em 4 veículos"
+      "pubDate": "2026-10-02T09:08:51+00:00",
+      "trendingReason": "Repercutindo em 3 veículos"
     }
   ]
 }
