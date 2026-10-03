@@ -1,45 +1,6 @@
 {
-  "generatedAt": "2026-10-03T16:03:07.128246+00:00",
+  "generatedAt": "2026-10-03T20:53:33.168606+00:00",
   "items": [
-    {
-      "id": "07addaf59b9b",
-      "editorial": "cultura",
-      "scope": "nacional",
-      "source": "Capricho",
-      "title": "O detalhe simples que Larissa Manoela diz criar um clima íntimo",
-      "excerpt": "Para a atriz, o grande segredo do desejo é curtir a presença do outro.",
-      "image": "https://capricho.abril.com.br/wp-content/uploads/2023/12/Copia-de-THUMB-MATERIAS-2023-12-18T160115.023.jpg",
-      "link": "https://capricho.abril.com.br/comportamento/o-detalhe-simples-que-larissa-manoela-diz-criar-um-clima-intimo/",
-      "mentions": [],
-      "pubDate": "2026-10-03T16:00:07+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "13aa02e92dff",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Elie Saab Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ac120ab7cb6738462fbd10b/master/pass/FIO00036.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/elie-saab",
-      "mentions": [],
-      "pubDate": "2026-10-03T15:58:04+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "b708a735c4bc",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "032c Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ac111df3d7cb8d7df6cd494/master/pass/PLA00024.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/032c",
-      "mentions": [],
-      "pubDate": "2026-10-03T15:58:04+00:00",
-      "trendingReason": null
-    },
     {
       "id": "d30938703ed8",
       "editorial": "moda",
@@ -47,25 +8,64 @@
       "source": "Vogue US",
       "title": "Hermès Spring 2027 Ready-to-Wear",
       "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ac109827765fc2a459b6ecd/master/pass/UMB00030.jpg",
+      "image": "https://assets.vogue.com/photos/6ac1264890f283c50041b128/master/pass/00001-hermes-spring-2027-ready-to-wear-credit-gorunway.jpg",
       "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/hermes",
       "mentions": [
         "Hermès"
       ],
-      "pubDate": "2026-10-03T15:58:04+00:00",
-      "trendingReason": null
+      "pubDate": "2026-10-03T20:48:02+00:00",
+      "trendingReason": "Repercutindo em 3 veículos"
     },
     {
-      "id": "d66ac3d52f45",
+      "id": "149ee08d3e3f",
       "editorial": "moda",
       "scope": "internacional",
       "source": "Vogue US",
-      "title": "Andreas Kronthaler for Vivienne Westwood Spring 2027 Ready-to-Wear",
+      "title": "Marine Serre Spring 2027 Ready-to-Wear",
       "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ac119f7bf97e72231d5d9ad/master/pass/00001-andreas-kronthaler-for-vivienne-westwood-spring-2027-ready-to-wear-credit-gorunway.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/andreas-kronthaler-for-vivienne-westwood",
+      "image": "https://assets.vogue.com/photos/6ac143ab39b91c662fc175de/master/pass/00001-marine-serre-spring-2027-ready-to-wear-credit-brand.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/marine-serre",
       "mentions": [],
-      "pubDate": "2026-10-03T15:58:04+00:00",
+      "pubDate": "2026-10-03T20:48:02+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "1f39087a9e31",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Ann Demeulemeester Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6ac15c011afd74137e73ddd6/master/pass/00001-ann-demeulemeester-spring-2027-ready-to-wear-credit-gorunway.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/ann-demeulemeester",
+      "mentions": [],
+      "pubDate": "2026-10-03T20:48:02+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "edde7000fcb3",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Celine Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6ac12d5b150563bd5082a45a/master/pass/00001-celine-spring-2027-ready-to-wear-credit-brand.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/celine",
+      "mentions": [],
+      "pubDate": "2026-10-03T20:48:02+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "8a1e62c91a4e",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Comme des Garçons Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6ac15095255cb44abc30a9b9/master/pass/00001-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/comme-des-garcons",
+      "mentions": [],
+      "pubDate": "2026-10-03T20:48:02+00:00",
       "trendingReason": null
     },
     {
@@ -111,7 +111,7 @@
         "Loewe"
       ],
       "pubDate": "2026-10-02T19:50:41+00:00",
-      "trendingReason": "Repercutindo em 4 veículos"
+      "trendingReason": "Repercutindo em 5 veículos"
     }
   ]
 }
