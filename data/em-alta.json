@@ -1,100 +1,102 @@
 {
-  "generatedAt": "2026-10-04T08:15:29.579160+00:00",
+  "generatedAt": "2026-10-04T15:13:17.930835+00:00",
   "items": [
     {
-      "id": "d30938703ed8",
+      "id": "319129ee4e0d",
       "editorial": "moda",
       "scope": "internacional",
       "source": "Vogue US",
-      "title": "Hermès Spring 2027 Ready-to-Wear",
+      "title": "Miu Miu Spring 2027 Ready-to-Wear",
       "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ac1264890f283c50041b128/master/pass/00001-hermes-spring-2027-ready-to-wear-credit-gorunway.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/hermes",
+      "image": "https://assets.vogue.com/photos/6ac25ab276e0ee961adf5f0b/master/pass/00001-miu-miu-spring-2027-ready-to-wear-credit-gorunway.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/miu-miu",
+      "mentions": [
+        "Miu Miu"
+      ],
+      "pubDate": "2026-10-04T15:10:17+00:00",
+      "trendingReason": "Repercutindo em 7 veículos"
+    },
+    {
+      "id": "413b7c99bb7b",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Mossi Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6ac263e0b943f68f89b1ae85/master/pass/FIO00003.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/mossi",
+      "mentions": [],
+      "pubDate": "2026-10-04T15:10:17+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "75ab7d6ce771",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Valentino Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6ac25e29b05d20c17d484e3d/master/pass/ALE00031.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/valentino",
+      "mentions": [
+        "Valentino"
+      ],
+      "pubDate": "2026-10-04T15:10:17+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "89d7d9ad87b9",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Akris Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6ac26727d717a6ac83c4f0a8/master/pass/00001-akris-spring-2027-ready-to-wear-credit-gorunway.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/akris",
+      "mentions": [],
+      "pubDate": "2026-10-04T15:10:17+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "542a7b8cbc68",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Niccolò Pasqualetti Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6ac24757177abff9e01875da/master/pass/00001-niccolo%CC%80-pasqualetti-spring-2027-ready-to-wear-credit-gorunway.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/niccolo-pasqualetti",
+      "mentions": [],
+      "pubDate": "2026-10-04T15:10:17+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "485d10098a9e",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Lacoste Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6ac233e14c52c0de8642a686/master/pass/00001-lacoste-spring-2027-ready-to-wear-credit-gorunway.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/lacoste",
+      "mentions": [],
+      "pubDate": "2026-10-04T15:10:17+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "594f5b45c0f8",
+      "editorial": "moda",
+      "scope": "nacional",
+      "source": "Vogue Brasil",
+      "title": "Hermès | Paris | Verão 2027",
+      "excerpt": "Como é a sua ideia de um dia perfeito de verão? Apresentado dentro de uma sala de desfile tão branca como se os convidados estivessem dentro das nuvens, o verão 2027 da Hermèstem como ponto de…",
+      "image": "https://s2-vogue.glbimg.com/xTXGFykYSy28Lqrl8NNdknobjdA=/i.s3.glbimg.com/v1/AUTH_5dfbcf92c1a84b20a5da5024d398ff2f/internal_photos/bs/2026/v/Q/MKfWytSIaFg8ChtxBbvg/hermes-atm-s27-016.jpg",
+      "link": "https://vogue.globo.com/desfiles/noticia/2026/10/hermes-or-paris-or-verao-2027.ghtml",
       "mentions": [
         "Hermès"
       ],
-      "pubDate": "2026-10-04T08:11:10+00:00",
-      "trendingReason": "Repercutindo em 3 veículos"
-    },
-    {
-      "id": "f39fbe5798f8",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Alaïa Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ac1eed512a036415df22296/master/pass/00001-alaia-spring-2027-ready-to-wear-credit-brand.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/azzedine-alaia",
-      "mentions": [],
-      "pubDate": "2026-10-04T08:11:10+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "149ee08d3e3f",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Marine Serre Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ac143ab39b91c662fc175de/master/pass/00001-marine-serre-spring-2027-ready-to-wear-credit-brand.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/marine-serre",
-      "mentions": [],
-      "pubDate": "2026-10-04T08:11:10+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "1f39087a9e31",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Ann Demeulemeester Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ac15c011afd74137e73ddd6/master/pass/00001-ann-demeulemeester-spring-2027-ready-to-wear-credit-gorunway.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/ann-demeulemeester",
-      "mentions": [],
-      "pubDate": "2026-10-04T08:11:10+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "edde7000fcb3",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Celine Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ac12d5b150563bd5082a45a/master/pass/00001-celine-spring-2027-ready-to-wear-credit-brand.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/celine",
-      "mentions": [],
-      "pubDate": "2026-10-04T08:11:10+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "8a1e62c91a4e",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Comme des Garçons Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ac15095255cb44abc30a9b9/master/pass/00001-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/comme-des-garcons",
-      "mentions": [],
-      "pubDate": "2026-10-04T08:11:10+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "41e967ffef09",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue Paris",
-      "title": "Chez Givenchy, Sarah Burton arrondit les angles du tailoring",
-      "excerpt": "Pour le printemps-été 2027, Givenchy assouplit les codes du tailoring tout en affirmant la force et l’assurance de celles qui le portent.",
-      "image": "https://media.vogue.fr/photos/6ac10625baf349309bbe8fef/master/pass/GIVENCHY_SS27_WOMEN_SHOW_LOOK_39.jpg",
-      "link": "https://www.vogue.fr/article/givenchy-printemps-ete-2027",
-      "mentions": [
-        "Givenchy"
-      ],
-      "pubDate": "2026-10-03T13:52:50+00:00",
-      "trendingReason": "Repercutindo em 3 veículos"
+      "pubDate": "2026-10-04T12:07:26+00:00",
+      "trendingReason": "Repercutindo em 4 veículos"
     },
     {
       "id": "2b975e334665",
@@ -109,7 +111,7 @@
         "Loewe"
       ],
       "pubDate": "2026-10-02T19:50:41+00:00",
-      "trendingReason": "Repercutindo em 5 veículos"
+      "trendingReason": "Repercutindo em 4 veículos"
     }
   ]
 }
