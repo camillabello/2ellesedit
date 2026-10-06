@@ -1,72 +1,107 @@
 {
-  "generatedAt": "2026-10-06T13:08:52.598264+00:00",
+  "generatedAt": "2026-10-06T19:23:30.498890+00:00",
   "items": [
     {
-      "id": "3f8a22529f9a",
-      "editorial": "cultura",
+      "id": "e643f12336fc",
+      "editorial": "moda",
       "scope": "internacional",
-      "source": "Nylon",
-      "title": "Parcels Takes Us To Austin City Limits Weekend One",
-      "excerpt": "NYLON goes backstage with Australian pop band Parcels at Weekend One of Austin City Limits 2026.",
-      "image": "https://imgix.bustle.com/uploads/image/2026/10/6/be841ea0/1.jpg?w=1200&fit=max",
-      "link": "https://www.nylon.com/entertainment/parcels-austin-city-limits-2026-tour-diary",
-      "mentions": [],
-      "pubDate": "2026-10-06T13:06:07+00:00",
-      "trendingReason": null
+      "source": "Dazed",
+      "title": "The library is open at Valentino SS27",
+      "excerpt": "Shutting down a Paris library and blasting Troye Sivan on loop, Alessandro Michele presented a party-ready offering while gathering book recs from the front row",
+      "image": null,
+      "link": "https://www.dazeddigital.com/fashion/article/71116/1/the-library-is-open-at-valentino-ss27-paris-fashion-week?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-library-is-open-at-valentino-ss27",
+      "mentions": [
+        "Valentino"
+      ],
+      "pubDate": "2026-10-06T19:23:09.072837+00:00",
+      "trendingReason": "Repercutindo em 3 veículos"
     },
     {
-      "id": "7b2bacf45e3c",
+      "id": "5805ad80f8f0",
       "editorial": "moda",
       "scope": "internacional",
       "source": "Vogue US",
-      "title": "Chanel Spring 2027 Ready-to-Wear",
+      "title": "Louis Vuitton Spring 2027 Ready-to-Wear",
       "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ac4131fe5e0812f4fbf7e5e/master/pass/00001-chanel-spring-2027-ready-to-wear-credit-gorunway.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/chanel",
+      "image": "https://assets.vogue.com/photos/6ac52dac76e41b4d5cf0df85/master/pass/FIO00048.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/louis-vuitton",
+      "mentions": [
+        "Louis Vuitton"
+      ],
+      "pubDate": "2026-10-06T19:17:22+00:00",
+      "trendingReason": "Repercutindo em 5 veículos"
+    },
+    {
+      "id": "4d9293834be5",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Self-Portrait Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6ab66dc3b66ba1d3c6f14e7e/master/pass/00001-self-portrait-spring-2027-ready-to-wear-credit-brand.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/self-portrait",
+      "mentions": [],
+      "pubDate": "2026-10-06T19:17:22+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "8a5fce403deb",
+      "editorial": "moda",
+      "scope": "internacional",
+      "source": "Vogue US",
+      "title": "Tíscar Espadas Spring 2027 Ready-to-Wear",
+      "excerpt": "",
+      "image": "https://assets.vogue.com/photos/6ac4e09f3632eda0dd620412/master/pass/00001-tiscar-espadas-spring-2027-ready-to-wear-spain-credit-brand.jpg",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/tiscar-espadas",
+      "mentions": [],
+      "pubDate": "2026-10-06T19:17:22+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "661be280c9e0",
+      "editorial": "beleza",
+      "scope": "internacional",
+      "source": "Harper's Bazaar US",
+      "title": "The Clever Hair Detail You May Have Missed at Chanel’s Spring/Summer 2027 Runway Show",
+      "excerpt": "Croissant bun or bird’s-nest bun? This genius updo took flight on the fashion house’s runway",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/e921acc9-833b-4a9c-9dd9-41364f8f3573.jpg",
+      "link": "https://www.harpersbazaar.com/beauty/hair/a74050313/chanel-spring-2027-runway-hair/",
       "mentions": [
         "Chanel"
       ],
-      "pubDate": "2026-10-06T13:05:30+00:00",
-      "trendingReason": "Repercutindo em 10 veículos"
+      "pubDate": "2026-10-06T18:10:54+00:00",
+      "trendingReason": "Repercutindo em 9 veículos"
     },
     {
-      "id": "c3e5e09cf70b",
+      "id": "6ede1d36142c",
       "editorial": "moda",
       "scope": "internacional",
-      "source": "Vogue US",
-      "title": "CFCL Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ac4e4b0f407329037d38818/master/pass/ALE00012.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/cfcl",
-      "mentions": [],
-      "pubDate": "2026-10-06T13:05:30+00:00",
-      "trendingReason": null
+      "source": "Vogue Paris",
+      "title": "Zendaya débarque au défilé Louis Vuitton en veste de mariée",
+      "excerpt": "Zendaya poursuit son ère bridal après le film The Drama et son mariage avec Tom Holland. Elle prolonge l’exploration du vestiaire nuptial chez Louis Vuitton.",
+      "image": "https://media.vogue.fr/photos/6ac53714dc260140e069674b/master/pass/2298921039",
+      "link": "https://www.vogue.fr/article/zendaya-veste-mariee-defile-louis-vuitton-printemps-ete-2027",
+      "mentions": [
+        "Zendaya",
+        "Louis Vuitton"
+      ],
+      "pubDate": "2026-10-06T18:03:32+00:00",
+      "trendingReason": "Repercutindo em 4 veículos"
     },
     {
-      "id": "216edcca6fc2",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Christopher Esber Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ac4d7fafdbd564e79ffe450/master/pass/ISI00009.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/christopher-esber",
-      "mentions": [],
-      "pubDate": "2026-10-06T13:05:30+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "affc07e1f02c",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Rahul Mishra AFEW Spring 2027 Ready-to-Wear",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6abf9058dd31b9828e5a8233/master/pass/00001-rahul-mishra-afew-spring-2027-ready-to-wear-credit-brand.jpg",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/rahul-mishra-afew",
-      "mentions": [],
-      "pubDate": "2026-10-06T13:05:30+00:00",
-      "trendingReason": null
+      "id": "333d283b8a12",
+      "editorial": "beleza",
+      "scope": "nacional",
+      "source": "Vogue Brasil",
+      "title": "EXCLUSIVO: Dior abre seu primeiro spa na América Latina no hotel Copacabana Palace",
+      "excerpt": "Com seis salas de tratamento, o espaço vai combinar protocolos clássicos da casa francesa a experiências exclusivas desenvolvidas especialmente para o público brasileiro, com curadoria da médica…",
+      "image": "https://s2-vogue.glbimg.com/cqIRdOtn1f0z7vL7lv75iRRd9kg=/i.s3.glbimg.com/v1/AUTH_5dfbcf92c1a84b20a5da5024d398ff2f/internal_photos/bs/2026/d/M/nfGHUyQSySxB2nmiA8kQ/spa-copacabana-palace-3-1-.jpg-1-.jpeg",
+      "link": "https://vogue.globo.com/beleza/noticia/2026/10/exclusivo-dior-abre-seu-primeiro-spa-na-america-latina-no-hotel-copacabana-palace.ghtml",
+      "mentions": [
+        "Dior"
+      ],
+      "pubDate": "2026-10-06T13:22:31+00:00",
+      "trendingReason": "Repercutindo em 3 veículos"
     },
     {
       "id": "884bc374f02f",
@@ -82,36 +117,6 @@
         "Miu Miu"
       ],
       "pubDate": "2026-10-06T12:38:11+00:00",
-      "trendingReason": "Repercutindo em 4 veículos"
-    },
-    {
-      "id": "5e113d5be908",
-      "editorial": "moda",
-      "scope": "internacional",
-      "source": "Vogue UK",
-      "title": "This Dior Publicist Held A Fairytale Wedding At Ancient Convent In The Italian Lakes",
-      "excerpt": "After a surprise proposal in New York’s Central Park – and a cross-border quest for the perfect dress – this bride’s dream wedding came to life in the hills near Lake Garda.",
-      "image": "https://media.vogue.co.uk/photos/6ac4ac6894ff6817bcc63f5e/master/pass/B+J0686.jpg",
-      "link": "https://www.vogue.co.uk/gallery/bea-ferrari-jacob-bearman-wedding",
-      "mentions": [
-        "Dior"
-      ],
-      "pubDate": "2026-10-06T10:46:36+00:00",
-      "trendingReason": "Repercutindo em 3 veículos"
-    },
-    {
-      "id": "815caf6ff160",
-      "editorial": "moda",
-      "scope": "nacional",
-      "source": "Elle Brasil",
-      "title": "PFW: Valentino, verão 2027",
-      "excerpt": "Desfilada entre as estantes de uma biblioteca parisiense, a coleção de verão 2027 da Valentino remixa o visual aristocrata com cores fortes, ornamentação, casualidade e sensualidade.",
-      "image": "https://images.elle.com.br/2026/10/003_Valentino_Verao_2027-Grande-620x840.jpeg",
-      "link": "https://elle.com.br/desfiles/pfw-valentino-verao-2027",
-      "mentions": [
-        "Valentino"
-      ],
-      "pubDate": "2026-10-04T20:42:12+00:00",
       "trendingReason": "Repercutindo em 4 veículos"
     }
   ]
