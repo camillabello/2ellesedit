@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T05:59:32.832673+00:00",
+  "generatedAt": "2026-11-06T14:08:57.437708+00:00",
   "items": [
     {
       "id": "c487c17b8e8a",
@@ -11,7 +11,7 @@
       "image": "https://assets.vogue.com/photos/6aecdb3998510106bb322840/master/pass/00001-simkhai-pre-fall-2027-menswear-credit-brand.jpg",
       "link": "https://www.vogue.com/fashion-shows/pre-fall-2027-menswear/jonathan-simkhai",
       "mentions": [],
-      "pubDate": "2026-11-06T05:56:43+00:00",
+      "pubDate": "2026-11-06T14:08:15+00:00",
       "trendingReason": null
     },
     {
@@ -24,62 +24,79 @@
       "image": "https://assets.vogue.com/photos/6aec53227cd92884d451339d/master/pass/00001-cult-gaia-resort-2027-credit-brand.jpg",
       "link": "https://www.vogue.com/fashion-shows/resort-2027/cult-gaia",
       "mentions": [],
-      "pubDate": "2026-11-06T05:56:43+00:00",
+      "pubDate": "2026-11-06T14:08:15+00:00",
       "trendingReason": null
     },
     {
-      "id": "ad920263d640",
-      "editorial": "moda",
+      "id": "b5bd611d1cf4",
+      "editorial": "lifestyle",
+      "scope": "internacional",
+      "source": "Vogue Paris",
+      "title": "Megève : 6 chalets à louer sur Airbnb",
+      "excerpt": "Alors que la saison des sports d’hiver débutera dans quelques semaines, zoom sur les plus beaux chalets perchés sur les hauteurs de Megève, à louer sur Airbnb.",
+      "image": "https://media.vogue.fr/photos/61b89f763c5a27c6435272eb/master/pass/Chalet-St-Jose%CC%81.jpg",
+      "link": "https://www.vogue.fr/lifestyle/article/airbnb-chalets-megeve",
+      "mentions": [],
+      "pubDate": "2026-11-06T14:05:57+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "21f370a9a2f2",
+      "editorial": "cultura",
+      "scope": "internacional",
+      "source": "Nylon",
+      "title": "Tove Styrke’s New Album Inspirations: David Lynch, Lars von Trier, Prada & More",
+      "excerpt": "Swedish pop star Tove Styrke unpacks the inspirations behind her new album, ‘I Thought This Story Wasn’t About Me.’",
+      "image": "https://imgix.bustle.com/uploads/image/2026/11/4/bc1600de/nylon_tove-v3.jpg?w=1200&fit=max",
+      "link": "https://www.nylon.com/entertainment/tove-styrke-new-album-i-thought-this-story-wasnt-about-me-inspirations-moodboard",
+      "mentions": [
+        "Prada"
+      ],
+      "pubDate": "2026-11-06T14:00:24+00:00",
+      "trendingReason": null
+    },
+    {
+      "id": "5d4a12299888",
+      "editorial": "cultura",
       "scope": "internacional",
       "source": "Vogue US",
-      "title": "Christie Brown Lagos Spring 2027",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6aecb1750de269a6d8729484/master/pass/00001-christie-brown-spring-2027-ready-to-wear-lagos-credit-kola-oshalusi.jpg",
-      "link": "https://www.vogue.com/fashion-shows/lagos-spring-2027/christie-brown",
+      "title": "Aryna Sabalenka, Coco Gauff, Mirra Andreeva, and More on Winning, Losing, Living, and Dreaming",
+      "excerpt": "With the WTA Finals about to kick off in Indian Wells, we gathered the top eight stars in women’s tennis to dish on their years and their lives.",
+      "image": "https://assets.vogue.com/photos/6aed3513ae6d92c59d35164f/master/pass/20261104_WTA_Portraits_Group-2_0110_V1b.jpg",
+      "link": "https://www.vogue.com/article/wta-finals-fashion-2026",
       "mentions": [],
-      "pubDate": "2026-11-06T05:56:43+00:00",
+      "pubDate": "2026-11-06T14:00:00+00:00",
       "trendingReason": null
     },
     {
-      "id": "8d85a38daf46",
+      "id": "503a3e07124d",
       "editorial": "moda",
       "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Kilentar Lagos Spring 2027",
-      "excerpt": "",
-      "image": "https://assets.vogue.com/photos/6ae8586ea0a1a79055fc0102/master/pass/00001-kilentar-spring-2027-ready-to-wear-lagos-credit-brand.jpg",
-      "link": "https://www.vogue.com/fashion-shows/lagos-spring-2027/kilentar",
-      "mentions": [],
-      "pubDate": "2026-11-06T05:56:43+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "b9f5fda7ec19",
-      "editorial": "beleza",
-      "scope": "internacional",
-      "source": "Vogue US",
-      "title": "Elf Beauty CEO on Gen Alpha, Record Sales and Cracking the US",
-      "excerpt": "After cracking the US with a clear value proposition that seduced Gen Z, CEO Tarang Amin is looking to spread Elf’s retail footprint further afield. His next bets? Gen Alpha, haircare, and a global…",
-      "image": "https://assets.vogue.com/photos/6aece9e8d72c41a60ba2e385/master/pass/-story.jpg",
-      "link": "https://www.vogue.com/article/elf-beauty-ceo-on-gen-alpha-record-sales-and-cracking-the-us",
-      "mentions": [],
-      "pubDate": "2026-11-06T05:30:00+00:00",
-      "trendingReason": null
-    },
-    {
-      "id": "e54e14488153",
-      "editorial": "moda",
-      "scope": "nacional",
-      "source": "Harper's Bazaar Brasil",
-      "title": "“Eu vi Pierpaolo chegar e sair da Balenciaga. O que aconteceu?”",
-      "excerpt": "Que estranho… Que confusão! Vi e vivi tudo de perto e ainda (quase) não entendi. Eu estava lá quando Pierpaolo Piccioli estreou na Balenciaga. Aliás, também estava quando Demna saiu. Aquele punk todo…",
-      "image": "https://harpersbazaar.uol.com.br/wp-content/uploads/2026/11/moda-balenciaga-pierpaolo-piccioli-harpers-bazaar-brasil-2026-10-scaled.png",
-      "link": "https://harpersbazaar.uol.com.br/moda/eu-vi-pierpaolo-chegar-e-sair-da-balenciaga-o-que-aconteceu/",
+      "source": "Elle US",
+      "title": "Martine Rose Is Balenciaga’s New Creative Director—and the First Woman to Lead the House",
+      "excerpt": "The London designer consulted on menswear at the brand under Demna’s tenure.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/f7500c2c-bd59-4df8-90c2-76640c6e0b9d.jpg",
+      "link": "https://www.elle.com/fashion/a74231314/martine-rose-balenciaga-creative-director-news/",
       "mentions": [
         "Balenciaga"
       ],
-      "pubDate": "2026-11-05T20:23:44+00:00",
-      "trendingReason": "Repercutindo em 9 veículos"
+      "pubDate": "2026-11-06T13:56:56+00:00",
+      "trendingReason": "Repercutindo em 13 veículos"
+    },
+    {
+      "id": "3fde40870687",
+      "editorial": "em-pauta",
+      "scope": "internacional",
+      "source": "Vogue Paris",
+      "title": "Le nouveau gouverneur de l'Iowa a-t-il défilé pour Prada ?",
+      "excerpt": "Au début des années 2000, alors qu'il était étudiant à l'université, Rob Sand, futur gouverneur de l'Iowa, a mené une brillante carrière de mannequin sur les podiums de Paris et de Milan.",
+      "image": "https://media.vogue.fr/photos/6aeda7f0d8895f8306c336bb/master/pass/1524917437",
+      "link": "https://www.vogue.fr/article/rob-sand-gouverneur-elu-liowa-prada",
+      "mentions": [
+        "Prada"
+      ],
+      "pubDate": "2026-11-06T11:14:15+00:00",
+      "trendingReason": "Repercutindo em 3 veículos"
     },
     {
       "id": "1088c88e666b",
@@ -95,24 +112,7 @@
         "Balenciaga"
       ],
       "pubDate": "2026-11-05T20:18:29+00:00",
-      "trendingReason": "Repercutindo em 10 veículos"
-    },
-    {
-      "id": "5feca459fbe0",
-      "editorial": "cultura",
-      "scope": "internacional",
-      "source": "Vogue Paris",
-      "title": "Voici les plus beaux films de Noël 2026 des plus grandes maisons, de Burberry à Prada et Gucci",
-      "excerpt": "Tim Burton chez Loewe, Harmony Korine chez Gucci, Catherine Deneuve chez Ami Paris… Pour les fêtes de fin d'année, les maisons de mode troquent les campagnes classiques contre de véritables…",
-      "image": "https://media.vogue.fr/photos/6aec8e4c962f44361d446d2f/master/pass/burberry_festive_2026_campaign_stills_4_.jpg",
-      "link": "https://www.vogue.fr/article/collections-film-fete-fin-annee-noel-nouvel-an",
-      "mentions": [
-        "Prada",
-        "Gucci",
-        "Burberry"
-      ],
-      "pubDate": "2026-11-05T15:13:11+00:00",
-      "trendingReason": "Repercutindo em 3 veículos"
+      "trendingReason": "Repercutindo em 5 veículos"
     }
   ]
 }
